@@ -1,5 +1,27 @@
 /**
-* Reads input from the file
+
+script.js
+
+Computer Science
+Data Processing Part 2
+
+JavaScript for showing the data in a line graph
+
+Sanne Strikkers
+11170816
+
+*/
+
+
+// Part 1: JavaScript
+
+
+var global = [];
+var xPadding = 30;
+var yPadding = 30;
+
+/**
+* Reads input from a file
 */
 function getFile() {
     var file = new XMLHttpRequest();
@@ -7,7 +29,7 @@ function getFile() {
     file.addEventListener('load', format);
     file.send();
 }
-var global = [];
+
 /**
 * Formats the input file's text and saves it in an array
 */
@@ -27,12 +49,19 @@ function format() {
             var day = date[0].substring(6,8);
             date[0] = year + month + day;
 			
+            // add all the information in an array
             output.push([new Date(date[0]), temp]);
 		}
+    // set the array global
     global = output;
-    draw(output);
+    draw();
 }
 
+/**
+* The position encodings for this graph only need linear transforms, 
+* one for the x-axis and one for the y-axis, of the following form: 
+* xscreen = alpha * xdata + beta
+*/
 function createTransform(domain, range){
     // domain is a two-element array of the data bounds [domain_min, domain_max]
     // range is a two-element array of the screen bounds [range_min, range_max]
@@ -47,7 +76,6 @@ function createTransform(domain, range){
     var range_max = range[1];
 
     var beta = (range_max / domain_max - range_min / domain_min) * (domain_min * domain_max) / (domain_min - domain_max);
-
     var alpha = (range_min - beta) / domain_min;
 	
 	return function(x){
@@ -55,19 +83,18 @@ function createTransform(domain, range){
 	};
 }
 
-function draw(data) {
+/**
+* Draws the complete line graph on a canvas
+*/
+function draw() {
     var canvas = document.getElementById('mycanvas');
     var ctx = canvas.getContext('2d');
     var months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
     
-    // padding
-    var xPadding = 30;
-    var yPadding = 30;
-    
     // get graph
     var transform = createTransform([-28, 270], [canvas.width, canvas.height]);
     // points
-    var point = (canvas.width - xPadding) / data.length;
+    var point = (canvas.width - xPadding) / global.length;
 
     
     // lines of the graph
@@ -81,7 +108,7 @@ function draw(data) {
     ctx.textAlign = "right"
     ctx.textBaseline = "middle";
     
-    for(var i = -50; i < data.length; i += 10) {
+    for(var i = -50; i < global.length; i += 10) {
         ctx.fillText(i, xPadding - 10, transform(i) - (canvas.height - 30));
         
         // line
@@ -91,27 +118,33 @@ function draw(data) {
     }
     
     // x-axis
-    for(var i = 0; i < (data.length); i+= 31) {
-        ctx.fillText(months[data[i][0].getMonth()], (xPadding + i * point) + xPadding, canvas.height - yPadding + 20);
+    for(var i = 0; i < (global.length); i+= 31) {
+        ctx.fillText(months[global[i][0].getMonth()], (xPadding + i * point) + xPadding, canvas.height - yPadding + 20);
     }
     
-    ctx.strokeStyle = '#f00';
-                
     // draw the line graph
+    ctx.strokeStyle = '#f00';
     ctx.beginPath();
-    ctx.moveTo(xPadding, transform(data[0][1]) - (canvas.height - yPadding));
+    ctx.moveTo(xPadding, transform(global[0][1]) - (canvas.height - yPadding));
     
-    for(var i = 0; i < data.length; i++) {
-        var y = transform(data[i][1]);
+    for(var i = 0; i < global.length; i++) {
+        var y = transform(global[i][1]);
         ctx.lineTo((xPadding + i * point),  y - (canvas.height - yPadding));
         console.log("y: " + (y - (canvas.height - yPadding)));
     }
     ctx.stroke();
 }
 
+// draw the complete line graph on the canvas
 getFile();
 
-// part 2
+
+// Part 2: Interactivity in Javascript
+
+
+/**
+* Get the x and y from the cursor
+*/
 function getMousePos(canvas, evt) {
     var rect = canvas.getBoundingClientRect();
     return {
@@ -120,28 +153,24 @@ function getMousePos(canvas, evt) {
     };
 }
 
+// the canvas for drawing the lines on
 var canvas = document.getElementById('cross-canvas');
 var context = canvas.getContext('2d');
 
+// listener to draw the vertical en horizontal lines
 canvas.addEventListener('mousemove', function(evt) {
     var mousePos = getMousePos(canvas, evt);
-    var message = 'Mouse position: ' + mousePos.x + ',' + mousePos.y;
+    
+    // clear the previous line on the screen
     context.clearRect(0,0,canvas.width,canvas.height);
     
-    // get graph
-    var transform = createTransform([-28, 270], [canvas.width, canvas.height]);
-    var point = (canvas.width - 30) / global.length;
-    var y = transform(mousePos.y);
-
-    console.log("y2: " + y + ",  " + mousePos.y);
-    
-    // horizontal
+    // horizontal line
     context.beginPath();
     context.moveTo(30, mousePos.y);
     context.lineTo(canvas.width, mousePos.y);
     context.stroke();
 
-    // vertical
+    // vertical line
     context.beginPath();
     context.moveTo(mousePos.x, canvas.height - 30);
     context.lineTo(mousePos.x, 0);
@@ -151,6 +180,5 @@ canvas.addEventListener('mousemove', function(evt) {
     var circle = new Path2D();
     circle.arc(mousePos.x, mousePos.y, 5, 0, 2 * Math.PI);
     context.fill(circle);
-    
     
 }, false);
