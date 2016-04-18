@@ -1,3 +1,16 @@
+/*
+country_codes.js
+
+Computer Science
+Data Processing Part 2
+
+Countries with their country codes
+
+Sanne Strikkers
+11170816
+*/
+
+
 // List of ISO 3166-1 alpha 2 country codes and
 // their respective alpha 3 country codes and country names.
 var country_codes = [

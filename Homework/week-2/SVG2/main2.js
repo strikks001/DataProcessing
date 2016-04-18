@@ -1,11 +1,11 @@
 /**
 
-main1.js
+main2.js
 
 Computer Science
 Data Processing Part 2
 
-JavaScript to change colors
+JavaScript to create a map and fill it with colors
 
 Sanne Strikkers
 11170816

@@ -1,3 +1,14 @@
+#script.py
+#
+#Computer Science
+#Data Processing Part 2
+#
+#Script to convert a csv file to JSON
+#
+#Sanne Strikkers
+#11170816
+
+
 import csv, sys, json
 
 # open csv file and read it into a dictionary
