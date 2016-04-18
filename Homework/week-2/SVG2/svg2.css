@@ -1,15 +1,19 @@
+body {
+    margin: 20px;
+}
+
 /*
  * Circles around small countries
  *
  * Change opacity to 1 to display all circles.
  *
  */
-.circlexx
-{
-   opacity:0;
-   fill:#e0e0e0;
-   stroke:#000000;
-   stroke-width:0.5;
+
+.circlexx {
+    opacity: 0;
+    fill: #e0e0e0;
+    stroke: #000000;
+    stroke-width: 0.5;
 }
 
 /*
@@ -18,10 +22,10 @@
  * Change opacity to 1 to display all subnational circles.
  *
  */
-.subxx
-{
-   opacity:0;
-   stroke-width:0.3;
+
+.subxx {
+    opacity: 0;
+    stroke-width: 0.3;
 }
 
 /*
@@ -30,12 +34,12 @@
  * Change opacity to 1 to display all circles.
  *
  */
-.unxx
-{
-   opacity:0;
-   fill:#e0e0e0;
-   stroke:#000000;
-   stroke-width:0.3;
+
+.unxx {
+    opacity: 0;
+    fill: #e0e0e0;
+    stroke: #000000;
+    stroke-width: 0.3;
 }
 
 /*
@@ -44,89 +48,89 @@
  * Change opacity to 1 to display all circles.
  *
  */
-.noxx
-{
-   opacity:0;
-   fill:#e0e0e0;
-   stroke:#000000;
-   stroke-width:0.5;
-}
 
-/*
- * land
- */
-.landxx
-{
-   fill: #e0e0e0;
-   stroke:#ffffff;
-   stroke-width:0.5;
-   fill-rule:evenodd;
-}
-
-/*
- * Styles for coastlines of islands with no borders
- */
-.coastxx
-{
-   fill: #e0e0e0;
-   stroke:#ffffff;
-   stroke-width:0.3;
-   fill-rule:evenodd;
-}
-
-/*
- * Styles for nations with limited recognition
- */
-.limitxx
-{
-   fill: #e0e0e0;
-   stroke:#ffffff;
-   stroke-width:0;
-   fill-rule:evenodd;
+.noxx {
+    opacity: 0;
+    fill: #e0e0e0;
+    stroke: #000000;
+    stroke-width: 0.5;
 }
 
 /*
  * Styles for nations with no permanent population.
  */
-.antxx
-{
-   fill: #e0e0e0;
-   stroke:#ffffff;
-   stroke-width:0;
-   fill-rule:evenodd;
+
+.antxx {
+    fill: grey;
+    stroke: #ffffff;
+    stroke-width: 0;
+    fill-rule: evenodd;
 }
 
 /*
  * Ocean
  */
-.oceanxx
-{
-   opacity: 1;
-   color: #000000;
-   fill:#ffffff;
-   stroke:#000;
-   stroke-width:0.5;
-   stroke-miterlimit:1;
+
+.oceanxx {
+    opacity: 1;
+    color: #000000;
+    fill: #ffffff;
+    stroke: #000;
+    stroke-width: 0.5;
+    stroke-miterlimit: 1;
 }
 
 /*
- * Additional style rules
- *
- * The following are examples of colouring countries.  You can substitute these with your own styles to colour the countries on the map.
- *
- * Color a few countries:
- *
- * .gb, .au, .nc
- * {
- *    fill:       #ff0000;
- * }
- *
- * Color a few small country circles (and the countries):
- *
- * .ms, .ky
- * {
- *    opacity:    1;
- *    fill:       #ff0000;
- * }
- *
- */
+* Text setup
+*/
+
+h1 {
+    text-align: center;
+}
+.explain {
+    margin-right: 10%;
+}
+
+/*
+* Legend setup
+*/
+
+.my-legend {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 100%;
+}
+.my-legend .legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+}
+.my-legend .legend-scale ul li {
+    display: block;
+    float: left;
+    width: 100px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+}
+.my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 100px;
+}
+.my-legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+}
+.my-legend a {
+    color: #777;
+}
