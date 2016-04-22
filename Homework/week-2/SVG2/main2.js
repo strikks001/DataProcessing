@@ -55,6 +55,7 @@ function setup() {
     loadJSON(function (response) {
         // parse response to a JSON object
         jsonresponse = JSON.parse(response);
+        
         // adding colors by given data
         for (var i = 0; i < jsonresponse.length; i++) {
             if (jsonresponse[i].data >= 1000000000) {
