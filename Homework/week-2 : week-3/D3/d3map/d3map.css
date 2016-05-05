@@ -1,0 +1,26 @@
+/**
+
+d3map.css
+
+Computer Science 50
+D3 Map
+
+CSS to style a map
+
+Sanne Strikkers
+11170816
+
+*/
+
+
+/*
+    Letter styles 
+*/
+
+h1 {
+    font: 30px sans-serif;
+    font-weight: bold;
+}
+.title {
+    text-align: center;
+}

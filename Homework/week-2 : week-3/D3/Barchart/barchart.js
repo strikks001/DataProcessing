@@ -12,6 +12,7 @@ Sanne Strikkers
 
 */
 
+// marigin values for the chart
 var margin = {
         top: 20,
         right: 20,
@@ -24,22 +25,27 @@ var margin = {
 // Parse the date / time
 var parseDate = d3.time.format("%Y-%m-%d").parse;
 
+// x coordinates
 var x = d3.time.scale()
     .range([0, width]);
 
+// y coorditnates
 var y = d3.scale.linear()
     .range([height, 0]);
 
+// setting up the x axis
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom")
     .tickFormat(d3.time.format("%Y-%m-%d"));
 
+// setting up the y axis
 var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left")
     .ticks(15);
 
+// setting up the chart
 var svg = d3.select("body").append("svg")
     .attr("class", "chart")
     .attr("width", width + margin.left + margin.right)
@@ -53,9 +59,11 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
+// open the data from the local tsv file
 d3.tsv("weather_schiphol.tsv", function (error, data) {
     if (error) throw error;
 
+    // convert the date to specific format and get temperature
     data.forEach(function (d) {
         var year = d.date.substring(0, 4);
         year += "-"
@@ -67,26 +75,29 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         d.temp = +d.temp;
     });
 
-
+    // minimum temperature
     var min = d3.min(data.map(function (d) {
         return d.date;
     }));
+    // maximum temperature
     var max = d3.max(data.map(function (d) {
         return d.date;
     }));
-    
+
+    // set the range for the x and y axis
     x.domain([min, max]);
-    
     y.domain([-40, d3.max(data, function (d) {
         return d.temp;
     })]);
-    
+
+    // making the bars better by adding a space between them
     var fakeXScale = d3.scale.ordinal()
-    .domain(data.map(function (d) {
-        return d.date;
-    }))
-    .rangeBands([0, width], 0.4, 0);
-    
+        .domain(data.map(function (d) {
+            return d.date;
+        }))
+        .rangeBands([0, width], 0.4, 0);
+
+    // add the x-axis
     svg.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
@@ -97,6 +108,7 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         .attr("dy", "-.55em")
         .attr("transform", "rotate(-90)");
 
+    // add the y-axis
     svg.append("g")
         .attr("class", "y axis")
         .call(yAxis)
@@ -107,7 +119,7 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         .style("text-anchor", "end")
         .text("Temperature");
 
-    // bar
+    // add the bars and toolbars
     svg.selectAll("bar")
         .data(data)
         .enter().append("rect")
@@ -115,9 +127,9 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         .attr("x", function (d) {
             return x(d.date);
         })
-        .attr("width", function() {
-         return fakeXScale.rangeBand();
-      })
+        .attr("width", function () {
+            return fakeXScale.rangeBand();
+        })
         .attr("y", function (d) {
             return y(d.temp);
         })
