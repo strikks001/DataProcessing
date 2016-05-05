@@ -18,22 +18,21 @@ var margin = {
         bottom: 70,
         left: 40
     },
-    width = 7000 - margin.left - margin.right,
+    width = 1200 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
 // Parse the date / time
 var parseDate = d3.time.format("%Y-%m-%d").parse;
 
-var x = d3.scale.ordinal()
-        .domain([1, 2, 3])
-        .rangeRoundBands([0, width], .05);
+var x = d3.time.scale()
+    .range([0, width]);
 
-var y = d3.scale.linear().range([height, 0]);
+var y = d3.scale.linear()
+    .range([height, 0]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom")
-.ticks(10)
     .tickFormat(d3.time.format("%Y-%m-%d"));
 
 var yAxis = d3.svg.axis()
@@ -42,6 +41,7 @@ var yAxis = d3.svg.axis()
     .ticks(15);
 
 var svg = d3.select("body").append("svg")
+    .attr("class", "chart")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
@@ -49,8 +49,8 @@ var svg = d3.select("body").append("svg")
         "translate(" + margin.left + "," + margin.top + ")");
 
 // Define the div for the tooltip
-var div = d3.select("body").append("div")	
-    .attr("class", "tooltip")				
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
     .style("opacity", 0);
 
 d3.tsv("weather_schiphol.tsv", function (error, data) {
@@ -67,13 +67,26 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         d.temp = +d.temp;
     });
 
-    x.domain(data.map(function (d) {
+
+    var min = d3.min(data.map(function (d) {
         return d.date;
     }));
+    var max = d3.max(data.map(function (d) {
+        return d.date;
+    }));
+    
+    x.domain([min, max]);
+    
     y.domain([-40, d3.max(data, function (d) {
         return d.temp;
     })]);
-
+    
+    var fakeXScale = d3.scale.ordinal()
+    .domain(data.map(function (d) {
+        return d.date;
+    }))
+    .rangeBands([0, width], 0.4, 0);
+    
     svg.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
@@ -102,25 +115,27 @@ d3.tsv("weather_schiphol.tsv", function (error, data) {
         .attr("x", function (d) {
             return x(d.date);
         })
-        .attr("width", x.rangeBand())
+        .attr("width", function() {
+         return fakeXScale.rangeBand();
+      })
         .attr("y", function (d) {
             return y(d.temp);
         })
         .attr("height", function (d) {
             return height - y(d.temp);
         })
-        .on("mouseover", function(d) {		
-            div.transition()		
-                .duration(200)		
-                .style("opacity", .9);		
-            div	.html(d.temp)	
-                .style("left", (d3.event.pageX) + "px")		
-                .style("top", (d3.event.pageY - 30) + "px");	
-            })					
-        .on("mouseout", function(d) {		
-            div.transition()		
-                .duration(500)		
-                .style("opacity", 0);	
+        .on("mouseover", function (d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div.html("Temperature: <strong>" + d.temp + "</strong><br>Date: <strong>" + d.date.toDateString() + "</strong>")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 30) + "px");
+        })
+        .on("mouseout", function (d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
         })
 
 });

@@ -12,6 +12,33 @@ Sanne Strikkers
 
 */
 
+
+/*
+    Letter styles 
+*/
+
+h1 {
+    font: 30px sans-serif;
+    font-weight: bold;
+}
+.title {
+    text-align: center;
+}
+
+/*
+    Barchart 
+*/
+
+.chart {
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+
+/*
+    X-axis and Y-axis 
+*/
+
 .axis {
     font: 10px sans-serif;
 }
@@ -21,21 +48,31 @@ Sanne Strikkers
     stroke: #000;
     shape-rendering: crispEdges;
 }
+
+/*
+    The bars in the chart 
+*/
+
 .bar {
     fill: #0AB3DD;
 }
 .bar:hover {
     fill: #006F8B;
 }
-div.tooltip {	
-    position: absolute;			
-    text-align: center;	
-    vertical-align:middle;
-    width: 45px;					
-    height: 15px;					
+
+/*
+    Tooltip 
+*/
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    width: 150px;
+    height: 30px;
     padding: 5px;
     font: 12px sans-serif;
     color: white;
-    background: #6A6A6A;		
-    pointer-events: none;			
+    background: #6A6A6A;
+    pointer-events: none;
 }
