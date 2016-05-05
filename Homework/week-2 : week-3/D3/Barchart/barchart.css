@@ -1,0 +1,41 @@
+/**
+
+barchart.css
+
+Computer Science 50
+Barchart
+
+CSS to style a barchart
+
+Sanne Strikkers
+11170816
+
+*/
+
+.axis {
+    font: 10px sans-serif;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.bar {
+    fill: #0AB3DD;
+}
+.bar:hover {
+    fill: #006F8B;
+}
+div.tooltip {	
+    position: absolute;			
+    text-align: center;	
+    vertical-align:middle;
+    width: 45px;					
+    height: 15px;					
+    padding: 5px;
+    font: 12px sans-serif;
+    color: white;
+    background: #6A6A6A;		
+    pointer-events: none;			
+}
