@@ -59,7 +59,7 @@ map.legend({
     }
 });
 
-// get data from json file
+// get data from json file and update the map with these values
 d3.json("data.json", function (error, data) {
     if (error) throw error;
     data.forEach(function (d) {

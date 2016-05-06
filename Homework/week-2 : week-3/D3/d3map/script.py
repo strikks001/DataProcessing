@@ -47,8 +47,6 @@ for index in range(len(mydict)):
         data_list.append({code: {"fillKey": "l3", "country": country, "population": population}})
     elif (population < 500):
         data_list.append({code: {"fillKey": "l2", "country": country, "population": population}})
-
-
         
 # convert the list to JSON format
 json_str = json.dumps(data_list, sort_keys=True, indent=4, ensure_ascii=False)

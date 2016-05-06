@@ -5,7 +5,7 @@ index.html
 Computer Science 50
 D3 Map
 
-Showing a barchart
+Showing a World Map
 
 Sanne Strikkers
 11170816
@@ -21,30 +21,38 @@ Sanne Strikkers
     <!-- JavaScript D3 library -->
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="http://d3js.org/topojson.v1.min.js"></script>
-    <!-- app's own CSS -->
-    <link href="d3map.css" rel="stylesheet" />
+
     <!-- the underscore.js library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore.js" type="text/javascript"></script>
+
+    <!-- app's own CSS -->
+    <link href="d3map.css" rel="stylesheet" />
 
     <title>D3 Map</title>
 </head>
 
 <body>
+    <!-- Title section -->
     <div class="title">
         <h1>World Population in 2011</h1>
     </div>
+    <!-- End of title section -->
 
+    <!-- World Map -->
     <div id="container1" style="height: 500px; width: 960px; display: block; margin: auto;"></div>
 
+    <!-- Explanation of the map -->
     <div class="explanation">
         <p>
-            <strong>What kind of mouseover effects did you enable and why?</strong><br>
-            Ik heb gekozen om de highlightBorderWidth, highlightBorderColor en highlightFillColor te veranderen. Daarnaast heb ik ook gekozen om de tool-tip te veranderen qua kleur en lettertype. Wanneer men over een land heen gaat is het bijna noodzakelijk om de kleur te veranderen. Men moet weten waar de muis zich bevindt. Daarvoor heb ik de kleur roze/paars gebruikt, zodat het nog wel in het kleuren plaatje past. De border verandert naar grijs en wordt iets dikker. Zodat het wat duidelijker wordt bij welk land men zich bevindt. Ook heb ik er voor gekozen om de tool-tip aan te passen naar grijs met witte letters. Dit is gekozen, omdat dit meer bij de kleuren past die zijn gekozen. Grijs en wite zijn neutrale kleuren die eigenlijk wel bij alle kleuren past.
+            <strong>What kind of mouseover effects did you enable and why?</strong>
+            <br> Ik heb gekozen om de highlightBorderWidth, highlightBorderColor en highlightFillColor te veranderen. Daarnaast heb ik ook gekozen om de tool-tip te veranderen qua kleur en lettertype. Wanneer men over een land heen gaat is het bijna noodzakelijk om de kleur te veranderen. Men moet weten waar de muis zich bevindt. Daarvoor heb ik de kleur roze/paars gebruikt, zodat het nog wel in het kleuren plaatje past. De border verandert naar grijs en wordt iets dikker. Zodat het wat duidelijker wordt bij welk land men zich bevindt. Ook heb ik er voor gekozen om de tool-tip aan te passen naar grijs met witte letters. Dit is gekozen, omdat dit meer bij de kleuren past die zijn gekozen. Grijs en wite zijn neutrale kleuren die eigenlijk wel bij alle kleuren past.
         </p>
-        <p><
-            strong>What visual queries does your map support and what ones does it not?</strong><br>
+        <p>
+            <strong>What visual queries does your map support and what ones does it not?</strong>
+            <br> Kleuren zijn oplopend. Van licht roze naar donker rood met verschillende tintsoorten. Ik heb hiervoor gekozen, omdat men een duidelijk beeld heeft wat weinig inwoners kan betekenen en wat veel inwoners kan betekenen. Rood is een primaire kleur wat duidelijk is voor bijna iedereen. Ik heb niet gekozen voor verschillende kleuren, omdat dan niet duidelijk wordt wat veel of wat weinig is. Landen die donker zijn, vallen daarom nu meteen op. Er zijn weinig landen die veel inwoners bevatten. Het oog valt meteen op de landen die veel inwoners hebben, omdat deze kleur (donker rood) het meeste opvalt.
         </p>
     </div>
+    <!-- End of explanation of the map -->
 
     <!-- DataMap -->
     <script src="http://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script>
