@@ -1,0 +1,2557 @@
+[
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "2015-01-01", 
+        "maxTemp": "47", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "De Bilt", 
+        "date": "2015-01-02", 
+        "maxTemp": "101", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "38", 
+        "city": "De Bilt", 
+        "date": "2015-01-03", 
+        "maxTemp": "59", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "De Bilt", 
+        "date": "2015-01-04", 
+        "maxTemp": "80", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "De Bilt", 
+        "date": "2015-01-05", 
+        "maxTemp": "38", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "28", 
+        "city": "De Bilt", 
+        "date": "2015-01-06", 
+        "maxTemp": "58", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "De Bilt", 
+        "date": "2015-01-07", 
+        "maxTemp": "72", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "De Bilt", 
+        "date": "2015-01-08", 
+        "maxTemp": "82", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "2015-01-09", 
+        "maxTemp": "137", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "2015-01-10", 
+        "maxTemp": "133", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "De Bilt", 
+        "date": "2015-01-11", 
+        "maxTemp": "82", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "2015-01-12", 
+        "maxTemp": "102", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "De Bilt", 
+        "date": "2015-01-13", 
+        "maxTemp": "110", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "De Bilt", 
+        "date": "2015-01-14", 
+        "maxTemp": "60", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "2015-01-15", 
+        "maxTemp": "103", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "De Bilt", 
+        "date": "2015-01-16", 
+        "maxTemp": "83", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "2015-01-17", 
+        "maxTemp": "59", 
+        "minTemp": "-9"
+    }, 
+    {
+        "avgTemp": "22", 
+        "city": "De Bilt", 
+        "date": "2015-01-18", 
+        "maxTemp": "33", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "10", 
+        "city": "De Bilt", 
+        "date": "2015-01-19", 
+        "maxTemp": "16", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "8", 
+        "city": "De Bilt", 
+        "date": "2015-01-20", 
+        "maxTemp": "37", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "-5", 
+        "city": "De Bilt", 
+        "date": "2015-01-21", 
+        "maxTemp": "15", 
+        "minTemp": "-19"
+    }, 
+    {
+        "avgTemp": "-12", 
+        "city": "De Bilt", 
+        "date": "2015-01-22", 
+        "maxTemp": "4", 
+        "minTemp": "-29"
+    }, 
+    {
+        "avgTemp": "-28", 
+        "city": "De Bilt", 
+        "date": "2015-01-23", 
+        "maxTemp": "-13", 
+        "minTemp": "-57"
+    }, 
+    {
+        "avgTemp": "22", 
+        "city": "De Bilt", 
+        "date": "2015-01-24", 
+        "maxTemp": "68", 
+        "minTemp": "-17"
+    }, 
+    {
+        "avgTemp": "37", 
+        "city": "De Bilt", 
+        "date": "2015-01-25", 
+        "maxTemp": "56", 
+        "minTemp": "-21"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "De Bilt", 
+        "date": "2015-01-26", 
+        "maxTemp": "83", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "De Bilt", 
+        "date": "2015-01-27", 
+        "maxTemp": "77", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "2015-01-28", 
+        "maxTemp": "72", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "De Bilt", 
+        "date": "2015-01-29", 
+        "maxTemp": "45", 
+        "minTemp": "2"
+    }, 
+    {
+        "avgTemp": "17", 
+        "city": "De Bilt", 
+        "date": "2015-01-30", 
+        "maxTemp": "44", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "10", 
+        "city": "De Bilt", 
+        "date": "2015-01-31", 
+        "maxTemp": "44", 
+        "minTemp": "-25"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "De Bilt", 
+        "date": "2015-02-01", 
+        "maxTemp": "57", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "20", 
+        "city": "De Bilt", 
+        "date": "2015-02-02", 
+        "maxTemp": "55", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "17", 
+        "city": "De Bilt", 
+        "date": "2015-02-03", 
+        "maxTemp": "63", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "De Bilt", 
+        "date": "2015-02-04", 
+        "maxTemp": "53", 
+        "minTemp": "-40"
+    }, 
+    {
+        "avgTemp": "-7", 
+        "city": "De Bilt", 
+        "date": "2015-02-05", 
+        "maxTemp": "20", 
+        "minTemp": "-38"
+    }, 
+    {
+        "avgTemp": "-2", 
+        "city": "De Bilt", 
+        "date": "2015-02-06", 
+        "maxTemp": "31", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "15", 
+        "city": "De Bilt", 
+        "date": "2015-02-07", 
+        "maxTemp": "55", 
+        "minTemp": "-51"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "De Bilt", 
+        "date": "2015-02-08", 
+        "maxTemp": "67", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "2015-02-09", 
+        "maxTemp": "72", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "2015-02-10", 
+        "maxTemp": "72", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "De Bilt", 
+        "date": "2015-02-11", 
+        "maxTemp": "54", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "De Bilt", 
+        "date": "2015-02-12", 
+        "maxTemp": "45", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "De Bilt", 
+        "date": "2015-02-13", 
+        "maxTemp": "99", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "De Bilt", 
+        "date": "2015-02-14", 
+        "maxTemp": "102", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "De Bilt", 
+        "date": "2015-02-15", 
+        "maxTemp": "67", 
+        "minTemp": "-35"
+    }, 
+    {
+        "avgTemp": "9", 
+        "city": "De Bilt", 
+        "date": "2015-02-16", 
+        "maxTemp": "77", 
+        "minTemp": "-49"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "De Bilt", 
+        "date": "2015-02-17", 
+        "maxTemp": "90", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "18", 
+        "city": "De Bilt", 
+        "date": "2015-02-18", 
+        "maxTemp": "81", 
+        "minTemp": "-34"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "De Bilt", 
+        "date": "2015-02-19", 
+        "maxTemp": "74", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "2015-02-20", 
+        "maxTemp": "65", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "32", 
+        "city": "De Bilt", 
+        "date": "2015-02-21", 
+        "maxTemp": "63", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "32", 
+        "city": "De Bilt", 
+        "date": "2015-02-22", 
+        "maxTemp": "68", 
+        "minTemp": "-18"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "De Bilt", 
+        "date": "2015-02-23", 
+        "maxTemp": "98", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "De Bilt", 
+        "date": "2015-02-24", 
+        "maxTemp": "89", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "De Bilt", 
+        "date": "2015-02-25", 
+        "maxTemp": "87", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "2015-02-26", 
+        "maxTemp": "83", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "De Bilt", 
+        "date": "2015-02-27", 
+        "maxTemp": "82", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "De Bilt", 
+        "date": "2015-02-28", 
+        "maxTemp": "91", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "De Bilt", 
+        "date": "2015-03-01", 
+        "maxTemp": "107", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "2015-03-02", 
+        "maxTemp": "84", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "De Bilt", 
+        "date": "2015-03-03", 
+        "maxTemp": "75", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "De Bilt", 
+        "date": "2015-03-04", 
+        "maxTemp": "76", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "2015-03-05", 
+        "maxTemp": "103", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "De Bilt", 
+        "date": "2015-03-06", 
+        "maxTemp": "90", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "2015-03-07", 
+        "maxTemp": "139", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "De Bilt", 
+        "date": "2015-03-08", 
+        "maxTemp": "157", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "De Bilt", 
+        "date": "2015-03-09", 
+        "maxTemp": "113", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "2015-03-10", 
+        "maxTemp": "113", 
+        "minTemp": "-7"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "De Bilt", 
+        "date": "2015-03-11", 
+        "maxTemp": "95", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "De Bilt", 
+        "date": "2015-03-12", 
+        "maxTemp": "127", 
+        "minTemp": "-29"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "De Bilt", 
+        "date": "2015-03-13", 
+        "maxTemp": "92", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "De Bilt", 
+        "date": "2015-03-14", 
+        "maxTemp": "53", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "56", 
+        "city": "De Bilt", 
+        "date": "2015-03-15", 
+        "maxTemp": "68", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "2015-03-16", 
+        "maxTemp": "128", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "2015-03-17", 
+        "maxTemp": "178", 
+        "minTemp": "-17"
+    }, 
+    {
+        "avgTemp": "56", 
+        "city": "De Bilt", 
+        "date": "2015-03-18", 
+        "maxTemp": "88", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "De Bilt", 
+        "date": "2015-03-19", 
+        "maxTemp": "126", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "De Bilt", 
+        "date": "2015-03-20", 
+        "maxTemp": "93", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "De Bilt", 
+        "date": "2015-03-21", 
+        "maxTemp": "93", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "De Bilt", 
+        "date": "2015-03-22", 
+        "maxTemp": "86", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "31", 
+        "city": "De Bilt", 
+        "date": "2015-03-23", 
+        "maxTemp": "93", 
+        "minTemp": "-29"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "2015-03-24", 
+        "maxTemp": "115", 
+        "minTemp": "-21"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "De Bilt", 
+        "date": "2015-03-25", 
+        "maxTemp": "69", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "De Bilt", 
+        "date": "2015-03-26", 
+        "maxTemp": "73", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "2015-03-27", 
+        "maxTemp": "89", 
+        "minTemp": "-4"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "2015-03-28", 
+        "maxTemp": "117", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "De Bilt", 
+        "date": "2015-03-29", 
+        "maxTemp": "113", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "2015-03-30", 
+        "maxTemp": "91", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "2015-03-31", 
+        "maxTemp": "111", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "De Bilt", 
+        "date": "2015-04-01", 
+        "maxTemp": "91", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "2015-04-02", 
+        "maxTemp": "86", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "De Bilt", 
+        "date": "2015-04-03", 
+        "maxTemp": "95", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "De Bilt", 
+        "date": "2015-04-04", 
+        "maxTemp": "94", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "2015-04-05", 
+        "maxTemp": "113", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "2015-04-06", 
+        "maxTemp": "117", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "De Bilt", 
+        "date": "2015-04-07", 
+        "maxTemp": "132", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "De Bilt", 
+        "date": "2015-04-08", 
+        "maxTemp": "142", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "104", 
+        "city": "De Bilt", 
+        "date": "2015-04-09", 
+        "maxTemp": "181", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "De Bilt", 
+        "date": "2015-04-10", 
+        "maxTemp": "196", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "2015-04-11", 
+        "maxTemp": "136", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "De Bilt", 
+        "date": "2015-04-12", 
+        "maxTemp": "155", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "2015-04-13", 
+        "maxTemp": "128", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "2015-04-14", 
+        "maxTemp": "200", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "De Bilt", 
+        "date": "2015-04-15", 
+        "maxTemp": "230", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "2015-04-16", 
+        "maxTemp": "134", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "De Bilt", 
+        "date": "2015-04-17", 
+        "maxTemp": "129", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "2015-04-18", 
+        "maxTemp": "144", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "De Bilt", 
+        "date": "2015-04-19", 
+        "maxTemp": "152", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "2015-04-20", 
+        "maxTemp": "171", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "De Bilt", 
+        "date": "2015-04-21", 
+        "maxTemp": "174", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "De Bilt", 
+        "date": "2015-04-22", 
+        "maxTemp": "121", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "De Bilt", 
+        "date": "2015-04-23", 
+        "maxTemp": "155", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "De Bilt", 
+        "date": "2015-04-24", 
+        "maxTemp": "204", 
+        "minTemp": "15"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "De Bilt", 
+        "date": "2015-04-25", 
+        "maxTemp": "150", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "2015-04-26", 
+        "maxTemp": "139", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "De Bilt", 
+        "date": "2015-04-27", 
+        "maxTemp": "126", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "De Bilt", 
+        "date": "2015-04-28", 
+        "maxTemp": "118", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "2015-04-29", 
+        "maxTemp": "147", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "2015-04-30", 
+        "maxTemp": "142", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "De Bilt", 
+        "date": "2015-05-01", 
+        "maxTemp": "133", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "2015-05-02", 
+        "maxTemp": "158", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "2015-05-03", 
+        "maxTemp": "170", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "2015-05-04", 
+        "maxTemp": "194", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "2015-05-05", 
+        "maxTemp": "222", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "De Bilt", 
+        "date": "2015-05-06", 
+        "maxTemp": "155", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "De Bilt", 
+        "date": "2015-05-07", 
+        "maxTemp": "162", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "2015-05-08", 
+        "maxTemp": "194", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "2015-05-09", 
+        "maxTemp": "161", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "De Bilt", 
+        "date": "2015-05-10", 
+        "maxTemp": "191", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "De Bilt", 
+        "date": "2015-05-11", 
+        "maxTemp": "256", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "De Bilt", 
+        "date": "2015-05-12", 
+        "maxTemp": "175", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "2015-05-13", 
+        "maxTemp": "181", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "De Bilt", 
+        "date": "2015-05-14", 
+        "maxTemp": "167", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "De Bilt", 
+        "date": "2015-05-15", 
+        "maxTemp": "144", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-05-16", 
+        "maxTemp": "149", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "2015-05-17", 
+        "maxTemp": "162", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "De Bilt", 
+        "date": "2015-05-18", 
+        "maxTemp": "140", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "De Bilt", 
+        "date": "2015-05-19", 
+        "maxTemp": "137", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-05-20", 
+        "maxTemp": "147", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "2015-05-21", 
+        "maxTemp": "174", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "De Bilt", 
+        "date": "2015-05-22", 
+        "maxTemp": "199", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "De Bilt", 
+        "date": "2015-05-23", 
+        "maxTemp": "157", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "2015-05-24", 
+        "maxTemp": "199", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "De Bilt", 
+        "date": "2015-05-25", 
+        "maxTemp": "153", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "De Bilt", 
+        "date": "2015-05-26", 
+        "maxTemp": "158", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "2015-05-27", 
+        "maxTemp": "189", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "De Bilt", 
+        "date": "2015-05-28", 
+        "maxTemp": "165", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "De Bilt", 
+        "date": "2015-05-29", 
+        "maxTemp": "158", 
+        "minTemp": "56"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "De Bilt", 
+        "date": "2015-05-30", 
+        "maxTemp": "154", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "2015-05-31", 
+        "maxTemp": "165", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "2015-06-01", 
+        "maxTemp": "161", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "De Bilt", 
+        "date": "2015-06-02", 
+        "maxTemp": "177", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "De Bilt", 
+        "date": "2015-06-03", 
+        "maxTemp": "177", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "156", 
+        "city": "De Bilt", 
+        "date": "2015-06-04", 
+        "maxTemp": "220", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "214", 
+        "city": "De Bilt", 
+        "date": "2015-06-05", 
+        "maxTemp": "318", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "156", 
+        "city": "De Bilt", 
+        "date": "2015-06-06", 
+        "maxTemp": "189", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "De Bilt", 
+        "date": "2015-06-07", 
+        "maxTemp": "189", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "De Bilt", 
+        "date": "2015-06-08", 
+        "maxTemp": "172", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "2015-06-09", 
+        "maxTemp": "150", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "2015-06-10", 
+        "maxTemp": "208", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "De Bilt", 
+        "date": "2015-06-11", 
+        "maxTemp": "240", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "216", 
+        "city": "De Bilt", 
+        "date": "2015-06-12", 
+        "maxTemp": "274", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "175", 
+        "city": "De Bilt", 
+        "date": "2015-06-13", 
+        "maxTemp": "213", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "De Bilt", 
+        "date": "2015-06-14", 
+        "maxTemp": "195", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "2015-06-15", 
+        "maxTemp": "175", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "De Bilt", 
+        "date": "2015-06-16", 
+        "maxTemp": "177", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "De Bilt", 
+        "date": "2015-06-17", 
+        "maxTemp": "227", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "2015-06-18", 
+        "maxTemp": "166", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "2015-06-19", 
+        "maxTemp": "153", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "2015-06-20", 
+        "maxTemp": "163", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "De Bilt", 
+        "date": "2015-06-21", 
+        "maxTemp": "185", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "2015-06-22", 
+        "maxTemp": "153", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "2015-06-23", 
+        "maxTemp": "151", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "De Bilt", 
+        "date": "2015-06-24", 
+        "maxTemp": "215", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "De Bilt", 
+        "date": "2015-06-25", 
+        "maxTemp": "240", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "205", 
+        "city": "De Bilt", 
+        "date": "2015-06-26", 
+        "maxTemp": "250", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "De Bilt", 
+        "date": "2015-06-27", 
+        "maxTemp": "218", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "De Bilt", 
+        "date": "2015-06-28", 
+        "maxTemp": "232", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "De Bilt", 
+        "date": "2015-06-29", 
+        "maxTemp": "242", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "206", 
+        "city": "De Bilt", 
+        "date": "2015-06-30", 
+        "maxTemp": "273", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "260", 
+        "city": "De Bilt", 
+        "date": "2015-07-01", 
+        "maxTemp": "331", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "254", 
+        "city": "De Bilt", 
+        "date": "2015-07-02", 
+        "maxTemp": "331", 
+        "minTemp": "190"
+    }, 
+    {
+        "avgTemp": "241", 
+        "city": "De Bilt", 
+        "date": "2015-07-03", 
+        "maxTemp": "291", 
+        "minTemp": "169"
+    }, 
+    {
+        "avgTemp": "256", 
+        "city": "De Bilt", 
+        "date": "2015-07-04", 
+        "maxTemp": "327", 
+        "minTemp": "179"
+    }, 
+    {
+        "avgTemp": "202", 
+        "city": "De Bilt", 
+        "date": "2015-07-05", 
+        "maxTemp": "282", 
+        "minTemp": "157"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "De Bilt", 
+        "date": "2015-07-06", 
+        "maxTemp": "238", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "De Bilt", 
+        "date": "2015-07-07", 
+        "maxTemp": "258", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "De Bilt", 
+        "date": "2015-07-08", 
+        "maxTemp": "196", 
+        "minTemp": "127"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "2015-07-09", 
+        "maxTemp": "176", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "De Bilt", 
+        "date": "2015-07-10", 
+        "maxTemp": "226", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "204", 
+        "city": "De Bilt", 
+        "date": "2015-07-11", 
+        "maxTemp": "287", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "De Bilt", 
+        "date": "2015-07-12", 
+        "maxTemp": "204", 
+        "minTemp": "156"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "De Bilt", 
+        "date": "2015-07-13", 
+        "maxTemp": "196", 
+        "minTemp": "163"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "De Bilt", 
+        "date": "2015-07-14", 
+        "maxTemp": "213", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "De Bilt", 
+        "date": "2015-07-15", 
+        "maxTemp": "211", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "196", 
+        "city": "De Bilt", 
+        "date": "2015-07-16", 
+        "maxTemp": "251", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "217", 
+        "city": "De Bilt", 
+        "date": "2015-07-17", 
+        "maxTemp": "256", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "De Bilt", 
+        "date": "2015-07-18", 
+        "maxTemp": "221", 
+        "minTemp": "145"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "De Bilt", 
+        "date": "2015-07-19", 
+        "maxTemp": "205", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "De Bilt", 
+        "date": "2015-07-20", 
+        "maxTemp": "214", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "De Bilt", 
+        "date": "2015-07-21", 
+        "maxTemp": "254", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "De Bilt", 
+        "date": "2015-07-22", 
+        "maxTemp": "231", 
+        "minTemp": "163"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "De Bilt", 
+        "date": "2015-07-23", 
+        "maxTemp": "217", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "De Bilt", 
+        "date": "2015-07-24", 
+        "maxTemp": "233", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "De Bilt", 
+        "date": "2015-07-25", 
+        "maxTemp": "183", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "De Bilt", 
+        "date": "2015-07-26", 
+        "maxTemp": "209", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "De Bilt", 
+        "date": "2015-07-27", 
+        "maxTemp": "197", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "De Bilt", 
+        "date": "2015-07-28", 
+        "maxTemp": "189", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "De Bilt", 
+        "date": "2015-07-29", 
+        "maxTemp": "176", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "De Bilt", 
+        "date": "2015-07-30", 
+        "maxTemp": "181", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "2015-07-31", 
+        "maxTemp": "194", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "De Bilt", 
+        "date": "2015-08-01", 
+        "maxTemp": "220", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "De Bilt", 
+        "date": "2015-08-02", 
+        "maxTemp": "242", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "215", 
+        "city": "De Bilt", 
+        "date": "2015-08-03", 
+        "maxTemp": "300", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "De Bilt", 
+        "date": "2015-08-04", 
+        "maxTemp": "215", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "189", 
+        "city": "De Bilt", 
+        "date": "2015-08-05", 
+        "maxTemp": "250", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "205", 
+        "city": "De Bilt", 
+        "date": "2015-08-06", 
+        "maxTemp": "284", 
+        "minTemp": "133"
+    }, 
+    {
+        "avgTemp": "206", 
+        "city": "De Bilt", 
+        "date": "2015-08-07", 
+        "maxTemp": "270", 
+        "minTemp": "126"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "De Bilt", 
+        "date": "2015-08-08", 
+        "maxTemp": "230", 
+        "minTemp": "130"
+    }, 
+    {
+        "avgTemp": "186", 
+        "city": "De Bilt", 
+        "date": "2015-08-09", 
+        "maxTemp": "243", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "De Bilt", 
+        "date": "2015-08-10", 
+        "maxTemp": "252", 
+        "minTemp": "147"
+    }, 
+    {
+        "avgTemp": "200", 
+        "city": "De Bilt", 
+        "date": "2015-08-11", 
+        "maxTemp": "254", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "De Bilt", 
+        "date": "2015-08-12", 
+        "maxTemp": "230", 
+        "minTemp": "163"
+    }, 
+    {
+        "avgTemp": "217", 
+        "city": "De Bilt", 
+        "date": "2015-08-13", 
+        "maxTemp": "284", 
+        "minTemp": "146"
+    }, 
+    {
+        "avgTemp": "209", 
+        "city": "De Bilt", 
+        "date": "2015-08-14", 
+        "maxTemp": "254", 
+        "minTemp": "169"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "De Bilt", 
+        "date": "2015-08-15", 
+        "maxTemp": "221", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "De Bilt", 
+        "date": "2015-08-16", 
+        "maxTemp": "166", 
+        "minTemp": "129"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "2015-08-17", 
+        "maxTemp": "152", 
+        "minTemp": "129"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "De Bilt", 
+        "date": "2015-08-18", 
+        "maxTemp": "168", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "De Bilt", 
+        "date": "2015-08-19", 
+        "maxTemp": "225", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "De Bilt", 
+        "date": "2015-08-20", 
+        "maxTemp": "249", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "De Bilt", 
+        "date": "2015-08-21", 
+        "maxTemp": "253", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "De Bilt", 
+        "date": "2015-08-22", 
+        "maxTemp": "265", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "De Bilt", 
+        "date": "2015-08-23", 
+        "maxTemp": "259", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "De Bilt", 
+        "date": "2015-08-24", 
+        "maxTemp": "231", 
+        "minTemp": "133"
+    }, 
+    {
+        "avgTemp": "167", 
+        "city": "De Bilt", 
+        "date": "2015-08-25", 
+        "maxTemp": "199", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "202", 
+        "city": "De Bilt", 
+        "date": "2015-08-26", 
+        "maxTemp": "252", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "De Bilt", 
+        "date": "2015-08-27", 
+        "maxTemp": "185", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "2015-08-28", 
+        "maxTemp": "209", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "De Bilt", 
+        "date": "2015-08-29", 
+        "maxTemp": "236", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "200", 
+        "city": "De Bilt", 
+        "date": "2015-08-30", 
+        "maxTemp": "253", 
+        "minTemp": "145"
+    }, 
+    {
+        "avgTemp": "209", 
+        "city": "De Bilt", 
+        "date": "2015-08-31", 
+        "maxTemp": "265", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "2015-09-01", 
+        "maxTemp": "195", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "De Bilt", 
+        "date": "2015-09-02", 
+        "maxTemp": "188", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "De Bilt", 
+        "date": "2015-09-03", 
+        "maxTemp": "171", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "2015-09-04", 
+        "maxTemp": "166", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "De Bilt", 
+        "date": "2015-09-05", 
+        "maxTemp": "169", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-09-06", 
+        "maxTemp": "170", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "2015-09-07", 
+        "maxTemp": "169", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "De Bilt", 
+        "date": "2015-09-08", 
+        "maxTemp": "169", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-09-09", 
+        "maxTemp": "185", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "2015-09-10", 
+        "maxTemp": "196", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "2015-09-11", 
+        "maxTemp": "201", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "De Bilt", 
+        "date": "2015-09-12", 
+        "maxTemp": "202", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "De Bilt", 
+        "date": "2015-09-13", 
+        "maxTemp": "194", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "2015-09-14", 
+        "maxTemp": "198", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "De Bilt", 
+        "date": "2015-09-15", 
+        "maxTemp": "159", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "2015-09-16", 
+        "maxTemp": "192", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "De Bilt", 
+        "date": "2015-09-17", 
+        "maxTemp": "164", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "De Bilt", 
+        "date": "2015-09-18", 
+        "maxTemp": "184", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "134", 
+        "city": "De Bilt", 
+        "date": "2015-09-19", 
+        "maxTemp": "175", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "2015-09-20", 
+        "maxTemp": "181", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "De Bilt", 
+        "date": "2015-09-21", 
+        "maxTemp": "186", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-09-22", 
+        "maxTemp": "174", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "De Bilt", 
+        "date": "2015-09-23", 
+        "maxTemp": "173", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "2015-09-24", 
+        "maxTemp": "157", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "2015-09-25", 
+        "maxTemp": "168", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "104", 
+        "city": "De Bilt", 
+        "date": "2015-09-26", 
+        "maxTemp": "168", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "De Bilt", 
+        "date": "2015-09-27", 
+        "maxTemp": "175", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-09-28", 
+        "maxTemp": "160", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "De Bilt", 
+        "date": "2015-09-29", 
+        "maxTemp": "174", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "De Bilt", 
+        "date": "2015-09-30", 
+        "maxTemp": "175", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "2015-10-01", 
+        "maxTemp": "169", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "De Bilt", 
+        "date": "2015-10-02", 
+        "maxTemp": "183", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "De Bilt", 
+        "date": "2015-10-03", 
+        "maxTemp": "188", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "De Bilt", 
+        "date": "2015-10-04", 
+        "maxTemp": "179", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-10-05", 
+        "maxTemp": "169", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "De Bilt", 
+        "date": "2015-10-06", 
+        "maxTemp": "176", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "De Bilt", 
+        "date": "2015-10-07", 
+        "maxTemp": "176", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "De Bilt", 
+        "date": "2015-10-08", 
+        "maxTemp": "159", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "De Bilt", 
+        "date": "2015-10-09", 
+        "maxTemp": "163", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "2015-10-10", 
+        "maxTemp": "143", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "De Bilt", 
+        "date": "2015-10-11", 
+        "maxTemp": "115", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "De Bilt", 
+        "date": "2015-10-12", 
+        "maxTemp": "102", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "38", 
+        "city": "De Bilt", 
+        "date": "2015-10-13", 
+        "maxTemp": "59", 
+        "minTemp": "12"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "De Bilt", 
+        "date": "2015-10-14", 
+        "maxTemp": "80", 
+        "minTemp": "20"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "2015-10-15", 
+        "maxTemp": "80", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "De Bilt", 
+        "date": "2015-10-16", 
+        "maxTemp": "84", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "81", 
+        "city": "De Bilt", 
+        "date": "2015-10-17", 
+        "maxTemp": "90", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "2015-10-18", 
+        "maxTemp": "109", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-10-19", 
+        "maxTemp": "125", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "2015-10-20", 
+        "maxTemp": "126", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "2015-10-21", 
+        "maxTemp": "125", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "2015-10-22", 
+        "maxTemp": "148", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "De Bilt", 
+        "date": "2015-10-23", 
+        "maxTemp": "141", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "De Bilt", 
+        "date": "2015-10-24", 
+        "maxTemp": "138", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "2015-10-25", 
+        "maxTemp": "143", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-10-26", 
+        "maxTemp": "158", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "De Bilt", 
+        "date": "2015-10-27", 
+        "maxTemp": "173", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "2015-10-28", 
+        "maxTemp": "133", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "De Bilt", 
+        "date": "2015-10-29", 
+        "maxTemp": "156", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "De Bilt", 
+        "date": "2015-10-30", 
+        "maxTemp": "150", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "2015-10-31", 
+        "maxTemp": "143", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "De Bilt", 
+        "date": "2015-11-01", 
+        "maxTemp": "160", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "2015-11-02", 
+        "maxTemp": "159", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "2015-11-03", 
+        "maxTemp": "157", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "De Bilt", 
+        "date": "2015-11-04", 
+        "maxTemp": "154", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "2015-11-05", 
+        "maxTemp": "154", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "155", 
+        "city": "De Bilt", 
+        "date": "2015-11-06", 
+        "maxTemp": "171", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "De Bilt", 
+        "date": "2015-11-07", 
+        "maxTemp": "185", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-11-08", 
+        "maxTemp": "173", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "De Bilt", 
+        "date": "2015-11-09", 
+        "maxTemp": "160", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "2015-11-10", 
+        "maxTemp": "156", 
+        "minTemp": "133"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "2015-11-11", 
+        "maxTemp": "138", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "2015-11-12", 
+        "maxTemp": "153", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "De Bilt", 
+        "date": "2015-11-13", 
+        "maxTemp": "136", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "2015-11-14", 
+        "maxTemp": "119", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "2015-11-15", 
+        "maxTemp": "150", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "De Bilt", 
+        "date": "2015-11-16", 
+        "maxTemp": "137", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "2015-11-17", 
+        "maxTemp": "156", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-11-18", 
+        "maxTemp": "145", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "De Bilt", 
+        "date": "2015-11-19", 
+        "maxTemp": "138", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "2015-11-20", 
+        "maxTemp": "97", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "De Bilt", 
+        "date": "2015-11-21", 
+        "maxTemp": "63", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "De Bilt", 
+        "date": "2015-11-22", 
+        "maxTemp": "57", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "32", 
+        "city": "De Bilt", 
+        "date": "2015-11-23", 
+        "maxTemp": "80", 
+        "minTemp": "-26"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "De Bilt", 
+        "date": "2015-11-24", 
+        "maxTemp": "66", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "De Bilt", 
+        "date": "2015-11-25", 
+        "maxTemp": "79", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "40", 
+        "city": "De Bilt", 
+        "date": "2015-11-26", 
+        "maxTemp": "96", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "De Bilt", 
+        "date": "2015-11-27", 
+        "maxTemp": "65", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "De Bilt", 
+        "date": "2015-11-28", 
+        "maxTemp": "87", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "De Bilt", 
+        "date": "2015-11-29", 
+        "maxTemp": "125", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "2015-11-30", 
+        "maxTemp": "126", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "2015-12-01", 
+        "maxTemp": "124", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "De Bilt", 
+        "date": "2015-12-02", 
+        "maxTemp": "119", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "2015-12-03", 
+        "maxTemp": "127", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "De Bilt", 
+        "date": "2015-12-04", 
+        "maxTemp": "112", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "2015-12-05", 
+        "maxTemp": "91", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-12-06", 
+        "maxTemp": "124", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "De Bilt", 
+        "date": "2015-12-07", 
+        "maxTemp": "124", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "2015-12-08", 
+        "maxTemp": "120", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "2015-12-09", 
+        "maxTemp": "99", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "De Bilt", 
+        "date": "2015-12-10", 
+        "maxTemp": "77", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "De Bilt", 
+        "date": "2015-12-11", 
+        "maxTemp": "88", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "2015-12-12", 
+        "maxTemp": "117", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "De Bilt", 
+        "date": "2015-12-13", 
+        "maxTemp": "117", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "2015-12-14", 
+        "maxTemp": "100", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "De Bilt", 
+        "date": "2015-12-15", 
+        "maxTemp": "91", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "De Bilt", 
+        "date": "2015-12-16", 
+        "maxTemp": "129", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "De Bilt", 
+        "date": "2015-12-17", 
+        "maxTemp": "153", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "De Bilt", 
+        "date": "2015-12-18", 
+        "maxTemp": "130", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "De Bilt", 
+        "date": "2015-12-19", 
+        "maxTemp": "141", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "2015-12-20", 
+        "maxTemp": "137", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "104", 
+        "city": "De Bilt", 
+        "date": "2015-12-21", 
+        "maxTemp": "118", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "2015-12-22", 
+        "maxTemp": "144", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "2015-12-23", 
+        "maxTemp": "133", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "2015-12-24", 
+        "maxTemp": "134", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "De Bilt", 
+        "date": "2015-12-25", 
+        "maxTemp": "140", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "2015-12-26", 
+        "maxTemp": "144", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "De Bilt", 
+        "date": "2015-12-27", 
+        "maxTemp": "131", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "2015-12-28", 
+        "maxTemp": "121", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "De Bilt", 
+        "date": "2015-12-29", 
+        "maxTemp": "103", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "2015-12-30", 
+        "maxTemp": "91", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "De Bilt", 
+        "date": "2015-12-31", 
+        "maxTemp": "105", 
+        "minTemp": "55"
+    }
+]

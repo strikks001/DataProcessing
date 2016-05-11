@@ -1,0 +1,2557 @@
+[
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "2015-01-01", 
+        "maxTemp": "55", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "2015-01-02", 
+        "maxTemp": "106", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Schiphol", 
+        "date": "2015-01-03", 
+        "maxTemp": "66", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "2015-01-04", 
+        "maxTemp": "79", 
+        "minTemp": "-9"
+    }, 
+    {
+        "avgTemp": "29", 
+        "city": "Schiphol", 
+        "date": "2015-01-05", 
+        "maxTemp": "39", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "32", 
+        "city": "Schiphol", 
+        "date": "2015-01-06", 
+        "maxTemp": "68", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "Schiphol", 
+        "date": "2015-01-07", 
+        "maxTemp": "73", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Schiphol", 
+        "date": "2015-01-08", 
+        "maxTemp": "87", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "2015-01-09", 
+        "maxTemp": "124", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "2015-01-10", 
+        "maxTemp": "123", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Schiphol", 
+        "date": "2015-01-11", 
+        "maxTemp": "82", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Schiphol", 
+        "date": "2015-01-12", 
+        "maxTemp": "107", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Schiphol", 
+        "date": "2015-01-13", 
+        "maxTemp": "100", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "Schiphol", 
+        "date": "2015-01-14", 
+        "maxTemp": "62", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "2015-01-15", 
+        "maxTemp": "101", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "Schiphol", 
+        "date": "2015-01-16", 
+        "maxTemp": "84", 
+        "minTemp": "20"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "Schiphol", 
+        "date": "2015-01-17", 
+        "maxTemp": "63", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "25", 
+        "city": "Schiphol", 
+        "date": "2015-01-18", 
+        "maxTemp": "36", 
+        "minTemp": "12"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Schiphol", 
+        "date": "2015-01-19", 
+        "maxTemp": "19", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "6", 
+        "city": "Schiphol", 
+        "date": "2015-01-20", 
+        "maxTemp": "36", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "-3", 
+        "city": "Schiphol", 
+        "date": "2015-01-21", 
+        "maxTemp": "16", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "-8", 
+        "city": "Schiphol", 
+        "date": "2015-01-22", 
+        "maxTemp": "13", 
+        "minTemp": "-28"
+    }, 
+    {
+        "avgTemp": "-29", 
+        "city": "Schiphol", 
+        "date": "2015-01-23", 
+        "maxTemp": "7", 
+        "minTemp": "-63"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "Schiphol", 
+        "date": "2015-01-24", 
+        "maxTemp": "69", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "Schiphol", 
+        "date": "2015-01-25", 
+        "maxTemp": "68", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Schiphol", 
+        "date": "2015-01-26", 
+        "maxTemp": "86", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "2015-01-27", 
+        "maxTemp": "76", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "2015-01-28", 
+        "maxTemp": "76", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Schiphol", 
+        "date": "2015-01-29", 
+        "maxTemp": "55", 
+        "minTemp": "-1"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Schiphol", 
+        "date": "2015-01-30", 
+        "maxTemp": "41", 
+        "minTemp": "-25"
+    }, 
+    {
+        "avgTemp": "15", 
+        "city": "Schiphol", 
+        "date": "2015-01-31", 
+        "maxTemp": "50", 
+        "minTemp": "-19"
+    }, 
+    {
+        "avgTemp": "29", 
+        "city": "Schiphol", 
+        "date": "2015-02-01", 
+        "maxTemp": "60", 
+        "minTemp": "-14"
+    }, 
+    {
+        "avgTemp": "25", 
+        "city": "Schiphol", 
+        "date": "2015-02-02", 
+        "maxTemp": "62", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Schiphol", 
+        "date": "2015-02-03", 
+        "maxTemp": "64", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "-1", 
+        "city": "Schiphol", 
+        "date": "2015-02-04", 
+        "maxTemp": "60", 
+        "minTemp": "-48"
+    }, 
+    {
+        "avgTemp": "-1", 
+        "city": "Schiphol", 
+        "date": "2015-02-05", 
+        "maxTemp": "23", 
+        "minTemp": "-40"
+    }, 
+    {
+        "avgTemp": "0", 
+        "city": "Schiphol", 
+        "date": "2015-02-06", 
+        "maxTemp": "21", 
+        "minTemp": "-14"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "Schiphol", 
+        "date": "2015-02-07", 
+        "maxTemp": "64", 
+        "minTemp": "-50"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "Schiphol", 
+        "date": "2015-02-08", 
+        "maxTemp": "74", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Schiphol", 
+        "date": "2015-02-09", 
+        "maxTemp": "72", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "Schiphol", 
+        "date": "2015-02-10", 
+        "maxTemp": "72", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Schiphol", 
+        "date": "2015-02-11", 
+        "maxTemp": "53", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Schiphol", 
+        "date": "2015-02-12", 
+        "maxTemp": "45", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "2015-02-13", 
+        "maxTemp": "99", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "Schiphol", 
+        "date": "2015-02-14", 
+        "maxTemp": "95", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "25", 
+        "city": "Schiphol", 
+        "date": "2015-02-15", 
+        "maxTemp": "76", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Schiphol", 
+        "date": "2015-02-16", 
+        "maxTemp": "73", 
+        "minTemp": "-36"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Schiphol", 
+        "date": "2015-02-17", 
+        "maxTemp": "87", 
+        "minTemp": "-14"
+    }, 
+    {
+        "avgTemp": "25", 
+        "city": "Schiphol", 
+        "date": "2015-02-18", 
+        "maxTemp": "86", 
+        "minTemp": "-28"
+    }, 
+    {
+        "avgTemp": "37", 
+        "city": "Schiphol", 
+        "date": "2015-02-19", 
+        "maxTemp": "83", 
+        "minTemp": "-12"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "2015-02-20", 
+        "maxTemp": "68", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "31", 
+        "city": "Schiphol", 
+        "date": "2015-02-21", 
+        "maxTemp": "61", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Schiphol", 
+        "date": "2015-02-22", 
+        "maxTemp": "76", 
+        "minTemp": "-18"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "Schiphol", 
+        "date": "2015-02-23", 
+        "maxTemp": "91", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "2015-02-24", 
+        "maxTemp": "89", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "Schiphol", 
+        "date": "2015-02-25", 
+        "maxTemp": "75", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "2015-02-26", 
+        "maxTemp": "85", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Schiphol", 
+        "date": "2015-02-27", 
+        "maxTemp": "79", 
+        "minTemp": "-4"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "2015-02-28", 
+        "maxTemp": "97", 
+        "minTemp": "-4"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "2015-03-01", 
+        "maxTemp": "103", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "2015-03-02", 
+        "maxTemp": "80", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "Schiphol", 
+        "date": "2015-03-03", 
+        "maxTemp": "71", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "2015-03-04", 
+        "maxTemp": "73", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "2015-03-05", 
+        "maxTemp": "96", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "Schiphol", 
+        "date": "2015-03-06", 
+        "maxTemp": "96", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "2015-03-07", 
+        "maxTemp": "136", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "2015-03-08", 
+        "maxTemp": "139", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "2015-03-09", 
+        "maxTemp": "119", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "Schiphol", 
+        "date": "2015-03-10", 
+        "maxTemp": "109", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "38", 
+        "city": "Schiphol", 
+        "date": "2015-03-11", 
+        "maxTemp": "99", 
+        "minTemp": "-28"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Schiphol", 
+        "date": "2015-03-12", 
+        "maxTemp": "131", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "Schiphol", 
+        "date": "2015-03-13", 
+        "maxTemp": "87", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "Schiphol", 
+        "date": "2015-03-14", 
+        "maxTemp": "56", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "Schiphol", 
+        "date": "2015-03-15", 
+        "maxTemp": "67", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Schiphol", 
+        "date": "2015-03-16", 
+        "maxTemp": "114", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Schiphol", 
+        "date": "2015-03-17", 
+        "maxTemp": "154", 
+        "minTemp": "12"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "2015-03-18", 
+        "maxTemp": "75", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "2015-03-19", 
+        "maxTemp": "127", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "Schiphol", 
+        "date": "2015-03-20", 
+        "maxTemp": "86", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "2015-03-21", 
+        "maxTemp": "101", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "Schiphol", 
+        "date": "2015-03-22", 
+        "maxTemp": "83", 
+        "minTemp": "12"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "Schiphol", 
+        "date": "2015-03-23", 
+        "maxTemp": "94", 
+        "minTemp": "-18"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "2015-03-24", 
+        "maxTemp": "106", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Schiphol", 
+        "date": "2015-03-25", 
+        "maxTemp": "73", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "Schiphol", 
+        "date": "2015-03-26", 
+        "maxTemp": "79", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Schiphol", 
+        "date": "2015-03-27", 
+        "maxTemp": "87", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "Schiphol", 
+        "date": "2015-03-28", 
+        "maxTemp": "107", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "Schiphol", 
+        "date": "2015-03-29", 
+        "maxTemp": "114", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "2015-03-30", 
+        "maxTemp": "91", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "2015-03-31", 
+        "maxTemp": "107", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "Schiphol", 
+        "date": "2015-04-01", 
+        "maxTemp": "94", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "2015-04-02", 
+        "maxTemp": "91", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "Schiphol", 
+        "date": "2015-04-03", 
+        "maxTemp": "99", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "2015-04-04", 
+        "maxTemp": "97", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "Schiphol", 
+        "date": "2015-04-05", 
+        "maxTemp": "111", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "Schiphol", 
+        "date": "2015-04-06", 
+        "maxTemp": "125", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "2015-04-07", 
+        "maxTemp": "117", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Schiphol", 
+        "date": "2015-04-08", 
+        "maxTemp": "142", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "Schiphol", 
+        "date": "2015-04-09", 
+        "maxTemp": "163", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Schiphol", 
+        "date": "2015-04-10", 
+        "maxTemp": "192", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "Schiphol", 
+        "date": "2015-04-11", 
+        "maxTemp": "135", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "2015-04-12", 
+        "maxTemp": "157", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "2015-04-13", 
+        "maxTemp": "119", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "Schiphol", 
+        "date": "2015-04-14", 
+        "maxTemp": "179", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "Schiphol", 
+        "date": "2015-04-15", 
+        "maxTemp": "207", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "2015-04-16", 
+        "maxTemp": "126", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "2015-04-17", 
+        "maxTemp": "123", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Schiphol", 
+        "date": "2015-04-18", 
+        "maxTemp": "145", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "2015-04-19", 
+        "maxTemp": "139", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "Schiphol", 
+        "date": "2015-04-20", 
+        "maxTemp": "163", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Schiphol", 
+        "date": "2015-04-21", 
+        "maxTemp": "163", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Schiphol", 
+        "date": "2015-04-22", 
+        "maxTemp": "113", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "2015-04-23", 
+        "maxTemp": "150", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-04-24", 
+        "maxTemp": "188", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "2015-04-25", 
+        "maxTemp": "150", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "2015-04-26", 
+        "maxTemp": "116", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Schiphol", 
+        "date": "2015-04-27", 
+        "maxTemp": "128", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "Schiphol", 
+        "date": "2015-04-28", 
+        "maxTemp": "115", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Schiphol", 
+        "date": "2015-04-29", 
+        "maxTemp": "142", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Schiphol", 
+        "date": "2015-04-30", 
+        "maxTemp": "135", 
+        "minTemp": "38"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "2015-05-01", 
+        "maxTemp": "131", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "2015-05-02", 
+        "maxTemp": "151", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "Schiphol", 
+        "date": "2015-05-03", 
+        "maxTemp": "167", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "Schiphol", 
+        "date": "2015-05-04", 
+        "maxTemp": "185", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "Schiphol", 
+        "date": "2015-05-05", 
+        "maxTemp": "223", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-05-06", 
+        "maxTemp": "156", 
+        "minTemp": "87"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "Schiphol", 
+        "date": "2015-05-07", 
+        "maxTemp": "153", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "2015-05-08", 
+        "maxTemp": "190", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "2015-05-09", 
+        "maxTemp": "162", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "2015-05-10", 
+        "maxTemp": "186", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "168", 
+        "city": "Schiphol", 
+        "date": "2015-05-11", 
+        "maxTemp": "250", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "Schiphol", 
+        "date": "2015-05-12", 
+        "maxTemp": "169", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-05-13", 
+        "maxTemp": "167", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Schiphol", 
+        "date": "2015-05-14", 
+        "maxTemp": "153", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Schiphol", 
+        "date": "2015-05-15", 
+        "maxTemp": "144", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Schiphol", 
+        "date": "2015-05-16", 
+        "maxTemp": "149", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "Schiphol", 
+        "date": "2015-05-17", 
+        "maxTemp": "158", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "Schiphol", 
+        "date": "2015-05-18", 
+        "maxTemp": "137", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "Schiphol", 
+        "date": "2015-05-19", 
+        "maxTemp": "145", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Schiphol", 
+        "date": "2015-05-20", 
+        "maxTemp": "145", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "Schiphol", 
+        "date": "2015-05-21", 
+        "maxTemp": "160", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "2015-05-22", 
+        "maxTemp": "194", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-05-23", 
+        "maxTemp": "160", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "Schiphol", 
+        "date": "2015-05-24", 
+        "maxTemp": "179", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "2015-05-25", 
+        "maxTemp": "149", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-05-26", 
+        "maxTemp": "156", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-05-27", 
+        "maxTemp": "182", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Schiphol", 
+        "date": "2015-05-28", 
+        "maxTemp": "159", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Schiphol", 
+        "date": "2015-05-29", 
+        "maxTemp": "147", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "115", 
+        "city": "Schiphol", 
+        "date": "2015-05-30", 
+        "maxTemp": "146", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "2015-05-31", 
+        "maxTemp": "157", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "2015-06-01", 
+        "maxTemp": "164", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "2015-06-02", 
+        "maxTemp": "169", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "2015-06-03", 
+        "maxTemp": "177", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "155", 
+        "city": "Schiphol", 
+        "date": "2015-06-04", 
+        "maxTemp": "211", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "205", 
+        "city": "Schiphol", 
+        "date": "2015-06-05", 
+        "maxTemp": "310", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "Schiphol", 
+        "date": "2015-06-06", 
+        "maxTemp": "177", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-06-07", 
+        "maxTemp": "176", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "2015-06-08", 
+        "maxTemp": "170", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "Schiphol", 
+        "date": "2015-06-09", 
+        "maxTemp": "142", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "Schiphol", 
+        "date": "2015-06-10", 
+        "maxTemp": "208", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "Schiphol", 
+        "date": "2015-06-11", 
+        "maxTemp": "232", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "Schiphol", 
+        "date": "2015-06-12", 
+        "maxTemp": "266", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "Schiphol", 
+        "date": "2015-06-13", 
+        "maxTemp": "197", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "2015-06-14", 
+        "maxTemp": "173", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Schiphol", 
+        "date": "2015-06-15", 
+        "maxTemp": "175", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "Schiphol", 
+        "date": "2015-06-16", 
+        "maxTemp": "168", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "Schiphol", 
+        "date": "2015-06-17", 
+        "maxTemp": "225", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "2015-06-18", 
+        "maxTemp": "160", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-06-19", 
+        "maxTemp": "168", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Schiphol", 
+        "date": "2015-06-20", 
+        "maxTemp": "167", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "2015-06-21", 
+        "maxTemp": "188", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Schiphol", 
+        "date": "2015-06-22", 
+        "maxTemp": "175", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "Schiphol", 
+        "date": "2015-06-23", 
+        "maxTemp": "149", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "Schiphol", 
+        "date": "2015-06-24", 
+        "maxTemp": "213", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Schiphol", 
+        "date": "2015-06-25", 
+        "maxTemp": "228", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "202", 
+        "city": "Schiphol", 
+        "date": "2015-06-26", 
+        "maxTemp": "247", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "Schiphol", 
+        "date": "2015-06-27", 
+        "maxTemp": "208", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "Schiphol", 
+        "date": "2015-06-28", 
+        "maxTemp": "233", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "Schiphol", 
+        "date": "2015-06-29", 
+        "maxTemp": "228", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "206", 
+        "city": "Schiphol", 
+        "date": "2015-06-30", 
+        "maxTemp": "264", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "261", 
+        "city": "Schiphol", 
+        "date": "2015-07-01", 
+        "maxTemp": "330", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "244", 
+        "city": "Schiphol", 
+        "date": "2015-07-02", 
+        "maxTemp": "302", 
+        "minTemp": "192"
+    }, 
+    {
+        "avgTemp": "238", 
+        "city": "Schiphol", 
+        "date": "2015-07-03", 
+        "maxTemp": "289", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "239", 
+        "city": "Schiphol", 
+        "date": "2015-07-04", 
+        "maxTemp": "309", 
+        "minTemp": "176"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "Schiphol", 
+        "date": "2015-07-05", 
+        "maxTemp": "277", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "183", 
+        "city": "Schiphol", 
+        "date": "2015-07-06", 
+        "maxTemp": "219", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "Schiphol", 
+        "date": "2015-07-07", 
+        "maxTemp": "253", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "Schiphol", 
+        "date": "2015-07-08", 
+        "maxTemp": "195", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "2015-07-09", 
+        "maxTemp": "179", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "172", 
+        "city": "Schiphol", 
+        "date": "2015-07-10", 
+        "maxTemp": "233", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "201", 
+        "city": "Schiphol", 
+        "date": "2015-07-11", 
+        "maxTemp": "274", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Schiphol", 
+        "date": "2015-07-12", 
+        "maxTemp": "199", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "2015-07-13", 
+        "maxTemp": "200", 
+        "minTemp": "168"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "Schiphol", 
+        "date": "2015-07-14", 
+        "maxTemp": "213", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Schiphol", 
+        "date": "2015-07-15", 
+        "maxTemp": "202", 
+        "minTemp": "156"
+    }, 
+    {
+        "avgTemp": "191", 
+        "city": "Schiphol", 
+        "date": "2015-07-16", 
+        "maxTemp": "235", 
+        "minTemp": "129"
+    }, 
+    {
+        "avgTemp": "212", 
+        "city": "Schiphol", 
+        "date": "2015-07-17", 
+        "maxTemp": "253", 
+        "minTemp": "177"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "Schiphol", 
+        "date": "2015-07-18", 
+        "maxTemp": "214", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "2015-07-19", 
+        "maxTemp": "207", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "2015-07-20", 
+        "maxTemp": "212", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "199", 
+        "city": "Schiphol", 
+        "date": "2015-07-21", 
+        "maxTemp": "243", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "Schiphol", 
+        "date": "2015-07-22", 
+        "maxTemp": "229", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Schiphol", 
+        "date": "2015-07-23", 
+        "maxTemp": "215", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "189", 
+        "city": "Schiphol", 
+        "date": "2015-07-24", 
+        "maxTemp": "230", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "2015-07-25", 
+        "maxTemp": "182", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "2015-07-26", 
+        "maxTemp": "211", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "169", 
+        "city": "Schiphol", 
+        "date": "2015-07-27", 
+        "maxTemp": "200", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "2015-07-28", 
+        "maxTemp": "189", 
+        "minTemp": "127"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "Schiphol", 
+        "date": "2015-07-29", 
+        "maxTemp": "175", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "2015-07-30", 
+        "maxTemp": "181", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "2015-07-31", 
+        "maxTemp": "195", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "2015-08-01", 
+        "maxTemp": "211", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "Schiphol", 
+        "date": "2015-08-02", 
+        "maxTemp": "240", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "208", 
+        "city": "Schiphol", 
+        "date": "2015-08-03", 
+        "maxTemp": "283", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "2015-08-04", 
+        "maxTemp": "210", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "191", 
+        "city": "Schiphol", 
+        "date": "2015-08-05", 
+        "maxTemp": "249", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "199", 
+        "city": "Schiphol", 
+        "date": "2015-08-06", 
+        "maxTemp": "267", 
+        "minTemp": "145"
+    }, 
+    {
+        "avgTemp": "194", 
+        "city": "Schiphol", 
+        "date": "2015-08-07", 
+        "maxTemp": "247", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "Schiphol", 
+        "date": "2015-08-08", 
+        "maxTemp": "223", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "191", 
+        "city": "Schiphol", 
+        "date": "2015-08-09", 
+        "maxTemp": "248", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "Schiphol", 
+        "date": "2015-08-10", 
+        "maxTemp": "236", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "199", 
+        "city": "Schiphol", 
+        "date": "2015-08-11", 
+        "maxTemp": "243", 
+        "minTemp": "162"
+    }, 
+    {
+        "avgTemp": "192", 
+        "city": "Schiphol", 
+        "date": "2015-08-12", 
+        "maxTemp": "217", 
+        "minTemp": "172"
+    }, 
+    {
+        "avgTemp": "216", 
+        "city": "Schiphol", 
+        "date": "2015-08-13", 
+        "maxTemp": "269", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "212", 
+        "city": "Schiphol", 
+        "date": "2015-08-14", 
+        "maxTemp": "253", 
+        "minTemp": "178"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "2015-08-15", 
+        "maxTemp": "216", 
+        "minTemp": "155"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Schiphol", 
+        "date": "2015-08-16", 
+        "maxTemp": "184", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "Schiphol", 
+        "date": "2015-08-17", 
+        "maxTemp": "156", 
+        "minTemp": "129"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "Schiphol", 
+        "date": "2015-08-18", 
+        "maxTemp": "174", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "171", 
+        "city": "Schiphol", 
+        "date": "2015-08-19", 
+        "maxTemp": "224", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "188", 
+        "city": "Schiphol", 
+        "date": "2015-08-20", 
+        "maxTemp": "255", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "204", 
+        "city": "Schiphol", 
+        "date": "2015-08-21", 
+        "maxTemp": "251", 
+        "minTemp": "151"
+    }, 
+    {
+        "avgTemp": "214", 
+        "city": "Schiphol", 
+        "date": "2015-08-22", 
+        "maxTemp": "265", 
+        "minTemp": "169"
+    }, 
+    {
+        "avgTemp": "201", 
+        "city": "Schiphol", 
+        "date": "2015-08-23", 
+        "maxTemp": "262", 
+        "minTemp": "163"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "Schiphol", 
+        "date": "2015-08-24", 
+        "maxTemp": "226", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "168", 
+        "city": "Schiphol", 
+        "date": "2015-08-25", 
+        "maxTemp": "201", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "196", 
+        "city": "Schiphol", 
+        "date": "2015-08-26", 
+        "maxTemp": "250", 
+        "minTemp": "163"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "2015-08-27", 
+        "maxTemp": "183", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "Schiphol", 
+        "date": "2015-08-28", 
+        "maxTemp": "206", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Schiphol", 
+        "date": "2015-08-29", 
+        "maxTemp": "230", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "Schiphol", 
+        "date": "2015-08-30", 
+        "maxTemp": "238", 
+        "minTemp": "159"
+    }, 
+    {
+        "avgTemp": "203", 
+        "city": "Schiphol", 
+        "date": "2015-08-31", 
+        "maxTemp": "250", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Schiphol", 
+        "date": "2015-09-01", 
+        "maxTemp": "190", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "2015-09-02", 
+        "maxTemp": "187", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Schiphol", 
+        "date": "2015-09-03", 
+        "maxTemp": "168", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "2015-09-04", 
+        "maxTemp": "159", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "2015-09-05", 
+        "maxTemp": "170", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "Schiphol", 
+        "date": "2015-09-06", 
+        "maxTemp": "168", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Schiphol", 
+        "date": "2015-09-07", 
+        "maxTemp": "182", 
+        "minTemp": "122"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Schiphol", 
+        "date": "2015-09-08", 
+        "maxTemp": "172", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "Schiphol", 
+        "date": "2015-09-09", 
+        "maxTemp": "186", 
+        "minTemp": "90"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "2015-09-10", 
+        "maxTemp": "196", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "2015-09-11", 
+        "maxTemp": "194", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "2015-09-12", 
+        "maxTemp": "198", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Schiphol", 
+        "date": "2015-09-13", 
+        "maxTemp": "191", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "Schiphol", 
+        "date": "2015-09-14", 
+        "maxTemp": "188", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-09-15", 
+        "maxTemp": "154", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "2015-09-16", 
+        "maxTemp": "189", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "2015-09-17", 
+        "maxTemp": "158", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "2015-09-18", 
+        "maxTemp": "177", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "2015-09-19", 
+        "maxTemp": "177", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "2015-09-20", 
+        "maxTemp": "185", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "2015-09-21", 
+        "maxTemp": "187", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "2015-09-22", 
+        "maxTemp": "178", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-09-23", 
+        "maxTemp": "172", 
+        "minTemp": "90"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Schiphol", 
+        "date": "2015-09-24", 
+        "maxTemp": "151", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "Schiphol", 
+        "date": "2015-09-25", 
+        "maxTemp": "172", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-09-26", 
+        "maxTemp": "173", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "2015-09-27", 
+        "maxTemp": "173", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "2015-09-28", 
+        "maxTemp": "172", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "2015-09-29", 
+        "maxTemp": "174", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Schiphol", 
+        "date": "2015-09-30", 
+        "maxTemp": "175", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "2015-10-01", 
+        "maxTemp": "166", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-10-02", 
+        "maxTemp": "169", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-10-03", 
+        "maxTemp": "178", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "Schiphol", 
+        "date": "2015-10-04", 
+        "maxTemp": "174", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Schiphol", 
+        "date": "2015-10-05", 
+        "maxTemp": "170", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "155", 
+        "city": "Schiphol", 
+        "date": "2015-10-06", 
+        "maxTemp": "188", 
+        "minTemp": "132"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "2015-10-07", 
+        "maxTemp": "163", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-10-08", 
+        "maxTemp": "158", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-10-09", 
+        "maxTemp": "165", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "Schiphol", 
+        "date": "2015-10-10", 
+        "maxTemp": "145", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Schiphol", 
+        "date": "2015-10-11", 
+        "maxTemp": "116", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "2015-10-12", 
+        "maxTemp": "101", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "Schiphol", 
+        "date": "2015-10-13", 
+        "maxTemp": "81", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "2015-10-14", 
+        "maxTemp": "90", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "2015-10-15", 
+        "maxTemp": "89", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Schiphol", 
+        "date": "2015-10-16", 
+        "maxTemp": "100", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Schiphol", 
+        "date": "2015-10-17", 
+        "maxTemp": "102", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Schiphol", 
+        "date": "2015-10-18", 
+        "maxTemp": "118", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Schiphol", 
+        "date": "2015-10-19", 
+        "maxTemp": "137", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "2015-10-20", 
+        "maxTemp": "132", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "Schiphol", 
+        "date": "2015-10-21", 
+        "maxTemp": "121", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-10-22", 
+        "maxTemp": "152", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "115", 
+        "city": "Schiphol", 
+        "date": "2015-10-23", 
+        "maxTemp": "140", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "Schiphol", 
+        "date": "2015-10-24", 
+        "maxTemp": "135", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "2015-10-25", 
+        "maxTemp": "138", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Schiphol", 
+        "date": "2015-10-26", 
+        "maxTemp": "161", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "115", 
+        "city": "Schiphol", 
+        "date": "2015-10-27", 
+        "maxTemp": "171", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "2015-10-28", 
+        "maxTemp": "133", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "2015-10-29", 
+        "maxTemp": "155", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "104", 
+        "city": "Schiphol", 
+        "date": "2015-10-30", 
+        "maxTemp": "151", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "2015-10-31", 
+        "maxTemp": "147", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Schiphol", 
+        "date": "2015-11-01", 
+        "maxTemp": "127", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "2015-11-02", 
+        "maxTemp": "154", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "2015-11-03", 
+        "maxTemp": "156", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-11-04", 
+        "maxTemp": "146", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Schiphol", 
+        "date": "2015-11-05", 
+        "maxTemp": "151", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "Schiphol", 
+        "date": "2015-11-06", 
+        "maxTemp": "171", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "Schiphol", 
+        "date": "2015-11-07", 
+        "maxTemp": "182", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "2015-11-08", 
+        "maxTemp": "174", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "2015-11-09", 
+        "maxTemp": "160", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "2015-11-10", 
+        "maxTemp": "157", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Schiphol", 
+        "date": "2015-11-11", 
+        "maxTemp": "139", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-11-12", 
+        "maxTemp": "157", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Schiphol", 
+        "date": "2015-11-13", 
+        "maxTemp": "137", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "101", 
+        "city": "Schiphol", 
+        "date": "2015-11-14", 
+        "maxTemp": "141", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Schiphol", 
+        "date": "2015-11-15", 
+        "maxTemp": "149", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "2015-11-16", 
+        "maxTemp": "137", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "2015-11-17", 
+        "maxTemp": "155", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "2015-11-18", 
+        "maxTemp": "143", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Schiphol", 
+        "date": "2015-11-19", 
+        "maxTemp": "133", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "2015-11-20", 
+        "maxTemp": "101", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "Schiphol", 
+        "date": "2015-11-21", 
+        "maxTemp": "73", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "Schiphol", 
+        "date": "2015-11-22", 
+        "maxTemp": "59", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "2015-11-23", 
+        "maxTemp": "75", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "Schiphol", 
+        "date": "2015-11-24", 
+        "maxTemp": "70", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "Schiphol", 
+        "date": "2015-11-25", 
+        "maxTemp": "83", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "Schiphol", 
+        "date": "2015-11-26", 
+        "maxTemp": "97", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "Schiphol", 
+        "date": "2015-11-27", 
+        "maxTemp": "73", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "2015-11-28", 
+        "maxTemp": "85", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "Schiphol", 
+        "date": "2015-11-29", 
+        "maxTemp": "125", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Schiphol", 
+        "date": "2015-11-30", 
+        "maxTemp": "123", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "2015-12-01", 
+        "maxTemp": "128", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "Schiphol", 
+        "date": "2015-12-02", 
+        "maxTemp": "120", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "Schiphol", 
+        "date": "2015-12-03", 
+        "maxTemp": "110", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "Schiphol", 
+        "date": "2015-12-04", 
+        "maxTemp": "110", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "81", 
+        "city": "Schiphol", 
+        "date": "2015-12-05", 
+        "maxTemp": "93", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "Schiphol", 
+        "date": "2015-12-06", 
+        "maxTemp": "125", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "Schiphol", 
+        "date": "2015-12-07", 
+        "maxTemp": "122", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "2015-12-08", 
+        "maxTemp": "113", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "2015-12-09", 
+        "maxTemp": "101", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "2015-12-10", 
+        "maxTemp": "76", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "2015-12-11", 
+        "maxTemp": "98", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "2015-12-12", 
+        "maxTemp": "121", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "2015-12-13", 
+        "maxTemp": "117", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "2015-12-14", 
+        "maxTemp": "98", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "2015-12-15", 
+        "maxTemp": "94", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "Schiphol", 
+        "date": "2015-12-16", 
+        "maxTemp": "134", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "2015-12-17", 
+        "maxTemp": "144", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "Schiphol", 
+        "date": "2015-12-18", 
+        "maxTemp": "131", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Schiphol", 
+        "date": "2015-12-19", 
+        "maxTemp": "136", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "Schiphol", 
+        "date": "2015-12-20", 
+        "maxTemp": "125", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Schiphol", 
+        "date": "2015-12-21", 
+        "maxTemp": "122", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "2015-12-22", 
+        "maxTemp": "137", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Schiphol", 
+        "date": "2015-12-23", 
+        "maxTemp": "127", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "Schiphol", 
+        "date": "2015-12-24", 
+        "maxTemp": "127", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "2015-12-25", 
+        "maxTemp": "138", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Schiphol", 
+        "date": "2015-12-26", 
+        "maxTemp": "148", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "2015-12-27", 
+        "maxTemp": "134", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Schiphol", 
+        "date": "2015-12-28", 
+        "maxTemp": "116", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "2015-12-29", 
+        "maxTemp": "98", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Schiphol", 
+        "date": "2015-12-30", 
+        "maxTemp": "94", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "2015-12-31", 
+        "maxTemp": "99", 
+        "minTemp": "51"
+    }
+]
