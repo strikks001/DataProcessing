@@ -12,35 +12,85 @@ Sanne Strikkers
 
 */
 
+
+/*
+    Style content of the body
+*/
+
 body {
-  font: 10px sans-serif;
+    font: 10px sans-serif;
 }
+.graph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+footer {
+    text-align: center;
+    margin-top: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+/*
+    Axis of the linechart
+*/
 
 .axis path,
 .axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.x.axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
 }
 
-.x.axis path {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
+/*
+    Line of the linechart
+*/
 
 .line {
-  fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+    fill: none;
+    stroke: #008ae6;
+    stroke-width: 1.5px;
 }
+
+/*
+    Cross-hair
+*/
 
 .overlay {
-  fill: none;
-  pointer-events: all;
+    fill: none;
+    pointer-events: all;
+}
+.focus line {
+    fill: none;
+    stroke: orange;
+}
+.focus line {
+    opacity: 0.5;
 }
 
-.focus circle {
-  fill: none;
-  stroke: steelblue;
+/*
+    Tool-tip
+*/
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    width: 100px;
+    height: 30px;
+    padding: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    background: #808080;
+    border: 0px;
+    border-radius: 3px;
 }

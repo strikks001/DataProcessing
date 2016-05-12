@@ -46,13 +46,19 @@ var line = d3.svg.line()
         return y(d.avgTemp);
     });
 
+// Define the div for the tooltip
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
 var bisectDate = d3.bisector(function (d) {
     return d.date;
 }).left;
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select(".chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
+    .attr("class", "graph")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -91,36 +97,60 @@ d3.json("d3lineSchiphol.json", function (error, data) {
         .attr("class", "line")
         .attr("d", line);
 
+    // add cross hairs and floating value on axis
     var focus = svg.append("g")
         .attr("class", "focus")
         .style("display", "none");
 
-    focus.append("circle")
-        .attr("r", 4.5);
+    // horizontal crosshair	
+    focus.append("line")
+        .attr({
+            "x1": -width,
+            "y1": 0,
+            "x2": width,
+            "y2": 0
+        });
 
-    focus.append("text")
-        .attr("x", 9)
-        .attr("dy", ".35em");
+
+    // vertical crosshair
+    focus.append("line")
+        .attr({
+            "x1": 0,
+            "y1": -height,
+            "x2": 0,
+            "y2": height
+        });
+
 
     svg.append("rect")
-        .attr("class", "overlay")
-        .attr("width", width)
-        .attr("height", height)
-        .on("mouseover", function () {
-            focus.style("display", null);
+        .attr({
+            "class": "overlay",
+            "width": width,
+            "height": height
         })
-        .on("mouseout", function () {
-            focus.style("display", "none");
-        })
-        .on("mousemove", mousemove);
+        .on({
+            "mouseover": function (d) {
+                focus.style("display", null);
+            },
+            "mouseout": function (d) {
+                focus.style("display", "none");
+            },
+            "mousemove": mousemove
+        });
 
     function mousemove() {
+        var dateOutput = d3.time.format("%Y-%m-%d");
         var x0 = x.invert(d3.mouse(this)[0]),
             i = bisectDate(data, x0, 1),
             d0 = data[i - 1],
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
         focus.attr("transform", "translate(" + x(d.date) + "," + y(d.avgTemp) + ")");
-        focus.select("text").text(d.avgTemp);
+        div.transition()
+            .duration(200)
+            .style("opacity", .9);
+        div.html("Avg. Temp.: " + d.avgTemp + "</br>Date: " + dateOutput(d.date))
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
     }
 });
