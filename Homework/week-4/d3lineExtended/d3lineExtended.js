@@ -22,16 +22,12 @@ var margin = {
     width = 960 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
+// first showing information
+var city = "Schiphol"
+var year = "1995"
+
 // convert to JavaScript Date object
 var formatDate = d3.time.format("%Y-%m-%d").parse;
-
-
-var color_hash = {
-    0: ["Average Temperature", "#1f77b4"],
-    1: ["Maximum Temperature", "#2ca02c"],
-    2: ["Minimum Temperature", "#ff7f0e"]
-
-};
 
 // x-axis
 var x = d3.time.scale()
@@ -61,6 +57,7 @@ var line = d3.svg.line()
         return y(d.temperature);
     });
 
+// setting up the whole chart
 var svg = d3.select(".chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -83,6 +80,22 @@ svg.append("g")
     .style("text-anchor", "end")
     .text("Temperature (in 0.1 Celcius)");
 
+// define the div for the tooltip
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+// define the crosshair for the graph
+var bisectDate = d3.bisector(function (d) {
+    return d.date;
+}).left;
+
+// set up the legend with the right colors.
+var color_legend = {
+    0: ["Average Temperature", "#1f77b4"],
+    1: ["Maximum Temperature", "#2ca02c"],
+    2: ["Minimum Temperature", "#ff7f0e"]
+};
 var legend = svg.append("g")
     .attr("class", "legend")
     .attr("x", width - (margin.right + 100) - 65)
@@ -90,30 +103,34 @@ var legend = svg.append("g")
     .attr("height", 100)
     .attr("width", 100);
 
-var city = "Schiphol"
-var year = "1995"
-
+// when you first see the page
 update(year);
 
+// clicking on a year will update the chart 
 d3.selectAll(".menu")
     .on("click", function () {
         var date = d3.select(this).attr("id");
         year = date;
+        // change title
         d3.select(".year-title")
             .text("Year: " + year);
+        // update chart
         update();
     });
 
+// selecting a city will update the chart 
 d3.selectAll("select")
     .on("change", function () {
         var cit = d3.select(this).property('value');
+        // change title
         city = cit;
         d3.select(".city-title")
             .text("Temperature in " + city);
+        // update chart
         update();
     });
 
-// draw and redraw, calculate axes/domains, etc here
+// draw and redraw chart
 function update() {
     // recieve data
     d3.json("data/d3line" + city + year + ".json", function (error, data) {
@@ -123,7 +140,7 @@ function update() {
             throw error;
         };
 
-        // filter out the city and date, the won't be seen in the chart
+        // filter out the city and date, this won't be seen in the chart
         color.domain(d3.keys(data[0]).filter(function (key) {
             return key !== "date" && key !== "city";
         }));
@@ -132,7 +149,6 @@ function update() {
         data.forEach(function (d) {
             d.date = formatDate(d.date);
         });
-
 
         // setting up the different lines with different temperature values
         var temperatures = color.domain().map(function (name) {
@@ -147,6 +163,7 @@ function update() {
             };
         });
 
+        // showing the legend at the right top of the chart
         legend.selectAll("g").data(temperatures)
             .enter()
             .append('g')
@@ -157,15 +174,15 @@ function update() {
                     .attr("y", i * 25 + 10)
                     .attr("width", 10)
                     .attr("height", 10)
-                    .style("fill", color_hash[String(i)][1]);
+                    .style("fill", color_legend[String(i)][1]);
 
                 g.append("text")
                     .attr("x", width - margin.right - 105)
                     .attr("y", i * 25 + 20)
                     .attr("height", 30)
                     .attr("width", 100)
-                    .style("fill", color_hash[String(i)][1])
-                    .text(color_hash[String(i)][0]);
+                    .style("fill", color_legend[String(i)][1])
+                    .text(color_legend[String(i)][0]);
             });
 
 
@@ -176,17 +193,17 @@ function update() {
 
         // y domain with minimal and maximal temperature values
         y.domain([
-    d3.min(temperatures, function (c) {
+            d3.min(temperatures, function (c) {
                 return d3.min(c.values, function (v) {
                     return v.temperature;
                 });
             }),
-    d3.max(temperatures, function (c) {
+            d3.max(temperatures, function (c) {
                 return d3.max(c.values, function (v) {
                     return v.temperature;
                 });
             })
-  ]);
+        ]);
 
 
         // update axes
@@ -196,7 +213,7 @@ function update() {
         d3.transition(svg).select('.x.axis')
             .call(xAxis);
 
-
+        // creating all the lines
         var temperature = svg.selectAll(".temperature")
             .data(temperatures);
 
@@ -212,10 +229,10 @@ function update() {
                 return color(d.name);
             });
 
-        // transition by selecting 'city'...
+        // transition by selecting 'temperature'
         temperatureUpdate = d3.transition(temperature);
 
-        // ... and each path within
+        // and each path within
         temperatureUpdate.select('path')
             .transition().duration(600)
             .attr("d", function (d) {
@@ -223,6 +240,76 @@ function update() {
             });
 
         temperature.exit().remove();
+
+        // add cross hairs and floating value on axis
+        var focus = svg.append("g")
+            .attr("class", "focus")
+            .style("display", "none");
+
+        // horizontal crosshair	
+        focus.append("line")
+            .attr({
+                "x1": -width,
+                "y1": 0,
+                "x2": width,
+                "y2": 0
+            });
+
+        // vertical crosshair
+        focus.append("line")
+            .attr({
+                "x1": 0,
+                "y1": -height,
+                "x2": 0,
+                "y2": height
+            });
+
+        // focus circle
+        focus.append('circle')
+            .attr('id', 'focusCircle')
+            .attr('r', 5)
+            .attr('class', 'circle focusCircle');
+
+        // focus graph
+        svg.append("rect")
+            .attr({
+                "class": "overlay",
+                "width": width,
+                "height": height
+            })
+            .on({
+                "mouseover": function (d) {
+                    focus.style("display", null);
+                },
+                "mouseout": function (d) {
+                    focus.style("display", "none");
+                },
+                "mousemove": mousemove
+            });
+
+        /*
+        Showing the crosshair on mousemove and update data for the tooltip
+        */
+        function mousemove() {
+            // format the date 
+            var dateOutput = d3.time.format("%Y-%m-%d");
+
+            // getting specific data
+            var x0 = x.invert(d3.mouse(this)[0]),
+                i = bisectDate(data, x0, 1),
+                d0 = data[i - 1],
+                d1 = data[i],
+                d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+            focus.attr("transform", "translate(" + x(d.date) + "," + y(d.avgTemp) + ")");
+
+            // add tooltip with text
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div.html("Avg. Temp.: <strong>" + d.avgTemp + "</strong></br>Date: <strong>" + dateOutput(d.date) + "</strong>")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", "250px");
+        }
 
 
     });
