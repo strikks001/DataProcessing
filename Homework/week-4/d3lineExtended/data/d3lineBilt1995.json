@@ -1,0 +1,2557 @@
+[
+    {
+        "avgTemp": "20", 
+        "city": "De Bilt", 
+        "date": "1995-01-01", 
+        "maxTemp": "38", 
+        "minTemp": "2"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "1995-01-02", 
+        "maxTemp": "59", 
+        "minTemp": "-12"
+    }, 
+    {
+        "avgTemp": "-5", 
+        "city": "De Bilt", 
+        "date": "1995-01-03", 
+        "maxTemp": "23", 
+        "minTemp": "-38"
+    }, 
+    {
+        "avgTemp": "-28", 
+        "city": "De Bilt", 
+        "date": "1995-01-04", 
+        "maxTemp": "3", 
+        "minTemp": "-48"
+    }, 
+    {
+        "avgTemp": "-39", 
+        "city": "De Bilt", 
+        "date": "1995-01-05", 
+        "maxTemp": "-18", 
+        "minTemp": "-59"
+    }, 
+    {
+        "avgTemp": "-31", 
+        "city": "De Bilt", 
+        "date": "1995-01-06", 
+        "maxTemp": "-11", 
+        "minTemp": "-45"
+    }, 
+    {
+        "avgTemp": "-21", 
+        "city": "De Bilt", 
+        "date": "1995-01-07", 
+        "maxTemp": "-8", 
+        "minTemp": "-79"
+    }, 
+    {
+        "avgTemp": "0", 
+        "city": "De Bilt", 
+        "date": "1995-01-08", 
+        "maxTemp": "35", 
+        "minTemp": "-26"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "De Bilt", 
+        "date": "1995-01-09", 
+        "maxTemp": "86", 
+        "minTemp": "-9"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "De Bilt", 
+        "date": "1995-01-10", 
+        "maxTemp": "78", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "De Bilt", 
+        "date": "1995-01-11", 
+        "maxTemp": "56", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "1995-01-12", 
+        "maxTemp": "51", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "1995-01-13", 
+        "maxTemp": "61", 
+        "minTemp": "-13"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "De Bilt", 
+        "date": "1995-01-14", 
+        "maxTemp": "75", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "1995-01-15", 
+        "maxTemp": "82", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "De Bilt", 
+        "date": "1995-01-16", 
+        "maxTemp": "77", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "De Bilt", 
+        "date": "1995-01-17", 
+        "maxTemp": "73", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "De Bilt", 
+        "date": "1995-01-18", 
+        "maxTemp": "94", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "1995-01-19", 
+        "maxTemp": "84", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "De Bilt", 
+        "date": "1995-01-20", 
+        "maxTemp": "102", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "De Bilt", 
+        "date": "1995-01-21", 
+        "maxTemp": "86", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "1995-01-22", 
+        "maxTemp": "121", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "De Bilt", 
+        "date": "1995-01-23", 
+        "maxTemp": "81", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "1995-01-24", 
+        "maxTemp": "79", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "De Bilt", 
+        "date": "1995-01-25", 
+        "maxTemp": "115", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "De Bilt", 
+        "date": "1995-01-26", 
+        "maxTemp": "122", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "De Bilt", 
+        "date": "1995-01-27", 
+        "maxTemp": "47", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "De Bilt", 
+        "date": "1995-01-28", 
+        "maxTemp": "100", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "1995-01-29", 
+        "maxTemp": "93", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "31", 
+        "city": "De Bilt", 
+        "date": "1995-01-30", 
+        "maxTemp": "64", 
+        "minTemp": "-13"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "De Bilt", 
+        "date": "1995-01-31", 
+        "maxTemp": "80", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "101", 
+        "city": "De Bilt", 
+        "date": "1995-02-01", 
+        "maxTemp": "129", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "De Bilt", 
+        "date": "1995-02-02", 
+        "maxTemp": "81", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "1995-02-03", 
+        "maxTemp": "89", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "De Bilt", 
+        "date": "1995-02-04", 
+        "maxTemp": "102", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "De Bilt", 
+        "date": "1995-02-05", 
+        "maxTemp": "84", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "De Bilt", 
+        "date": "1995-02-06", 
+        "maxTemp": "105", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "De Bilt", 
+        "date": "1995-02-07", 
+        "maxTemp": "96", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "De Bilt", 
+        "date": "1995-02-08", 
+        "maxTemp": "88", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "14", 
+        "city": "De Bilt", 
+        "date": "1995-02-09", 
+        "maxTemp": "50", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "21", 
+        "city": "De Bilt", 
+        "date": "1995-02-10", 
+        "maxTemp": "55", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "De Bilt", 
+        "date": "1995-02-11", 
+        "maxTemp": "121", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-02-12", 
+        "maxTemp": "117", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "De Bilt", 
+        "date": "1995-02-13", 
+        "maxTemp": "109", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "1995-02-14", 
+        "maxTemp": "109", 
+        "minTemp": "62"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "De Bilt", 
+        "date": "1995-02-15", 
+        "maxTemp": "119", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "1995-02-16", 
+        "maxTemp": "100", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "De Bilt", 
+        "date": "1995-02-17", 
+        "maxTemp": "100", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "1995-02-18", 
+        "maxTemp": "83", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "1995-02-19", 
+        "maxTemp": "116", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-02-20", 
+        "maxTemp": "114", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "De Bilt", 
+        "date": "1995-02-21", 
+        "maxTemp": "109", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "De Bilt", 
+        "date": "1995-02-22", 
+        "maxTemp": "91", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "De Bilt", 
+        "date": "1995-02-23", 
+        "maxTemp": "78", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "De Bilt", 
+        "date": "1995-02-24", 
+        "maxTemp": "66", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "De Bilt", 
+        "date": "1995-02-25", 
+        "maxTemp": "66", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "29", 
+        "city": "De Bilt", 
+        "date": "1995-02-26", 
+        "maxTemp": "65", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "De Bilt", 
+        "date": "1995-02-27", 
+        "maxTemp": "75", 
+        "minTemp": "-9"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "1995-02-28", 
+        "maxTemp": "119", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "De Bilt", 
+        "date": "1995-03-01", 
+        "maxTemp": "104", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "38", 
+        "city": "De Bilt", 
+        "date": "1995-03-02", 
+        "maxTemp": "57", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "De Bilt", 
+        "date": "1995-03-03", 
+        "maxTemp": "65", 
+        "minTemp": "2"
+    }, 
+    {
+        "avgTemp": "18", 
+        "city": "De Bilt", 
+        "date": "1995-03-04", 
+        "maxTemp": "51", 
+        "minTemp": "2"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "De Bilt", 
+        "date": "1995-03-05", 
+        "maxTemp": "34", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "De Bilt", 
+        "date": "1995-03-06", 
+        "maxTemp": "68", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "De Bilt", 
+        "date": "1995-03-07", 
+        "maxTemp": "80", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "De Bilt", 
+        "date": "1995-03-08", 
+        "maxTemp": "76", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "De Bilt", 
+        "date": "1995-03-09", 
+        "maxTemp": "100", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "De Bilt", 
+        "date": "1995-03-10", 
+        "maxTemp": "112", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "81", 
+        "city": "De Bilt", 
+        "date": "1995-03-11", 
+        "maxTemp": "134", 
+        "minTemp": "38"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "De Bilt", 
+        "date": "1995-03-12", 
+        "maxTemp": "150", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "De Bilt", 
+        "date": "1995-03-13", 
+        "maxTemp": "144", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "De Bilt", 
+        "date": "1995-03-14", 
+        "maxTemp": "74", 
+        "minTemp": "-4"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "De Bilt", 
+        "date": "1995-03-15", 
+        "maxTemp": "83", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "De Bilt", 
+        "date": "1995-03-16", 
+        "maxTemp": "93", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "De Bilt", 
+        "date": "1995-03-17", 
+        "maxTemp": "125", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "1995-03-18", 
+        "maxTemp": "109", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "De Bilt", 
+        "date": "1995-03-19", 
+        "maxTemp": "94", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "De Bilt", 
+        "date": "1995-03-20", 
+        "maxTemp": "75", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "De Bilt", 
+        "date": "1995-03-21", 
+        "maxTemp": "86", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "De Bilt", 
+        "date": "1995-03-22", 
+        "maxTemp": "93", 
+        "minTemp": "-23"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "1995-03-23", 
+        "maxTemp": "138", 
+        "minTemp": "-13"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "1995-03-24", 
+        "maxTemp": "117", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "De Bilt", 
+        "date": "1995-03-25", 
+        "maxTemp": "99", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-03-26", 
+        "maxTemp": "116", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "40", 
+        "city": "De Bilt", 
+        "date": "1995-03-27", 
+        "maxTemp": "86", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "11", 
+        "city": "De Bilt", 
+        "date": "1995-03-28", 
+        "maxTemp": "45", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "De Bilt", 
+        "date": "1995-03-29", 
+        "maxTemp": "77", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "De Bilt", 
+        "date": "1995-03-30", 
+        "maxTemp": "89", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "De Bilt", 
+        "date": "1995-03-31", 
+        "maxTemp": "104", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "De Bilt", 
+        "date": "1995-04-01", 
+        "maxTemp": "149", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "De Bilt", 
+        "date": "1995-04-02", 
+        "maxTemp": "174", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "De Bilt", 
+        "date": "1995-04-03", 
+        "maxTemp": "102", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "De Bilt", 
+        "date": "1995-04-04", 
+        "maxTemp": "122", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "De Bilt", 
+        "date": "1995-04-05", 
+        "maxTemp": "139", 
+        "minTemp": "-12"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "De Bilt", 
+        "date": "1995-04-06", 
+        "maxTemp": "132", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "De Bilt", 
+        "date": "1995-04-07", 
+        "maxTemp": "144", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "De Bilt", 
+        "date": "1995-04-08", 
+        "maxTemp": "101", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "De Bilt", 
+        "date": "1995-04-09", 
+        "maxTemp": "84", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "De Bilt", 
+        "date": "1995-04-10", 
+        "maxTemp": "110", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "1995-04-11", 
+        "maxTemp": "158", 
+        "minTemp": "62"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "De Bilt", 
+        "date": "1995-04-12", 
+        "maxTemp": "131", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-04-13", 
+        "maxTemp": "125", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-04-14", 
+        "maxTemp": "124", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "De Bilt", 
+        "date": "1995-04-15", 
+        "maxTemp": "111", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "1995-04-16", 
+        "maxTemp": "108", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "1995-04-17", 
+        "maxTemp": "96", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "1995-04-18", 
+        "maxTemp": "101", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "De Bilt", 
+        "date": "1995-04-19", 
+        "maxTemp": "101", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "De Bilt", 
+        "date": "1995-04-20", 
+        "maxTemp": "98", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "1995-04-21", 
+        "maxTemp": "124", 
+        "minTemp": "-19"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "De Bilt", 
+        "date": "1995-04-22", 
+        "maxTemp": "158", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "1995-04-23", 
+        "maxTemp": "170", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "De Bilt", 
+        "date": "1995-04-24", 
+        "maxTemp": "258", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "168", 
+        "city": "De Bilt", 
+        "date": "1995-04-25", 
+        "maxTemp": "219", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "1995-04-26", 
+        "maxTemp": "208", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "De Bilt", 
+        "date": "1995-04-27", 
+        "maxTemp": "109", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "1995-04-28", 
+        "maxTemp": "110", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "1995-04-29", 
+        "maxTemp": "156", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "1995-04-30", 
+        "maxTemp": "141", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "De Bilt", 
+        "date": "1995-05-01", 
+        "maxTemp": "195", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "1995-05-02", 
+        "maxTemp": "215", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "1995-05-03", 
+        "maxTemp": "231", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "De Bilt", 
+        "date": "1995-05-04", 
+        "maxTemp": "249", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "De Bilt", 
+        "date": "1995-05-05", 
+        "maxTemp": "261", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "De Bilt", 
+        "date": "1995-05-06", 
+        "maxTemp": "239", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "De Bilt", 
+        "date": "1995-05-07", 
+        "maxTemp": "247", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "De Bilt", 
+        "date": "1995-05-08", 
+        "maxTemp": "148", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "1995-05-09", 
+        "maxTemp": "116", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "1995-05-10", 
+        "maxTemp": "135", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "1995-05-11", 
+        "maxTemp": "109", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "De Bilt", 
+        "date": "1995-05-12", 
+        "maxTemp": "126", 
+        "minTemp": "52"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "1995-05-13", 
+        "maxTemp": "128", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "De Bilt", 
+        "date": "1995-05-14", 
+        "maxTemp": "126", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "De Bilt", 
+        "date": "1995-05-15", 
+        "maxTemp": "145", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "De Bilt", 
+        "date": "1995-05-16", 
+        "maxTemp": "154", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "De Bilt", 
+        "date": "1995-05-17", 
+        "maxTemp": "157", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "1995-05-18", 
+        "maxTemp": "103", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "De Bilt", 
+        "date": "1995-05-19", 
+        "maxTemp": "144", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "De Bilt", 
+        "date": "1995-05-20", 
+        "maxTemp": "163", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "De Bilt", 
+        "date": "1995-05-21", 
+        "maxTemp": "134", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "De Bilt", 
+        "date": "1995-05-22", 
+        "maxTemp": "177", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "De Bilt", 
+        "date": "1995-05-23", 
+        "maxTemp": "226", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "De Bilt", 
+        "date": "1995-05-24", 
+        "maxTemp": "252", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "1995-05-25", 
+        "maxTemp": "212", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "De Bilt", 
+        "date": "1995-05-26", 
+        "maxTemp": "209", 
+        "minTemp": "127"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "De Bilt", 
+        "date": "1995-05-27", 
+        "maxTemp": "207", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "175", 
+        "city": "De Bilt", 
+        "date": "1995-05-28", 
+        "maxTemp": "232", 
+        "minTemp": "130"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "De Bilt", 
+        "date": "1995-05-29", 
+        "maxTemp": "200", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "De Bilt", 
+        "date": "1995-05-30", 
+        "maxTemp": "198", 
+        "minTemp": "90"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "De Bilt", 
+        "date": "1995-05-31", 
+        "maxTemp": "195", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "1995-06-01", 
+        "maxTemp": "165", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "1995-06-02", 
+        "maxTemp": "172", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-06-03", 
+        "maxTemp": "196", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "De Bilt", 
+        "date": "1995-06-04", 
+        "maxTemp": "181", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "De Bilt", 
+        "date": "1995-06-05", 
+        "maxTemp": "181", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "De Bilt", 
+        "date": "1995-06-06", 
+        "maxTemp": "150", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "1995-06-07", 
+        "maxTemp": "145", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "1995-06-08", 
+        "maxTemp": "143", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "De Bilt", 
+        "date": "1995-06-09", 
+        "maxTemp": "117", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "115", 
+        "city": "De Bilt", 
+        "date": "1995-06-10", 
+        "maxTemp": "153", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "1995-06-11", 
+        "maxTemp": "169", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "1995-06-12", 
+        "maxTemp": "146", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "1995-06-13", 
+        "maxTemp": "186", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "1995-06-14", 
+        "maxTemp": "135", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "De Bilt", 
+        "date": "1995-06-15", 
+        "maxTemp": "129", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "1995-06-16", 
+        "maxTemp": "131", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "1995-06-17", 
+        "maxTemp": "154", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "De Bilt", 
+        "date": "1995-06-18", 
+        "maxTemp": "190", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "167", 
+        "city": "De Bilt", 
+        "date": "1995-06-19", 
+        "maxTemp": "221", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "De Bilt", 
+        "date": "1995-06-20", 
+        "maxTemp": "263", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "De Bilt", 
+        "date": "1995-06-21", 
+        "maxTemp": "209", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "De Bilt", 
+        "date": "1995-06-22", 
+        "maxTemp": "164", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-06-23", 
+        "maxTemp": "184", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "De Bilt", 
+        "date": "1995-06-24", 
+        "maxTemp": "204", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "De Bilt", 
+        "date": "1995-06-25", 
+        "maxTemp": "245", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "De Bilt", 
+        "date": "1995-06-26", 
+        "maxTemp": "266", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "225", 
+        "city": "De Bilt", 
+        "date": "1995-06-27", 
+        "maxTemp": "288", 
+        "minTemp": "143"
+    }, 
+    {
+        "avgTemp": "232", 
+        "city": "De Bilt", 
+        "date": "1995-06-28", 
+        "maxTemp": "291", 
+        "minTemp": "167"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "De Bilt", 
+        "date": "1995-06-29", 
+        "maxTemp": "257", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "205", 
+        "city": "De Bilt", 
+        "date": "1995-06-30", 
+        "maxTemp": "288", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "De Bilt", 
+        "date": "1995-07-01", 
+        "maxTemp": "224", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "189", 
+        "city": "De Bilt", 
+        "date": "1995-07-02", 
+        "maxTemp": "259", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "De Bilt", 
+        "date": "1995-07-03", 
+        "maxTemp": "166", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "De Bilt", 
+        "date": "1995-07-04", 
+        "maxTemp": "187", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "De Bilt", 
+        "date": "1995-07-05", 
+        "maxTemp": "215", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "De Bilt", 
+        "date": "1995-07-06", 
+        "maxTemp": "233", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "De Bilt", 
+        "date": "1995-07-07", 
+        "maxTemp": "247", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "213", 
+        "city": "De Bilt", 
+        "date": "1995-07-08", 
+        "maxTemp": "276", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "228", 
+        "city": "De Bilt", 
+        "date": "1995-07-09", 
+        "maxTemp": "278", 
+        "minTemp": "169"
+    }, 
+    {
+        "avgTemp": "256", 
+        "city": "De Bilt", 
+        "date": "1995-07-10", 
+        "maxTemp": "324", 
+        "minTemp": "182"
+    }, 
+    {
+        "avgTemp": "246", 
+        "city": "De Bilt", 
+        "date": "1995-07-11", 
+        "maxTemp": "318", 
+        "minTemp": "186"
+    }, 
+    {
+        "avgTemp": "214", 
+        "city": "De Bilt", 
+        "date": "1995-07-12", 
+        "maxTemp": "272", 
+        "minTemp": "160"
+    }, 
+    {
+        "avgTemp": "228", 
+        "city": "De Bilt", 
+        "date": "1995-07-13", 
+        "maxTemp": "292", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "212", 
+        "city": "De Bilt", 
+        "date": "1995-07-14", 
+        "maxTemp": "249", 
+        "minTemp": "162"
+    }, 
+    {
+        "avgTemp": "194", 
+        "city": "De Bilt", 
+        "date": "1995-07-15", 
+        "maxTemp": "239", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "183", 
+        "city": "De Bilt", 
+        "date": "1995-07-16", 
+        "maxTemp": "227", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "De Bilt", 
+        "date": "1995-07-17", 
+        "maxTemp": "218", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "De Bilt", 
+        "date": "1995-07-18", 
+        "maxTemp": "191", 
+        "minTemp": "161"
+    }, 
+    {
+        "avgTemp": "203", 
+        "city": "De Bilt", 
+        "date": "1995-07-19", 
+        "maxTemp": "231", 
+        "minTemp": "160"
+    }, 
+    {
+        "avgTemp": "223", 
+        "city": "De Bilt", 
+        "date": "1995-07-20", 
+        "maxTemp": "286", 
+        "minTemp": "154"
+    }, 
+    {
+        "avgTemp": "235", 
+        "city": "De Bilt", 
+        "date": "1995-07-21", 
+        "maxTemp": "320", 
+        "minTemp": "159"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "De Bilt", 
+        "date": "1995-07-22", 
+        "maxTemp": "204", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "De Bilt", 
+        "date": "1995-07-23", 
+        "maxTemp": "226", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "189", 
+        "city": "De Bilt", 
+        "date": "1995-07-24", 
+        "maxTemp": "251", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "De Bilt", 
+        "date": "1995-07-25", 
+        "maxTemp": "258", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "233", 
+        "city": "De Bilt", 
+        "date": "1995-07-26", 
+        "maxTemp": "315", 
+        "minTemp": "146"
+    }, 
+    {
+        "avgTemp": "196", 
+        "city": "De Bilt", 
+        "date": "1995-07-27", 
+        "maxTemp": "242", 
+        "minTemp": "168"
+    }, 
+    {
+        "avgTemp": "202", 
+        "city": "De Bilt", 
+        "date": "1995-07-28", 
+        "maxTemp": "240", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "219", 
+        "city": "De Bilt", 
+        "date": "1995-07-29", 
+        "maxTemp": "277", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "242", 
+        "city": "De Bilt", 
+        "date": "1995-07-30", 
+        "maxTemp": "306", 
+        "minTemp": "184"
+    }, 
+    {
+        "avgTemp": "256", 
+        "city": "De Bilt", 
+        "date": "1995-07-31", 
+        "maxTemp": "323", 
+        "minTemp": "178"
+    }, 
+    {
+        "avgTemp": "256", 
+        "city": "De Bilt", 
+        "date": "1995-08-01", 
+        "maxTemp": "320", 
+        "minTemp": "194"
+    }, 
+    {
+        "avgTemp": "239", 
+        "city": "De Bilt", 
+        "date": "1995-08-02", 
+        "maxTemp": "299", 
+        "minTemp": "178"
+    }, 
+    {
+        "avgTemp": "224", 
+        "city": "De Bilt", 
+        "date": "1995-08-03", 
+        "maxTemp": "290", 
+        "minTemp": "154"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "De Bilt", 
+        "date": "1995-08-04", 
+        "maxTemp": "239", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "199", 
+        "city": "De Bilt", 
+        "date": "1995-08-05", 
+        "maxTemp": "271", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "De Bilt", 
+        "date": "1995-08-06", 
+        "maxTemp": "266", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "De Bilt", 
+        "date": "1995-08-07", 
+        "maxTemp": "206", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "183", 
+        "city": "De Bilt", 
+        "date": "1995-08-08", 
+        "maxTemp": "230", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "De Bilt", 
+        "date": "1995-08-09", 
+        "maxTemp": "255", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "214", 
+        "city": "De Bilt", 
+        "date": "1995-08-10", 
+        "maxTemp": "291", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "235", 
+        "city": "De Bilt", 
+        "date": "1995-08-11", 
+        "maxTemp": "312", 
+        "minTemp": "146"
+    }, 
+    {
+        "avgTemp": "229", 
+        "city": "De Bilt", 
+        "date": "1995-08-12", 
+        "maxTemp": "312", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "De Bilt", 
+        "date": "1995-08-13", 
+        "maxTemp": "247", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "De Bilt", 
+        "date": "1995-08-14", 
+        "maxTemp": "223", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "De Bilt", 
+        "date": "1995-08-15", 
+        "maxTemp": "243", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "193", 
+        "city": "De Bilt", 
+        "date": "1995-08-16", 
+        "maxTemp": "257", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "216", 
+        "city": "De Bilt", 
+        "date": "1995-08-17", 
+        "maxTemp": "275", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "231", 
+        "city": "De Bilt", 
+        "date": "1995-08-18", 
+        "maxTemp": "296", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "239", 
+        "city": "De Bilt", 
+        "date": "1995-08-19", 
+        "maxTemp": "316", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "218", 
+        "city": "De Bilt", 
+        "date": "1995-08-20", 
+        "maxTemp": "281", 
+        "minTemp": "168"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "De Bilt", 
+        "date": "1995-08-21", 
+        "maxTemp": "264", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "225", 
+        "city": "De Bilt", 
+        "date": "1995-08-22", 
+        "maxTemp": "307", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "222", 
+        "city": "De Bilt", 
+        "date": "1995-08-23", 
+        "maxTemp": "292", 
+        "minTemp": "164"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "De Bilt", 
+        "date": "1995-08-24", 
+        "maxTemp": "237", 
+        "minTemp": "154"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "De Bilt", 
+        "date": "1995-08-25", 
+        "maxTemp": "232", 
+        "minTemp": "161"
+    }, 
+    {
+        "avgTemp": "172", 
+        "city": "De Bilt", 
+        "date": "1995-08-26", 
+        "maxTemp": "210", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-08-27", 
+        "maxTemp": "183", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "De Bilt", 
+        "date": "1995-08-28", 
+        "maxTemp": "189", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "De Bilt", 
+        "date": "1995-08-29", 
+        "maxTemp": "179", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-08-30", 
+        "maxTemp": "190", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "De Bilt", 
+        "date": "1995-08-31", 
+        "maxTemp": "187", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "De Bilt", 
+        "date": "1995-09-01", 
+        "maxTemp": "205", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "De Bilt", 
+        "date": "1995-09-02", 
+        "maxTemp": "198", 
+        "minTemp": "133"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "1995-09-03", 
+        "maxTemp": "192", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "De Bilt", 
+        "date": "1995-09-04", 
+        "maxTemp": "189", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "De Bilt", 
+        "date": "1995-09-05", 
+        "maxTemp": "197", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-09-06", 
+        "maxTemp": "205", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "De Bilt", 
+        "date": "1995-09-07", 
+        "maxTemp": "201", 
+        "minTemp": "130"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "De Bilt", 
+        "date": "1995-09-08", 
+        "maxTemp": "173", 
+        "minTemp": "146"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "De Bilt", 
+        "date": "1995-09-09", 
+        "maxTemp": "198", 
+        "minTemp": "141"
+    }, 
+    {
+        "avgTemp": "172", 
+        "city": "De Bilt", 
+        "date": "1995-09-10", 
+        "maxTemp": "222", 
+        "minTemp": "130"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "1995-09-11", 
+        "maxTemp": "214", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "De Bilt", 
+        "date": "1995-09-12", 
+        "maxTemp": "206", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "1995-09-13", 
+        "maxTemp": "198", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "1995-09-14", 
+        "maxTemp": "193", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "De Bilt", 
+        "date": "1995-09-15", 
+        "maxTemp": "194", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "De Bilt", 
+        "date": "1995-09-16", 
+        "maxTemp": "201", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "De Bilt", 
+        "date": "1995-09-17", 
+        "maxTemp": "205", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "172", 
+        "city": "De Bilt", 
+        "date": "1995-09-18", 
+        "maxTemp": "232", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "De Bilt", 
+        "date": "1995-09-19", 
+        "maxTemp": "213", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "De Bilt", 
+        "date": "1995-09-20", 
+        "maxTemp": "173", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "De Bilt", 
+        "date": "1995-09-21", 
+        "maxTemp": "176", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "De Bilt", 
+        "date": "1995-09-22", 
+        "maxTemp": "182", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "De Bilt", 
+        "date": "1995-09-23", 
+        "maxTemp": "172", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "1995-09-24", 
+        "maxTemp": "178", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "1995-09-25", 
+        "maxTemp": "179", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "134", 
+        "city": "De Bilt", 
+        "date": "1995-09-26", 
+        "maxTemp": "161", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "De Bilt", 
+        "date": "1995-09-27", 
+        "maxTemp": "156", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "De Bilt", 
+        "date": "1995-09-28", 
+        "maxTemp": "118", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "De Bilt", 
+        "date": "1995-09-29", 
+        "maxTemp": "141", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "De Bilt", 
+        "date": "1995-09-30", 
+        "maxTemp": "148", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "De Bilt", 
+        "date": "1995-10-01", 
+        "maxTemp": "177", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "De Bilt", 
+        "date": "1995-10-02", 
+        "maxTemp": "179", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "De Bilt", 
+        "date": "1995-10-03", 
+        "maxTemp": "199", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "De Bilt", 
+        "date": "1995-10-04", 
+        "maxTemp": "217", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "De Bilt", 
+        "date": "1995-10-05", 
+        "maxTemp": "183", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "De Bilt", 
+        "date": "1995-10-06", 
+        "maxTemp": "188", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "De Bilt", 
+        "date": "1995-10-07", 
+        "maxTemp": "178", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "168", 
+        "city": "De Bilt", 
+        "date": "1995-10-08", 
+        "maxTemp": "236", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "1995-10-09", 
+        "maxTemp": "229", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "De Bilt", 
+        "date": "1995-10-10", 
+        "maxTemp": "229", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "De Bilt", 
+        "date": "1995-10-11", 
+        "maxTemp": "198", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "1995-10-12", 
+        "maxTemp": "202", 
+        "minTemp": "126"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "De Bilt", 
+        "date": "1995-10-13", 
+        "maxTemp": "184", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "De Bilt", 
+        "date": "1995-10-14", 
+        "maxTemp": "191", 
+        "minTemp": "90"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "De Bilt", 
+        "date": "1995-10-15", 
+        "maxTemp": "200", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "De Bilt", 
+        "date": "1995-10-16", 
+        "maxTemp": "174", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "De Bilt", 
+        "date": "1995-10-17", 
+        "maxTemp": "165", 
+        "minTemp": "107"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "De Bilt", 
+        "date": "1995-10-18", 
+        "maxTemp": "167", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "De Bilt", 
+        "date": "1995-10-19", 
+        "maxTemp": "152", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "De Bilt", 
+        "date": "1995-10-20", 
+        "maxTemp": "153", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "De Bilt", 
+        "date": "1995-10-21", 
+        "maxTemp": "133", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "De Bilt", 
+        "date": "1995-10-22", 
+        "maxTemp": "121", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "1995-10-23", 
+        "maxTemp": "155", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "De Bilt", 
+        "date": "1995-10-24", 
+        "maxTemp": "194", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "De Bilt", 
+        "date": "1995-10-25", 
+        "maxTemp": "167", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "De Bilt", 
+        "date": "1995-10-26", 
+        "maxTemp": "158", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "De Bilt", 
+        "date": "1995-10-27", 
+        "maxTemp": "176", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "De Bilt", 
+        "date": "1995-10-28", 
+        "maxTemp": "144", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "De Bilt", 
+        "date": "1995-10-29", 
+        "maxTemp": "124", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "56", 
+        "city": "De Bilt", 
+        "date": "1995-10-30", 
+        "maxTemp": "127", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "De Bilt", 
+        "date": "1995-10-31", 
+        "maxTemp": "136", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "De Bilt", 
+        "date": "1995-11-01", 
+        "maxTemp": "117", 
+        "minTemp": "43"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "De Bilt", 
+        "date": "1995-11-02", 
+        "maxTemp": "122", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "De Bilt", 
+        "date": "1995-11-03", 
+        "maxTemp": "109", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "17", 
+        "city": "De Bilt", 
+        "date": "1995-11-04", 
+        "maxTemp": "62", 
+        "minTemp": "-34"
+    }, 
+    {
+        "avgTemp": "-2", 
+        "city": "De Bilt", 
+        "date": "1995-11-05", 
+        "maxTemp": "57", 
+        "minTemp": "-41"
+    }, 
+    {
+        "avgTemp": "19", 
+        "city": "De Bilt", 
+        "date": "1995-11-06", 
+        "maxTemp": "68", 
+        "minTemp": "-38"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "De Bilt", 
+        "date": "1995-11-07", 
+        "maxTemp": "91", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "De Bilt", 
+        "date": "1995-11-08", 
+        "maxTemp": "136", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "1995-11-09", 
+        "maxTemp": "125", 
+        "minTemp": "90"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "De Bilt", 
+        "date": "1995-11-10", 
+        "maxTemp": "97", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "De Bilt", 
+        "date": "1995-11-11", 
+        "maxTemp": "154", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "De Bilt", 
+        "date": "1995-11-12", 
+        "maxTemp": "159", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "1995-11-13", 
+        "maxTemp": "102", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "De Bilt", 
+        "date": "1995-11-14", 
+        "maxTemp": "129", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "De Bilt", 
+        "date": "1995-11-15", 
+        "maxTemp": "110", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "De Bilt", 
+        "date": "1995-11-16", 
+        "maxTemp": "123", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "De Bilt", 
+        "date": "1995-11-17", 
+        "maxTemp": "65", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "De Bilt", 
+        "date": "1995-11-18", 
+        "maxTemp": "69", 
+        "minTemp": "-12"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "De Bilt", 
+        "date": "1995-11-19", 
+        "maxTemp": "89", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "De Bilt", 
+        "date": "1995-11-20", 
+        "maxTemp": "94", 
+        "minTemp": "-7"
+    }, 
+    {
+        "avgTemp": "21", 
+        "city": "De Bilt", 
+        "date": "1995-11-21", 
+        "maxTemp": "49", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "De Bilt", 
+        "date": "1995-11-22", 
+        "maxTemp": "95", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "De Bilt", 
+        "date": "1995-11-23", 
+        "maxTemp": "111", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "De Bilt", 
+        "date": "1995-11-24", 
+        "maxTemp": "113", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "De Bilt", 
+        "date": "1995-11-25", 
+        "maxTemp": "128", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "De Bilt", 
+        "date": "1995-11-26", 
+        "maxTemp": "120", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "De Bilt", 
+        "date": "1995-11-27", 
+        "maxTemp": "93", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "De Bilt", 
+        "date": "1995-11-28", 
+        "maxTemp": "103", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "De Bilt", 
+        "date": "1995-11-29", 
+        "maxTemp": "62", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "De Bilt", 
+        "date": "1995-11-30", 
+        "maxTemp": "49", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "De Bilt", 
+        "date": "1995-12-01", 
+        "maxTemp": "38", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "23", 
+        "city": "De Bilt", 
+        "date": "1995-12-02", 
+        "maxTemp": "42", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "11", 
+        "city": "De Bilt", 
+        "date": "1995-12-03", 
+        "maxTemp": "33", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "-5", 
+        "city": "De Bilt", 
+        "date": "1995-12-04", 
+        "maxTemp": "15", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "-29", 
+        "city": "De Bilt", 
+        "date": "1995-12-05", 
+        "maxTemp": "-21", 
+        "minTemp": "-38"
+    }, 
+    {
+        "avgTemp": "-41", 
+        "city": "De Bilt", 
+        "date": "1995-12-06", 
+        "maxTemp": "-29", 
+        "minTemp": "-52"
+    }, 
+    {
+        "avgTemp": "-31", 
+        "city": "De Bilt", 
+        "date": "1995-12-07", 
+        "maxTemp": "-2", 
+        "minTemp": "-45"
+    }, 
+    {
+        "avgTemp": "-24", 
+        "city": "De Bilt", 
+        "date": "1995-12-08", 
+        "maxTemp": "12", 
+        "minTemp": "-59"
+    }, 
+    {
+        "avgTemp": "-9", 
+        "city": "De Bilt", 
+        "date": "1995-12-09", 
+        "maxTemp": "8", 
+        "minTemp": "-23"
+    }, 
+    {
+        "avgTemp": "-20", 
+        "city": "De Bilt", 
+        "date": "1995-12-10", 
+        "maxTemp": "-11", 
+        "minTemp": "-37"
+    }, 
+    {
+        "avgTemp": "-2", 
+        "city": "De Bilt", 
+        "date": "1995-12-11", 
+        "maxTemp": "35", 
+        "minTemp": "-46"
+    }, 
+    {
+        "avgTemp": "29", 
+        "city": "De Bilt", 
+        "date": "1995-12-12", 
+        "maxTemp": "44", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "1", 
+        "city": "De Bilt", 
+        "date": "1995-12-13", 
+        "maxTemp": "22", 
+        "minTemp": "-25"
+    }, 
+    {
+        "avgTemp": "4", 
+        "city": "De Bilt", 
+        "date": "1995-12-14", 
+        "maxTemp": "13", 
+        "minTemp": "-25"
+    }, 
+    {
+        "avgTemp": "-7", 
+        "city": "De Bilt", 
+        "date": "1995-12-15", 
+        "maxTemp": "6", 
+        "minTemp": "-35"
+    }, 
+    {
+        "avgTemp": "-17", 
+        "city": "De Bilt", 
+        "date": "1995-12-16", 
+        "maxTemp": "8", 
+        "minTemp": "-38"
+    }, 
+    {
+        "avgTemp": "-16", 
+        "city": "De Bilt", 
+        "date": "1995-12-17", 
+        "maxTemp": "1", 
+        "minTemp": "-35"
+    }, 
+    {
+        "avgTemp": "3", 
+        "city": "De Bilt", 
+        "date": "1995-12-18", 
+        "maxTemp": "16", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "16", 
+        "city": "De Bilt", 
+        "date": "1995-12-19", 
+        "maxTemp": "25", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "6", 
+        "city": "De Bilt", 
+        "date": "1995-12-20", 
+        "maxTemp": "32", 
+        "minTemp": "-40"
+    }, 
+    {
+        "avgTemp": "-16", 
+        "city": "De Bilt", 
+        "date": "1995-12-21", 
+        "maxTemp": "1", 
+        "minTemp": "-39"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "De Bilt", 
+        "date": "1995-12-22", 
+        "maxTemp": "115", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "De Bilt", 
+        "date": "1995-12-23", 
+        "maxTemp": "104", 
+        "minTemp": "12"
+    }, 
+    {
+        "avgTemp": "-9", 
+        "city": "De Bilt", 
+        "date": "1995-12-24", 
+        "maxTemp": "17", 
+        "minTemp": "-56"
+    }, 
+    {
+        "avgTemp": "-10", 
+        "city": "De Bilt", 
+        "date": "1995-12-25", 
+        "maxTemp": "31", 
+        "minTemp": "-65"
+    }, 
+    {
+        "avgTemp": "-6", 
+        "city": "De Bilt", 
+        "date": "1995-12-26", 
+        "maxTemp": "25", 
+        "minTemp": "-53"
+    }, 
+    {
+        "avgTemp": "-59", 
+        "city": "De Bilt", 
+        "date": "1995-12-27", 
+        "maxTemp": "-6", 
+        "minTemp": "-98"
+    }, 
+    {
+        "avgTemp": "-79", 
+        "city": "De Bilt", 
+        "date": "1995-12-28", 
+        "maxTemp": "-21", 
+        "minTemp": "-115"
+    }, 
+    {
+        "avgTemp": "-66", 
+        "city": "De Bilt", 
+        "date": "1995-12-29", 
+        "maxTemp": "-8", 
+        "minTemp": "-125"
+    }, 
+    {
+        "avgTemp": "-55", 
+        "city": "De Bilt", 
+        "date": "1995-12-30", 
+        "maxTemp": "-31", 
+        "minTemp": "-87"
+    }, 
+    {
+        "avgTemp": "-19", 
+        "city": "De Bilt", 
+        "date": "1995-12-31", 
+        "maxTemp": "-11", 
+        "minTemp": "-32"
+    }
+]

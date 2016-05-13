@@ -1,0 +1,2557 @@
+[
+    {
+        "avgTemp": "32", 
+        "city": "Schiphol", 
+        "date": "1995-01-01", 
+        "maxTemp": "49", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "1995-01-02", 
+        "maxTemp": "61", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "6", 
+        "city": "Schiphol", 
+        "date": "1995-01-03", 
+        "maxTemp": "25", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "-16", 
+        "city": "Schiphol", 
+        "date": "1995-01-04", 
+        "maxTemp": "9", 
+        "minTemp": "-34"
+    }, 
+    {
+        "avgTemp": "-34", 
+        "city": "Schiphol", 
+        "date": "1995-01-05", 
+        "maxTemp": "-22", 
+        "minTemp": "-51"
+    }, 
+    {
+        "avgTemp": "-26", 
+        "city": "Schiphol", 
+        "date": "1995-01-06", 
+        "maxTemp": "-7", 
+        "minTemp": "-39"
+    }, 
+    {
+        "avgTemp": "-9", 
+        "city": "Schiphol", 
+        "date": "1995-01-07", 
+        "maxTemp": "7", 
+        "minTemp": "-27"
+    }, 
+    {
+        "avgTemp": "11", 
+        "city": "Schiphol", 
+        "date": "1995-01-08", 
+        "maxTemp": "57", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "Schiphol", 
+        "date": "1995-01-09", 
+        "maxTemp": "86", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "1995-01-10", 
+        "maxTemp": "86", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "1995-01-11", 
+        "maxTemp": "57", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Schiphol", 
+        "date": "1995-01-12", 
+        "maxTemp": "61", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "40", 
+        "city": "Schiphol", 
+        "date": "1995-01-13", 
+        "maxTemp": "59", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Schiphol", 
+        "date": "1995-01-14", 
+        "maxTemp": "83", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-01-15", 
+        "maxTemp": "87", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "Schiphol", 
+        "date": "1995-01-16", 
+        "maxTemp": "69", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "1995-01-17", 
+        "maxTemp": "81", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "1995-01-18", 
+        "maxTemp": "85", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "Schiphol", 
+        "date": "1995-01-19", 
+        "maxTemp": "82", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-01-20", 
+        "maxTemp": "94", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "Schiphol", 
+        "date": "1995-01-21", 
+        "maxTemp": "91", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "1995-01-22", 
+        "maxTemp": "115", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "Schiphol", 
+        "date": "1995-01-23", 
+        "maxTemp": "79", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Schiphol", 
+        "date": "1995-01-24", 
+        "maxTemp": "75", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "Schiphol", 
+        "date": "1995-01-25", 
+        "maxTemp": "113", 
+        "minTemp": "38"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "1995-01-26", 
+        "maxTemp": "120", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Schiphol", 
+        "date": "1995-01-27", 
+        "maxTemp": "46", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "1995-01-28", 
+        "maxTemp": "99", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Schiphol", 
+        "date": "1995-01-29", 
+        "maxTemp": "92", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "31", 
+        "city": "Schiphol", 
+        "date": "1995-01-30", 
+        "maxTemp": "60", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Schiphol", 
+        "date": "1995-01-31", 
+        "maxTemp": "77", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "1995-02-01", 
+        "maxTemp": "131", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "55", 
+        "city": "Schiphol", 
+        "date": "1995-02-02", 
+        "maxTemp": "79", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "Schiphol", 
+        "date": "1995-02-03", 
+        "maxTemp": "86", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "1995-02-04", 
+        "maxTemp": "96", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "Schiphol", 
+        "date": "1995-02-05", 
+        "maxTemp": "91", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Schiphol", 
+        "date": "1995-02-06", 
+        "maxTemp": "102", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-02-07", 
+        "maxTemp": "97", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Schiphol", 
+        "date": "1995-02-08", 
+        "maxTemp": "87", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "18", 
+        "city": "Schiphol", 
+        "date": "1995-02-09", 
+        "maxTemp": "49", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "Schiphol", 
+        "date": "1995-02-10", 
+        "maxTemp": "56", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "1995-02-11", 
+        "maxTemp": "117", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-02-12", 
+        "maxTemp": "109", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "81", 
+        "city": "Schiphol", 
+        "date": "1995-02-13", 
+        "maxTemp": "105", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "1995-02-14", 
+        "maxTemp": "92", 
+        "minTemp": "63"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "1995-02-15", 
+        "maxTemp": "114", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-02-16", 
+        "maxTemp": "99", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "1995-02-17", 
+        "maxTemp": "103", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "1995-02-18", 
+        "maxTemp": "83", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "1995-02-19", 
+        "maxTemp": "108", 
+        "minTemp": "62"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Schiphol", 
+        "date": "1995-02-20", 
+        "maxTemp": "106", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "Schiphol", 
+        "date": "1995-02-21", 
+        "maxTemp": "107", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "Schiphol", 
+        "date": "1995-02-22", 
+        "maxTemp": "90", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "Schiphol", 
+        "date": "1995-02-23", 
+        "maxTemp": "80", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "Schiphol", 
+        "date": "1995-02-24", 
+        "maxTemp": "76", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "Schiphol", 
+        "date": "1995-02-25", 
+        "maxTemp": "62", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "Schiphol", 
+        "date": "1995-02-26", 
+        "maxTemp": "69", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "1995-02-27", 
+        "maxTemp": "90", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "1995-02-28", 
+        "maxTemp": "114", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Schiphol", 
+        "date": "1995-03-01", 
+        "maxTemp": "104", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Schiphol", 
+        "date": "1995-03-02", 
+        "maxTemp": "63", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "Schiphol", 
+        "date": "1995-03-03", 
+        "maxTemp": "61", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "24", 
+        "city": "Schiphol", 
+        "date": "1995-03-04", 
+        "maxTemp": "62", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "31", 
+        "city": "Schiphol", 
+        "date": "1995-03-05", 
+        "maxTemp": "48", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Schiphol", 
+        "date": "1995-03-06", 
+        "maxTemp": "69", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "Schiphol", 
+        "date": "1995-03-07", 
+        "maxTemp": "79", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Schiphol", 
+        "date": "1995-03-08", 
+        "maxTemp": "70", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "1995-03-09", 
+        "maxTemp": "96", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "64", 
+        "city": "Schiphol", 
+        "date": "1995-03-10", 
+        "maxTemp": "110", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-03-11", 
+        "maxTemp": "129", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "1995-03-12", 
+        "maxTemp": "139", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "1995-03-13", 
+        "maxTemp": "130", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Schiphol", 
+        "date": "1995-03-14", 
+        "maxTemp": "77", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "Schiphol", 
+        "date": "1995-03-15", 
+        "maxTemp": "71", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "Schiphol", 
+        "date": "1995-03-16", 
+        "maxTemp": "79", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "1995-03-17", 
+        "maxTemp": "113", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-03-18", 
+        "maxTemp": "99", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "1995-03-19", 
+        "maxTemp": "87", 
+        "minTemp": "35"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Schiphol", 
+        "date": "1995-03-20", 
+        "maxTemp": "73", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Schiphol", 
+        "date": "1995-03-21", 
+        "maxTemp": "77", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Schiphol", 
+        "date": "1995-03-22", 
+        "maxTemp": "85", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "1995-03-23", 
+        "maxTemp": "135", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "89", 
+        "city": "Schiphol", 
+        "date": "1995-03-24", 
+        "maxTemp": "115", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "1995-03-25", 
+        "maxTemp": "97", 
+        "minTemp": "56"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "1995-03-26", 
+        "maxTemp": "111", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Schiphol", 
+        "date": "1995-03-27", 
+        "maxTemp": "86", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "19", 
+        "city": "Schiphol", 
+        "date": "1995-03-28", 
+        "maxTemp": "44", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Schiphol", 
+        "date": "1995-03-29", 
+        "maxTemp": "73", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "49", 
+        "city": "Schiphol", 
+        "date": "1995-03-30", 
+        "maxTemp": "86", 
+        "minTemp": "-7"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "1995-03-31", 
+        "maxTemp": "107", 
+        "minTemp": "56"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "Schiphol", 
+        "date": "1995-04-01", 
+        "maxTemp": "144", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "1995-04-02", 
+        "maxTemp": "144", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "1995-04-03", 
+        "maxTemp": "115", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-04-04", 
+        "maxTemp": "109", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "1995-04-05", 
+        "maxTemp": "135", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "97", 
+        "city": "Schiphol", 
+        "date": "1995-04-06", 
+        "maxTemp": "128", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "Schiphol", 
+        "date": "1995-04-07", 
+        "maxTemp": "128", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "1995-04-08", 
+        "maxTemp": "92", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "62", 
+        "city": "Schiphol", 
+        "date": "1995-04-09", 
+        "maxTemp": "87", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "1995-04-10", 
+        "maxTemp": "103", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "Schiphol", 
+        "date": "1995-04-11", 
+        "maxTemp": "154", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "Schiphol", 
+        "date": "1995-04-12", 
+        "maxTemp": "131", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-04-13", 
+        "maxTemp": "125", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "1995-04-14", 
+        "maxTemp": "125", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "1995-04-15", 
+        "maxTemp": "111", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Schiphol", 
+        "date": "1995-04-16", 
+        "maxTemp": "100", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Schiphol", 
+        "date": "1995-04-17", 
+        "maxTemp": "94", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "1995-04-18", 
+        "maxTemp": "95", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "54", 
+        "city": "Schiphol", 
+        "date": "1995-04-19", 
+        "maxTemp": "92", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "Schiphol", 
+        "date": "1995-04-20", 
+        "maxTemp": "86", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Schiphol", 
+        "date": "1995-04-21", 
+        "maxTemp": "109", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "1995-04-22", 
+        "maxTemp": "157", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "1995-04-23", 
+        "maxTemp": "164", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "1995-04-24", 
+        "maxTemp": "247", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "Schiphol", 
+        "date": "1995-04-25", 
+        "maxTemp": "202", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Schiphol", 
+        "date": "1995-04-26", 
+        "maxTemp": "191", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "1995-04-27", 
+        "maxTemp": "112", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Schiphol", 
+        "date": "1995-04-28", 
+        "maxTemp": "97", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Schiphol", 
+        "date": "1995-04-29", 
+        "maxTemp": "129", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Schiphol", 
+        "date": "1995-04-30", 
+        "maxTemp": "152", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "1995-05-01", 
+        "maxTemp": "190", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "Schiphol", 
+        "date": "1995-05-02", 
+        "maxTemp": "212", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "Schiphol", 
+        "date": "1995-05-03", 
+        "maxTemp": "230", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "Schiphol", 
+        "date": "1995-05-04", 
+        "maxTemp": "245", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "Schiphol", 
+        "date": "1995-05-05", 
+        "maxTemp": "255", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Schiphol", 
+        "date": "1995-05-06", 
+        "maxTemp": "231", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "Schiphol", 
+        "date": "1995-05-07", 
+        "maxTemp": "239", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "1995-05-08", 
+        "maxTemp": "140", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "Schiphol", 
+        "date": "1995-05-09", 
+        "maxTemp": "111", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Schiphol", 
+        "date": "1995-05-10", 
+        "maxTemp": "131", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Schiphol", 
+        "date": "1995-05-11", 
+        "maxTemp": "115", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Schiphol", 
+        "date": "1995-05-12", 
+        "maxTemp": "121", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Schiphol", 
+        "date": "1995-05-13", 
+        "maxTemp": "121", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Schiphol", 
+        "date": "1995-05-14", 
+        "maxTemp": "119", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Schiphol", 
+        "date": "1995-05-15", 
+        "maxTemp": "141", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "Schiphol", 
+        "date": "1995-05-16", 
+        "maxTemp": "151", 
+        "minTemp": "44"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Schiphol", 
+        "date": "1995-05-17", 
+        "maxTemp": "148", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-05-18", 
+        "maxTemp": "109", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Schiphol", 
+        "date": "1995-05-19", 
+        "maxTemp": "134", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "Schiphol", 
+        "date": "1995-05-20", 
+        "maxTemp": "152", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Schiphol", 
+        "date": "1995-05-21", 
+        "maxTemp": "135", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Schiphol", 
+        "date": "1995-05-22", 
+        "maxTemp": "165", 
+        "minTemp": "36"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Schiphol", 
+        "date": "1995-05-23", 
+        "maxTemp": "218", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "Schiphol", 
+        "date": "1995-05-24", 
+        "maxTemp": "254", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Schiphol", 
+        "date": "1995-05-25", 
+        "maxTemp": "212", 
+        "minTemp": "129"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "Schiphol", 
+        "date": "1995-05-26", 
+        "maxTemp": "211", 
+        "minTemp": "126"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "1995-05-27", 
+        "maxTemp": "204", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "175", 
+        "city": "Schiphol", 
+        "date": "1995-05-28", 
+        "maxTemp": "219", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "Schiphol", 
+        "date": "1995-05-29", 
+        "maxTemp": "183", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "1995-05-30", 
+        "maxTemp": "184", 
+        "minTemp": "87"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "1995-05-31", 
+        "maxTemp": "187", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "Schiphol", 
+        "date": "1995-06-01", 
+        "maxTemp": "138", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "1995-06-02", 
+        "maxTemp": "176", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "Schiphol", 
+        "date": "1995-06-03", 
+        "maxTemp": "191", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "1995-06-04", 
+        "maxTemp": "180", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "1995-06-05", 
+        "maxTemp": "169", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "Schiphol", 
+        "date": "1995-06-06", 
+        "maxTemp": "146", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Schiphol", 
+        "date": "1995-06-07", 
+        "maxTemp": "139", 
+        "minTemp": "87"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "Schiphol", 
+        "date": "1995-06-08", 
+        "maxTemp": "136", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "104", 
+        "city": "Schiphol", 
+        "date": "1995-06-09", 
+        "maxTemp": "115", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "117", 
+        "city": "Schiphol", 
+        "date": "1995-06-10", 
+        "maxTemp": "153", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "1995-06-11", 
+        "maxTemp": "155", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "Schiphol", 
+        "date": "1995-06-12", 
+        "maxTemp": "144", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "1995-06-13", 
+        "maxTemp": "175", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "Schiphol", 
+        "date": "1995-06-14", 
+        "maxTemp": "126", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "1995-06-15", 
+        "maxTemp": "122", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "Schiphol", 
+        "date": "1995-06-16", 
+        "maxTemp": "129", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "1995-06-17", 
+        "maxTemp": "145", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "1995-06-18", 
+        "maxTemp": "177", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Schiphol", 
+        "date": "1995-06-19", 
+        "maxTemp": "199", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "Schiphol", 
+        "date": "1995-06-20", 
+        "maxTemp": "245", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "Schiphol", 
+        "date": "1995-06-21", 
+        "maxTemp": "186", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "1995-06-22", 
+        "maxTemp": "161", 
+        "minTemp": "76"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "Schiphol", 
+        "date": "1995-06-23", 
+        "maxTemp": "187", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "159", 
+        "city": "Schiphol", 
+        "date": "1995-06-24", 
+        "maxTemp": "213", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "172", 
+        "city": "Schiphol", 
+        "date": "1995-06-25", 
+        "maxTemp": "234", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "185", 
+        "city": "Schiphol", 
+        "date": "1995-06-26", 
+        "maxTemp": "260", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "217", 
+        "city": "Schiphol", 
+        "date": "1995-06-27", 
+        "maxTemp": "275", 
+        "minTemp": "131"
+    }, 
+    {
+        "avgTemp": "220", 
+        "city": "Schiphol", 
+        "date": "1995-06-28", 
+        "maxTemp": "276", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "Schiphol", 
+        "date": "1995-06-29", 
+        "maxTemp": "250", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "Schiphol", 
+        "date": "1995-06-30", 
+        "maxTemp": "277", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "168", 
+        "city": "Schiphol", 
+        "date": "1995-07-01", 
+        "maxTemp": "201", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "1995-07-02", 
+        "maxTemp": "237", 
+        "minTemp": "122"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "Schiphol", 
+        "date": "1995-07-03", 
+        "maxTemp": "155", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "Schiphol", 
+        "date": "1995-07-04", 
+        "maxTemp": "173", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "1995-07-05", 
+        "maxTemp": "208", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "Schiphol", 
+        "date": "1995-07-06", 
+        "maxTemp": "219", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "Schiphol", 
+        "date": "1995-07-07", 
+        "maxTemp": "222", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "200", 
+        "city": "Schiphol", 
+        "date": "1995-07-08", 
+        "maxTemp": "256", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "206", 
+        "city": "Schiphol", 
+        "date": "1995-07-09", 
+        "maxTemp": "252", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "241", 
+        "city": "Schiphol", 
+        "date": "1995-07-10", 
+        "maxTemp": "289", 
+        "minTemp": "176"
+    }, 
+    {
+        "avgTemp": "234", 
+        "city": "Schiphol", 
+        "date": "1995-07-11", 
+        "maxTemp": "289", 
+        "minTemp": "172"
+    }, 
+    {
+        "avgTemp": "201", 
+        "city": "Schiphol", 
+        "date": "1995-07-12", 
+        "maxTemp": "255", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "220", 
+        "city": "Schiphol", 
+        "date": "1995-07-13", 
+        "maxTemp": "286", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "201", 
+        "city": "Schiphol", 
+        "date": "1995-07-14", 
+        "maxTemp": "230", 
+        "minTemp": "162"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "Schiphol", 
+        "date": "1995-07-15", 
+        "maxTemp": "229", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Schiphol", 
+        "date": "1995-07-16", 
+        "maxTemp": "214", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Schiphol", 
+        "date": "1995-07-17", 
+        "maxTemp": "212", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "Schiphol", 
+        "date": "1995-07-18", 
+        "maxTemp": "191", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "Schiphol", 
+        "date": "1995-07-19", 
+        "maxTemp": "225", 
+        "minTemp": "157"
+    }, 
+    {
+        "avgTemp": "213", 
+        "city": "Schiphol", 
+        "date": "1995-07-20", 
+        "maxTemp": "270", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "221", 
+        "city": "Schiphol", 
+        "date": "1995-07-21", 
+        "maxTemp": "294", 
+        "minTemp": "151"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "Schiphol", 
+        "date": "1995-07-22", 
+        "maxTemp": "202", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "Schiphol", 
+        "date": "1995-07-23", 
+        "maxTemp": "226", 
+        "minTemp": "81"
+    }, 
+    {
+        "avgTemp": "182", 
+        "city": "Schiphol", 
+        "date": "1995-07-24", 
+        "maxTemp": "247", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "192", 
+        "city": "Schiphol", 
+        "date": "1995-07-25", 
+        "maxTemp": "242", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "228", 
+        "city": "Schiphol", 
+        "date": "1995-07-26", 
+        "maxTemp": "308", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "197", 
+        "city": "Schiphol", 
+        "date": "1995-07-27", 
+        "maxTemp": "263", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "Schiphol", 
+        "date": "1995-07-28", 
+        "maxTemp": "236", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "Schiphol", 
+        "date": "1995-07-29", 
+        "maxTemp": "272", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "236", 
+        "city": "Schiphol", 
+        "date": "1995-07-30", 
+        "maxTemp": "303", 
+        "minTemp": "173"
+    }, 
+    {
+        "avgTemp": "258", 
+        "city": "Schiphol", 
+        "date": "1995-07-31", 
+        "maxTemp": "323", 
+        "minTemp": "171"
+    }, 
+    {
+        "avgTemp": "254", 
+        "city": "Schiphol", 
+        "date": "1995-08-01", 
+        "maxTemp": "315", 
+        "minTemp": "188"
+    }, 
+    {
+        "avgTemp": "240", 
+        "city": "Schiphol", 
+        "date": "1995-08-02", 
+        "maxTemp": "297", 
+        "minTemp": "183"
+    }, 
+    {
+        "avgTemp": "224", 
+        "city": "Schiphol", 
+        "date": "1995-08-03", 
+        "maxTemp": "289", 
+        "minTemp": "155"
+    }, 
+    {
+        "avgTemp": "186", 
+        "city": "Schiphol", 
+        "date": "1995-08-04", 
+        "maxTemp": "239", 
+        "minTemp": "124"
+    }, 
+    {
+        "avgTemp": "193", 
+        "city": "Schiphol", 
+        "date": "1995-08-05", 
+        "maxTemp": "252", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "Schiphol", 
+        "date": "1995-08-06", 
+        "maxTemp": "271", 
+        "minTemp": "162"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Schiphol", 
+        "date": "1995-08-07", 
+        "maxTemp": "214", 
+        "minTemp": "156"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Schiphol", 
+        "date": "1995-08-08", 
+        "maxTemp": "219", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "Schiphol", 
+        "date": "1995-08-09", 
+        "maxTemp": "249", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "Schiphol", 
+        "date": "1995-08-10", 
+        "maxTemp": "279", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "230", 
+        "city": "Schiphol", 
+        "date": "1995-08-11", 
+        "maxTemp": "312", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "220", 
+        "city": "Schiphol", 
+        "date": "1995-08-12", 
+        "maxTemp": "286", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "192", 
+        "city": "Schiphol", 
+        "date": "1995-08-13", 
+        "maxTemp": "240", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "Schiphol", 
+        "date": "1995-08-14", 
+        "maxTemp": "228", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "Schiphol", 
+        "date": "1995-08-15", 
+        "maxTemp": "235", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "191", 
+        "city": "Schiphol", 
+        "date": "1995-08-16", 
+        "maxTemp": "258", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "219", 
+        "city": "Schiphol", 
+        "date": "1995-08-17", 
+        "maxTemp": "267", 
+        "minTemp": "179"
+    }, 
+    {
+        "avgTemp": "231", 
+        "city": "Schiphol", 
+        "date": "1995-08-18", 
+        "maxTemp": "293", 
+        "minTemp": "157"
+    }, 
+    {
+        "avgTemp": "236", 
+        "city": "Schiphol", 
+        "date": "1995-08-19", 
+        "maxTemp": "309", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "213", 
+        "city": "Schiphol", 
+        "date": "1995-08-20", 
+        "maxTemp": "280", 
+        "minTemp": "156"
+    }, 
+    {
+        "avgTemp": "204", 
+        "city": "Schiphol", 
+        "date": "1995-08-21", 
+        "maxTemp": "264", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "221", 
+        "city": "Schiphol", 
+        "date": "1995-08-22", 
+        "maxTemp": "298", 
+        "minTemp": "162"
+    }, 
+    {
+        "avgTemp": "217", 
+        "city": "Schiphol", 
+        "date": "1995-08-23", 
+        "maxTemp": "279", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "196", 
+        "city": "Schiphol", 
+        "date": "1995-08-24", 
+        "maxTemp": "231", 
+        "minTemp": "159"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "Schiphol", 
+        "date": "1995-08-25", 
+        "maxTemp": "218", 
+        "minTemp": "176"
+    }, 
+    {
+        "avgTemp": "169", 
+        "city": "Schiphol", 
+        "date": "1995-08-26", 
+        "maxTemp": "204", 
+        "minTemp": "143"
+    }, 
+    {
+        "avgTemp": "149", 
+        "city": "Schiphol", 
+        "date": "1995-08-27", 
+        "maxTemp": "180", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "1995-08-28", 
+        "maxTemp": "186", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "1995-08-29", 
+        "maxTemp": "173", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "1995-08-30", 
+        "maxTemp": "188", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "1995-08-31", 
+        "maxTemp": "196", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "1995-09-01", 
+        "maxTemp": "206", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "1995-09-02", 
+        "maxTemp": "194", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "Schiphol", 
+        "date": "1995-09-03", 
+        "maxTemp": "180", 
+        "minTemp": "108"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "1995-09-04", 
+        "maxTemp": "181", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Schiphol", 
+        "date": "1995-09-05", 
+        "maxTemp": "183", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Schiphol", 
+        "date": "1995-09-06", 
+        "maxTemp": "191", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "160", 
+        "city": "Schiphol", 
+        "date": "1995-09-07", 
+        "maxTemp": "190", 
+        "minTemp": "133"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "1995-09-08", 
+        "maxTemp": "171", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Schiphol", 
+        "date": "1995-09-09", 
+        "maxTemp": "187", 
+        "minTemp": "143"
+    }, 
+    {
+        "avgTemp": "171", 
+        "city": "Schiphol", 
+        "date": "1995-09-10", 
+        "maxTemp": "212", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Schiphol", 
+        "date": "1995-09-11", 
+        "maxTemp": "200", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "Schiphol", 
+        "date": "1995-09-12", 
+        "maxTemp": "200", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "Schiphol", 
+        "date": "1995-09-13", 
+        "maxTemp": "200", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Schiphol", 
+        "date": "1995-09-14", 
+        "maxTemp": "189", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "1995-09-15", 
+        "maxTemp": "181", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "1995-09-16", 
+        "maxTemp": "193", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "1995-09-17", 
+        "maxTemp": "197", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "Schiphol", 
+        "date": "1995-09-18", 
+        "maxTemp": "203", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "Schiphol", 
+        "date": "1995-09-19", 
+        "maxTemp": "195", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "Schiphol", 
+        "date": "1995-09-20", 
+        "maxTemp": "170", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "Schiphol", 
+        "date": "1995-09-21", 
+        "maxTemp": "169", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Schiphol", 
+        "date": "1995-09-22", 
+        "maxTemp": "181", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "144", 
+        "city": "Schiphol", 
+        "date": "1995-09-23", 
+        "maxTemp": "178", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "1995-09-24", 
+        "maxTemp": "175", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "Schiphol", 
+        "date": "1995-09-25", 
+        "maxTemp": "171", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "Schiphol", 
+        "date": "1995-09-26", 
+        "maxTemp": "164", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "Schiphol", 
+        "date": "1995-09-27", 
+        "maxTemp": "157", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Schiphol", 
+        "date": "1995-09-28", 
+        "maxTemp": "127", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "115", 
+        "city": "Schiphol", 
+        "date": "1995-09-29", 
+        "maxTemp": "143", 
+        "minTemp": "82"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Schiphol", 
+        "date": "1995-09-30", 
+        "maxTemp": "144", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Schiphol", 
+        "date": "1995-10-01", 
+        "maxTemp": "180", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Schiphol", 
+        "date": "1995-10-02", 
+        "maxTemp": "167", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Schiphol", 
+        "date": "1995-10-03", 
+        "maxTemp": "186", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "Schiphol", 
+        "date": "1995-10-04", 
+        "maxTemp": "207", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "1995-10-05", 
+        "maxTemp": "174", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "1995-10-06", 
+        "maxTemp": "182", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Schiphol", 
+        "date": "1995-10-07", 
+        "maxTemp": "174", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "170", 
+        "city": "Schiphol", 
+        "date": "1995-10-08", 
+        "maxTemp": "226", 
+        "minTemp": "122"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Schiphol", 
+        "date": "1995-10-09", 
+        "maxTemp": "224", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Schiphol", 
+        "date": "1995-10-10", 
+        "maxTemp": "214", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "1995-10-11", 
+        "maxTemp": "166", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "153", 
+        "city": "Schiphol", 
+        "date": "1995-10-12", 
+        "maxTemp": "193", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Schiphol", 
+        "date": "1995-10-13", 
+        "maxTemp": "156", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "Schiphol", 
+        "date": "1995-10-14", 
+        "maxTemp": "188", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Schiphol", 
+        "date": "1995-10-15", 
+        "maxTemp": "187", 
+        "minTemp": "122"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Schiphol", 
+        "date": "1995-10-16", 
+        "maxTemp": "164", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "Schiphol", 
+        "date": "1995-10-17", 
+        "maxTemp": "168", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Schiphol", 
+        "date": "1995-10-18", 
+        "maxTemp": "167", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "1995-10-19", 
+        "maxTemp": "151", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Schiphol", 
+        "date": "1995-10-20", 
+        "maxTemp": "151", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Schiphol", 
+        "date": "1995-10-21", 
+        "maxTemp": "126", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "Schiphol", 
+        "date": "1995-10-22", 
+        "maxTemp": "118", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Schiphol", 
+        "date": "1995-10-23", 
+        "maxTemp": "149", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Schiphol", 
+        "date": "1995-10-24", 
+        "maxTemp": "190", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Schiphol", 
+        "date": "1995-10-25", 
+        "maxTemp": "160", 
+        "minTemp": "94"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Schiphol", 
+        "date": "1995-10-26", 
+        "maxTemp": "154", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Schiphol", 
+        "date": "1995-10-27", 
+        "maxTemp": "175", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Schiphol", 
+        "date": "1995-10-28", 
+        "maxTemp": "138", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "Schiphol", 
+        "date": "1995-10-29", 
+        "maxTemp": "125", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Schiphol", 
+        "date": "1995-10-30", 
+        "maxTemp": "132", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "1995-10-31", 
+        "maxTemp": "139", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "1995-11-01", 
+        "maxTemp": "122", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-11-02", 
+        "maxTemp": "116", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Schiphol", 
+        "date": "1995-11-03", 
+        "maxTemp": "113", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "26", 
+        "city": "Schiphol", 
+        "date": "1995-11-04", 
+        "maxTemp": "66", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "15", 
+        "city": "Schiphol", 
+        "date": "1995-11-05", 
+        "maxTemp": "58", 
+        "minTemp": "-22"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Schiphol", 
+        "date": "1995-11-06", 
+        "maxTemp": "103", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Schiphol", 
+        "date": "1995-11-07", 
+        "maxTemp": "121", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "108", 
+        "city": "Schiphol", 
+        "date": "1995-11-08", 
+        "maxTemp": "138", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "Schiphol", 
+        "date": "1995-11-09", 
+        "maxTemp": "125", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Schiphol", 
+        "date": "1995-11-10", 
+        "maxTemp": "102", 
+        "minTemp": "75"
+    }, 
+    {
+        "avgTemp": "112", 
+        "city": "Schiphol", 
+        "date": "1995-11-11", 
+        "maxTemp": "148", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "Schiphol", 
+        "date": "1995-11-12", 
+        "maxTemp": "152", 
+        "minTemp": "70"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Schiphol", 
+        "date": "1995-11-13", 
+        "maxTemp": "97", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Schiphol", 
+        "date": "1995-11-14", 
+        "maxTemp": "133", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Schiphol", 
+        "date": "1995-11-15", 
+        "maxTemp": "112", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "1995-11-16", 
+        "maxTemp": "124", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Schiphol", 
+        "date": "1995-11-17", 
+        "maxTemp": "60", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "42", 
+        "city": "Schiphol", 
+        "date": "1995-11-18", 
+        "maxTemp": "85", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "Schiphol", 
+        "date": "1995-11-19", 
+        "maxTemp": "93", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "Schiphol", 
+        "date": "1995-11-20", 
+        "maxTemp": "90", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "23", 
+        "city": "Schiphol", 
+        "date": "1995-11-21", 
+        "maxTemp": "50", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "Schiphol", 
+        "date": "1995-11-22", 
+        "maxTemp": "98", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Schiphol", 
+        "date": "1995-11-23", 
+        "maxTemp": "114", 
+        "minTemp": "55"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Schiphol", 
+        "date": "1995-11-24", 
+        "maxTemp": "110", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Schiphol", 
+        "date": "1995-11-25", 
+        "maxTemp": "120", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Schiphol", 
+        "date": "1995-11-26", 
+        "maxTemp": "122", 
+        "minTemp": "58"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Schiphol", 
+        "date": "1995-11-27", 
+        "maxTemp": "94", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Schiphol", 
+        "date": "1995-11-28", 
+        "maxTemp": "94", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "Schiphol", 
+        "date": "1995-11-29", 
+        "maxTemp": "61", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "Schiphol", 
+        "date": "1995-11-30", 
+        "maxTemp": "49", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "27", 
+        "city": "Schiphol", 
+        "date": "1995-12-01", 
+        "maxTemp": "37", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "23", 
+        "city": "Schiphol", 
+        "date": "1995-12-02", 
+        "maxTemp": "39", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Schiphol", 
+        "date": "1995-12-03", 
+        "maxTemp": "32", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Schiphol", 
+        "date": "1995-12-04", 
+        "maxTemp": "14", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "-23", 
+        "city": "Schiphol", 
+        "date": "1995-12-05", 
+        "maxTemp": "5", 
+        "minTemp": "-35"
+    }, 
+    {
+        "avgTemp": "-42", 
+        "city": "Schiphol", 
+        "date": "1995-12-06", 
+        "maxTemp": "-28", 
+        "minTemp": "-53"
+    }, 
+    {
+        "avgTemp": "-33", 
+        "city": "Schiphol", 
+        "date": "1995-12-07", 
+        "maxTemp": "-6", 
+        "minTemp": "-56"
+    }, 
+    {
+        "avgTemp": "-30", 
+        "city": "Schiphol", 
+        "date": "1995-12-08", 
+        "maxTemp": "7", 
+        "minTemp": "-60"
+    }, 
+    {
+        "avgTemp": "-15", 
+        "city": "Schiphol", 
+        "date": "1995-12-09", 
+        "maxTemp": "8", 
+        "minTemp": "-40"
+    }, 
+    {
+        "avgTemp": "-20", 
+        "city": "Schiphol", 
+        "date": "1995-12-10", 
+        "maxTemp": "-12", 
+        "minTemp": "-36"
+    }, 
+    {
+        "avgTemp": "1", 
+        "city": "Schiphol", 
+        "date": "1995-12-11", 
+        "maxTemp": "35", 
+        "minTemp": "-44"
+    }, 
+    {
+        "avgTemp": "22", 
+        "city": "Schiphol", 
+        "date": "1995-12-12", 
+        "maxTemp": "43", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "4", 
+        "city": "Schiphol", 
+        "date": "1995-12-13", 
+        "maxTemp": "18", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "3", 
+        "city": "Schiphol", 
+        "date": "1995-12-14", 
+        "maxTemp": "16", 
+        "minTemp": "-8"
+    }, 
+    {
+        "avgTemp": "-10", 
+        "city": "Schiphol", 
+        "date": "1995-12-15", 
+        "maxTemp": "3", 
+        "minTemp": "-32"
+    }, 
+    {
+        "avgTemp": "-18", 
+        "city": "Schiphol", 
+        "date": "1995-12-16", 
+        "maxTemp": "0", 
+        "minTemp": "-34"
+    }, 
+    {
+        "avgTemp": "-15", 
+        "city": "Schiphol", 
+        "date": "1995-12-17", 
+        "maxTemp": "-1", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Schiphol", 
+        "date": "1995-12-18", 
+        "maxTemp": "16", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "15", 
+        "city": "Schiphol", 
+        "date": "1995-12-19", 
+        "maxTemp": "22", 
+        "minTemp": "7"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Schiphol", 
+        "date": "1995-12-20", 
+        "maxTemp": "33", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "-8", 
+        "city": "Schiphol", 
+        "date": "1995-12-21", 
+        "maxTemp": "2", 
+        "minTemp": "-24"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Schiphol", 
+        "date": "1995-12-22", 
+        "maxTemp": "116", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "56", 
+        "city": "Schiphol", 
+        "date": "1995-12-23", 
+        "maxTemp": "104", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "-2", 
+        "city": "Schiphol", 
+        "date": "1995-12-24", 
+        "maxTemp": "24", 
+        "minTemp": "-35"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Schiphol", 
+        "date": "1995-12-25", 
+        "maxTemp": "40", 
+        "minTemp": "-45"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Schiphol", 
+        "date": "1995-12-26", 
+        "maxTemp": "34", 
+        "minTemp": "-33"
+    }, 
+    {
+        "avgTemp": "-41", 
+        "city": "Schiphol", 
+        "date": "1995-12-27", 
+        "maxTemp": "-9", 
+        "minTemp": "-67"
+    }, 
+    {
+        "avgTemp": "-56", 
+        "city": "Schiphol", 
+        "date": "1995-12-28", 
+        "maxTemp": "-15", 
+        "minTemp": "-82"
+    }, 
+    {
+        "avgTemp": "-54", 
+        "city": "Schiphol", 
+        "date": "1995-12-29", 
+        "maxTemp": "-6", 
+        "minTemp": "-98"
+    }, 
+    {
+        "avgTemp": "-56", 
+        "city": "Schiphol", 
+        "date": "1995-12-30", 
+        "maxTemp": "-38", 
+        "minTemp": "-80"
+    }, 
+    {
+        "avgTemp": "-25", 
+        "city": "Schiphol", 
+        "date": "1995-12-31", 
+        "maxTemp": "-20", 
+        "minTemp": "-38"
+    }
+]

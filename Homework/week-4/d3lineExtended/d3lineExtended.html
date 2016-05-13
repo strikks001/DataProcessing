@@ -22,7 +22,7 @@ Sanne Strikkers
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
     <!-- app's own CSS -->
-    <link href="d3line.css" rel="stylesheet" />
+    <link href="d3lineExtended.css" rel="stylesheet" />
 
     <title>Linechart</title>
 
@@ -32,27 +32,38 @@ Sanne Strikkers
     <!-- title -->
     <div class="title">
         <h1>Etmaalgemiddelde temperatuur in Schiphol</h1>
-        <h2>2015</h2>
+        <div class="menu">
+            <input class="menu" id="1995" name="updateButton" type="button" value="1995" />
+            <input class="menu" id="2015" name="updateButton" type="button" value="2015" />
+<!--
+            <select>
+                <option class="city" value="schiphol">Schiphol</option>
+                <option class="city" value="maastricht">Maastricht</option>
+                <option class="city" value="bilt">Bilt</option>
+            </select>
+-->
+        </div>
+        <br>
     </div>
     <!-- end of title -->
-    
+
     <!-- line chart -->
     <div class="chart"></div>
-    
+
     <!-- explanation -->
     <div class="content">
-        <p></p>
+        <p>jo</p>
     </div>
     <!-- end of explanation -->
-    
+
     <!-- footer -->
     <footer>
         Sanne Strikkers 11170816
     </footer>
     <!-- end of footer -->
-    
+
     <!-- app's own JavaScript -->
-    <script src="d3line.js"></script>
+    <script src="d3lineExtended.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,2557 @@
+[
+    {
+        "avgTemp": "9", 
+        "city": "Maastricht", 
+        "date": "1995-01-01", 
+        "maxTemp": "27", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "12", 
+        "city": "Maastricht", 
+        "date": "1995-01-02", 
+        "maxTemp": "28", 
+        "minTemp": "0"
+    }, 
+    {
+        "avgTemp": "2", 
+        "city": "Maastricht", 
+        "date": "1995-01-03", 
+        "maxTemp": "17", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "-35", 
+        "city": "Maastricht", 
+        "date": "1995-01-04", 
+        "maxTemp": "-2", 
+        "minTemp": "-70"
+    }, 
+    {
+        "avgTemp": "-48", 
+        "city": "Maastricht", 
+        "date": "1995-01-05", 
+        "maxTemp": "-20", 
+        "minTemp": "-78"
+    }, 
+    {
+        "avgTemp": "-28", 
+        "city": "Maastricht", 
+        "date": "1995-01-06", 
+        "maxTemp": "-5", 
+        "minTemp": "-52"
+    }, 
+    {
+        "avgTemp": "-24", 
+        "city": "Maastricht", 
+        "date": "1995-01-07", 
+        "maxTemp": "0", 
+        "minTemp": "-63"
+    }, 
+    {
+        "avgTemp": "-10", 
+        "city": "Maastricht", 
+        "date": "1995-01-08", 
+        "maxTemp": "15", 
+        "minTemp": "-60"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "Maastricht", 
+        "date": "1995-01-09", 
+        "maxTemp": "67", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "52", 
+        "city": "Maastricht", 
+        "date": "1995-01-10", 
+        "maxTemp": "77", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "21", 
+        "city": "Maastricht", 
+        "date": "1995-01-11", 
+        "maxTemp": "76", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "20", 
+        "city": "Maastricht", 
+        "date": "1995-01-12", 
+        "maxTemp": "44", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "14", 
+        "city": "Maastricht", 
+        "date": "1995-01-13", 
+        "maxTemp": "34", 
+        "minTemp": "-19"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "Maastricht", 
+        "date": "1995-01-14", 
+        "maxTemp": "56", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Maastricht", 
+        "date": "1995-01-15", 
+        "maxTemp": "68", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "33", 
+        "city": "Maastricht", 
+        "date": "1995-01-16", 
+        "maxTemp": "67", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "Maastricht", 
+        "date": "1995-01-17", 
+        "maxTemp": "90", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Maastricht", 
+        "date": "1995-01-18", 
+        "maxTemp": "92", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "58", 
+        "city": "Maastricht", 
+        "date": "1995-01-19", 
+        "maxTemp": "81", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Maastricht", 
+        "date": "1995-01-20", 
+        "maxTemp": "95", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "Maastricht", 
+        "date": "1995-01-21", 
+        "maxTemp": "76", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "Maastricht", 
+        "date": "1995-01-22", 
+        "maxTemp": "125", 
+        "minTemp": "69"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Maastricht", 
+        "date": "1995-01-23", 
+        "maxTemp": "87", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "Maastricht", 
+        "date": "1995-01-24", 
+        "maxTemp": "70", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Maastricht", 
+        "date": "1995-01-25", 
+        "maxTemp": "118", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Maastricht", 
+        "date": "1995-01-26", 
+        "maxTemp": "121", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "23", 
+        "city": "Maastricht", 
+        "date": "1995-01-27", 
+        "maxTemp": "51", 
+        "minTemp": "2"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Maastricht", 
+        "date": "1995-01-28", 
+        "maxTemp": "98", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Maastricht", 
+        "date": "1995-01-29", 
+        "maxTemp": "97", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Maastricht", 
+        "date": "1995-01-30", 
+        "maxTemp": "79", 
+        "minTemp": "-15"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Maastricht", 
+        "date": "1995-01-31", 
+        "maxTemp": "68", 
+        "minTemp": "-18"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Maastricht", 
+        "date": "1995-02-01", 
+        "maxTemp": "123", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "53", 
+        "city": "Maastricht", 
+        "date": "1995-02-02", 
+        "maxTemp": "75", 
+        "minTemp": "10"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Maastricht", 
+        "date": "1995-02-03", 
+        "maxTemp": "71", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Maastricht", 
+        "date": "1995-02-04", 
+        "maxTemp": "82", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Maastricht", 
+        "date": "1995-02-05", 
+        "maxTemp": "100", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Maastricht", 
+        "date": "1995-02-06", 
+        "maxTemp": "105", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Maastricht", 
+        "date": "1995-02-07", 
+        "maxTemp": "85", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "65", 
+        "city": "Maastricht", 
+        "date": "1995-02-08", 
+        "maxTemp": "107", 
+        "minTemp": "19"
+    }, 
+    {
+        "avgTemp": "19", 
+        "city": "Maastricht", 
+        "date": "1995-02-09", 
+        "maxTemp": "43", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "34", 
+        "city": "Maastricht", 
+        "date": "1995-02-10", 
+        "maxTemp": "74", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Maastricht", 
+        "date": "1995-02-11", 
+        "maxTemp": "109", 
+        "minTemp": "73"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Maastricht", 
+        "date": "1995-02-12", 
+        "maxTemp": "113", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "93", 
+        "city": "Maastricht", 
+        "date": "1995-02-13", 
+        "maxTemp": "120", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "80", 
+        "city": "Maastricht", 
+        "date": "1995-02-14", 
+        "maxTemp": "104", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Maastricht", 
+        "date": "1995-02-15", 
+        "maxTemp": "134", 
+        "minTemp": "72"
+    }, 
+    {
+        "avgTemp": "77", 
+        "city": "Maastricht", 
+        "date": "1995-02-16", 
+        "maxTemp": "97", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "61", 
+        "city": "Maastricht", 
+        "date": "1995-02-17", 
+        "maxTemp": "89", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "48", 
+        "city": "Maastricht", 
+        "date": "1995-02-18", 
+        "maxTemp": "71", 
+        "minTemp": "25"
+    }, 
+    {
+        "avgTemp": "75", 
+        "city": "Maastricht", 
+        "date": "1995-02-19", 
+        "maxTemp": "105", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Maastricht", 
+        "date": "1995-02-20", 
+        "maxTemp": "113", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Maastricht", 
+        "date": "1995-02-21", 
+        "maxTemp": "104", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Maastricht", 
+        "date": "1995-02-22", 
+        "maxTemp": "81", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-02-23", 
+        "maxTemp": "62", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-02-24", 
+        "maxTemp": "48", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "45", 
+        "city": "Maastricht", 
+        "date": "1995-02-25", 
+        "maxTemp": "68", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "30", 
+        "city": "Maastricht", 
+        "date": "1995-02-26", 
+        "maxTemp": "64", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Maastricht", 
+        "date": "1995-02-27", 
+        "maxTemp": "72", 
+        "minTemp": "-13"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Maastricht", 
+        "date": "1995-02-28", 
+        "maxTemp": "108", 
+        "minTemp": "57"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Maastricht", 
+        "date": "1995-03-01", 
+        "maxTemp": "114", 
+        "minTemp": "37"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Maastricht", 
+        "date": "1995-03-02", 
+        "maxTemp": "56", 
+        "minTemp": "6"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Maastricht", 
+        "date": "1995-03-03", 
+        "maxTemp": "73", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "13", 
+        "city": "Maastricht", 
+        "date": "1995-03-04", 
+        "maxTemp": "67", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "20", 
+        "city": "Maastricht", 
+        "date": "1995-03-05", 
+        "maxTemp": "39", 
+        "minTemp": "9"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Maastricht", 
+        "date": "1995-03-06", 
+        "maxTemp": "66", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-03-07", 
+        "maxTemp": "71", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "Maastricht", 
+        "date": "1995-03-08", 
+        "maxTemp": "95", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "Maastricht", 
+        "date": "1995-03-09", 
+        "maxTemp": "93", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "59", 
+        "city": "Maastricht", 
+        "date": "1995-03-10", 
+        "maxTemp": "124", 
+        "minTemp": "-4"
+    }, 
+    {
+        "avgTemp": "84", 
+        "city": "Maastricht", 
+        "date": "1995-03-11", 
+        "maxTemp": "159", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Maastricht", 
+        "date": "1995-03-12", 
+        "maxTemp": "154", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Maastricht", 
+        "date": "1995-03-13", 
+        "maxTemp": "124", 
+        "minTemp": "20"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-03-14", 
+        "maxTemp": "68", 
+        "minTemp": "-3"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Maastricht", 
+        "date": "1995-03-15", 
+        "maxTemp": "70", 
+        "minTemp": "15"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Maastricht", 
+        "date": "1995-03-16", 
+        "maxTemp": "72", 
+        "minTemp": "5"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Maastricht", 
+        "date": "1995-03-17", 
+        "maxTemp": "133", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Maastricht", 
+        "date": "1995-03-18", 
+        "maxTemp": "97", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "56", 
+        "city": "Maastricht", 
+        "date": "1995-03-19", 
+        "maxTemp": "81", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "38", 
+        "city": "Maastricht", 
+        "date": "1995-03-20", 
+        "maxTemp": "71", 
+        "minTemp": "8"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Maastricht", 
+        "date": "1995-03-21", 
+        "maxTemp": "76", 
+        "minTemp": "13"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-03-22", 
+        "maxTemp": "91", 
+        "minTemp": "-20"
+    }, 
+    {
+        "avgTemp": "70", 
+        "city": "Maastricht", 
+        "date": "1995-03-23", 
+        "maxTemp": "144", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Maastricht", 
+        "date": "1995-03-24", 
+        "maxTemp": "151", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Maastricht", 
+        "date": "1995-03-25", 
+        "maxTemp": "99", 
+        "minTemp": "40"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Maastricht", 
+        "date": "1995-03-26", 
+        "maxTemp": "102", 
+        "minTemp": "67"
+    }, 
+    {
+        "avgTemp": "40", 
+        "city": "Maastricht", 
+        "date": "1995-03-27", 
+        "maxTemp": "83", 
+        "minTemp": "-6"
+    }, 
+    {
+        "avgTemp": "9", 
+        "city": "Maastricht", 
+        "date": "1995-03-28", 
+        "maxTemp": "41", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "25", 
+        "city": "Maastricht", 
+        "date": "1995-03-29", 
+        "maxTemp": "69", 
+        "minTemp": "-2"
+    }, 
+    {
+        "avgTemp": "36", 
+        "city": "Maastricht", 
+        "date": "1995-03-30", 
+        "maxTemp": "84", 
+        "minTemp": "-14"
+    }, 
+    {
+        "avgTemp": "51", 
+        "city": "Maastricht", 
+        "date": "1995-03-31", 
+        "maxTemp": "87", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "107", 
+        "city": "Maastricht", 
+        "date": "1995-04-01", 
+        "maxTemp": "121", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "124", 
+        "city": "Maastricht", 
+        "date": "1995-04-02", 
+        "maxTemp": "172", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Maastricht", 
+        "date": "1995-04-03", 
+        "maxTemp": "143", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Maastricht", 
+        "date": "1995-04-04", 
+        "maxTemp": "138", 
+        "minTemp": "50"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Maastricht", 
+        "date": "1995-04-05", 
+        "maxTemp": "147", 
+        "minTemp": "20"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Maastricht", 
+        "date": "1995-04-06", 
+        "maxTemp": "119", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "Maastricht", 
+        "date": "1995-04-07", 
+        "maxTemp": "147", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "60", 
+        "city": "Maastricht", 
+        "date": "1995-04-08", 
+        "maxTemp": "103", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "57", 
+        "city": "Maastricht", 
+        "date": "1995-04-09", 
+        "maxTemp": "85", 
+        "minTemp": "31"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Maastricht", 
+        "date": "1995-04-10", 
+        "maxTemp": "86", 
+        "minTemp": "46"
+    }, 
+    {
+        "avgTemp": "86", 
+        "city": "Maastricht", 
+        "date": "1995-04-11", 
+        "maxTemp": "136", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Maastricht", 
+        "date": "1995-04-12", 
+        "maxTemp": "150", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Maastricht", 
+        "date": "1995-04-13", 
+        "maxTemp": "126", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Maastricht", 
+        "date": "1995-04-14", 
+        "maxTemp": "124", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "Maastricht", 
+        "date": "1995-04-15", 
+        "maxTemp": "109", 
+        "minTemp": "27"
+    }, 
+    {
+        "avgTemp": "66", 
+        "city": "Maastricht", 
+        "date": "1995-04-16", 
+        "maxTemp": "100", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "76", 
+        "city": "Maastricht", 
+        "date": "1995-04-17", 
+        "maxTemp": "95", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "81", 
+        "city": "Maastricht", 
+        "date": "1995-04-18", 
+        "maxTemp": "125", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "47", 
+        "city": "Maastricht", 
+        "date": "1995-04-19", 
+        "maxTemp": "83", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "44", 
+        "city": "Maastricht", 
+        "date": "1995-04-20", 
+        "maxTemp": "99", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "71", 
+        "city": "Maastricht", 
+        "date": "1995-04-21", 
+        "maxTemp": "114", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "Maastricht", 
+        "date": "1995-04-22", 
+        "maxTemp": "154", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Maastricht", 
+        "date": "1995-04-23", 
+        "maxTemp": "167", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Maastricht", 
+        "date": "1995-04-24", 
+        "maxTemp": "205", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Maastricht", 
+        "date": "1995-04-25", 
+        "maxTemp": "223", 
+        "minTemp": "93"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Maastricht", 
+        "date": "1995-04-26", 
+        "maxTemp": "193", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Maastricht", 
+        "date": "1995-04-27", 
+        "maxTemp": "110", 
+        "minTemp": "62"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Maastricht", 
+        "date": "1995-04-28", 
+        "maxTemp": "107", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Maastricht", 
+        "date": "1995-04-29", 
+        "maxTemp": "173", 
+        "minTemp": "28"
+    }, 
+    {
+        "avgTemp": "113", 
+        "city": "Maastricht", 
+        "date": "1995-04-30", 
+        "maxTemp": "126", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Maastricht", 
+        "date": "1995-05-01", 
+        "maxTemp": "185", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Maastricht", 
+        "date": "1995-05-02", 
+        "maxTemp": "201", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "156", 
+        "city": "Maastricht", 
+        "date": "1995-05-03", 
+        "maxTemp": "217", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "175", 
+        "city": "Maastricht", 
+        "date": "1995-05-04", 
+        "maxTemp": "238", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "193", 
+        "city": "Maastricht", 
+        "date": "1995-05-05", 
+        "maxTemp": "265", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Maastricht", 
+        "date": "1995-05-06", 
+        "maxTemp": "238", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "Maastricht", 
+        "date": "1995-05-07", 
+        "maxTemp": "245", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Maastricht", 
+        "date": "1995-05-08", 
+        "maxTemp": "181", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "99", 
+        "city": "Maastricht", 
+        "date": "1995-05-09", 
+        "maxTemp": "133", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Maastricht", 
+        "date": "1995-05-10", 
+        "maxTemp": "131", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "94", 
+        "city": "Maastricht", 
+        "date": "1995-05-11", 
+        "maxTemp": "129", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "101", 
+        "city": "Maastricht", 
+        "date": "1995-05-12", 
+        "maxTemp": "153", 
+        "minTemp": "61"
+    }, 
+    {
+        "avgTemp": "83", 
+        "city": "Maastricht", 
+        "date": "1995-05-13", 
+        "maxTemp": "130", 
+        "minTemp": "47"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Maastricht", 
+        "date": "1995-05-14", 
+        "maxTemp": "118", 
+        "minTemp": "26"
+    }, 
+    {
+        "avgTemp": "98", 
+        "city": "Maastricht", 
+        "date": "1995-05-15", 
+        "maxTemp": "149", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "121", 
+        "city": "Maastricht", 
+        "date": "1995-05-16", 
+        "maxTemp": "167", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "109", 
+        "city": "Maastricht", 
+        "date": "1995-05-17", 
+        "maxTemp": "154", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Maastricht", 
+        "date": "1995-05-18", 
+        "maxTemp": "86", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "82", 
+        "city": "Maastricht", 
+        "date": "1995-05-19", 
+        "maxTemp": "145", 
+        "minTemp": "18"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "Maastricht", 
+        "date": "1995-05-20", 
+        "maxTemp": "158", 
+        "minTemp": "33"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Maastricht", 
+        "date": "1995-05-21", 
+        "maxTemp": "137", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "127", 
+        "city": "Maastricht", 
+        "date": "1995-05-22", 
+        "maxTemp": "192", 
+        "minTemp": "41"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "Maastricht", 
+        "date": "1995-05-23", 
+        "maxTemp": "243", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "Maastricht", 
+        "date": "1995-05-24", 
+        "maxTemp": "250", 
+        "minTemp": "127"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Maastricht", 
+        "date": "1995-05-25", 
+        "maxTemp": "228", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "167", 
+        "city": "Maastricht", 
+        "date": "1995-05-26", 
+        "maxTemp": "208", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "Maastricht", 
+        "date": "1995-05-27", 
+        "maxTemp": "234", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "190", 
+        "city": "Maastricht", 
+        "date": "1995-05-28", 
+        "maxTemp": "258", 
+        "minTemp": "134"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Maastricht", 
+        "date": "1995-05-29", 
+        "maxTemp": "213", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Maastricht", 
+        "date": "1995-05-30", 
+        "maxTemp": "198", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "154", 
+        "city": "Maastricht", 
+        "date": "1995-05-31", 
+        "maxTemp": "188", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Maastricht", 
+        "date": "1995-06-01", 
+        "maxTemp": "189", 
+        "minTemp": "103"
+    }, 
+    {
+        "avgTemp": "131", 
+        "city": "Maastricht", 
+        "date": "1995-06-02", 
+        "maxTemp": "185", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "134", 
+        "city": "Maastricht", 
+        "date": "1995-06-03", 
+        "maxTemp": "182", 
+        "minTemp": "77"
+    }, 
+    {
+        "avgTemp": "132", 
+        "city": "Maastricht", 
+        "date": "1995-06-04", 
+        "maxTemp": "177", 
+        "minTemp": "114"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Maastricht", 
+        "date": "1995-06-05", 
+        "maxTemp": "174", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Maastricht", 
+        "date": "1995-06-06", 
+        "maxTemp": "166", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Maastricht", 
+        "date": "1995-06-07", 
+        "maxTemp": "153", 
+        "minTemp": "59"
+    }, 
+    {
+        "avgTemp": "105", 
+        "city": "Maastricht", 
+        "date": "1995-06-08", 
+        "maxTemp": "157", 
+        "minTemp": "53"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Maastricht", 
+        "date": "1995-06-09", 
+        "maxTemp": "110", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "101", 
+        "city": "Maastricht", 
+        "date": "1995-06-10", 
+        "maxTemp": "131", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "Maastricht", 
+        "date": "1995-06-11", 
+        "maxTemp": "137", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "114", 
+        "city": "Maastricht", 
+        "date": "1995-06-12", 
+        "maxTemp": "148", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Maastricht", 
+        "date": "1995-06-13", 
+        "maxTemp": "167", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "116", 
+        "city": "Maastricht", 
+        "date": "1995-06-14", 
+        "maxTemp": "145", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "Maastricht", 
+        "date": "1995-06-15", 
+        "maxTemp": "118", 
+        "minTemp": "92"
+    }, 
+    {
+        "avgTemp": "118", 
+        "city": "Maastricht", 
+        "date": "1995-06-16", 
+        "maxTemp": "147", 
+        "minTemp": "91"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Maastricht", 
+        "date": "1995-06-17", 
+        "maxTemp": "148", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Maastricht", 
+        "date": "1995-06-18", 
+        "maxTemp": "196", 
+        "minTemp": "126"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "Maastricht", 
+        "date": "1995-06-19", 
+        "maxTemp": "221", 
+        "minTemp": "125"
+    }, 
+    {
+        "avgTemp": "211", 
+        "city": "Maastricht", 
+        "date": "1995-06-20", 
+        "maxTemp": "265", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "183", 
+        "city": "Maastricht", 
+        "date": "1995-06-21", 
+        "maxTemp": "235", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "134", 
+        "city": "Maastricht", 
+        "date": "1995-06-22", 
+        "maxTemp": "176", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Maastricht", 
+        "date": "1995-06-23", 
+        "maxTemp": "185", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Maastricht", 
+        "date": "1995-06-24", 
+        "maxTemp": "197", 
+        "minTemp": "102"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "Maastricht", 
+        "date": "1995-06-25", 
+        "maxTemp": "255", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "Maastricht", 
+        "date": "1995-06-26", 
+        "maxTemp": "267", 
+        "minTemp": "140"
+    }, 
+    {
+        "avgTemp": "225", 
+        "city": "Maastricht", 
+        "date": "1995-06-27", 
+        "maxTemp": "280", 
+        "minTemp": "159"
+    }, 
+    {
+        "avgTemp": "230", 
+        "city": "Maastricht", 
+        "date": "1995-06-28", 
+        "maxTemp": "286", 
+        "minTemp": "171"
+    }, 
+    {
+        "avgTemp": "220", 
+        "city": "Maastricht", 
+        "date": "1995-06-29", 
+        "maxTemp": "281", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "228", 
+        "city": "Maastricht", 
+        "date": "1995-06-30", 
+        "maxTemp": "302", 
+        "minTemp": "142"
+    }, 
+    {
+        "avgTemp": "204", 
+        "city": "Maastricht", 
+        "date": "1995-07-01", 
+        "maxTemp": "249", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Maastricht", 
+        "date": "1995-07-02", 
+        "maxTemp": "208", 
+        "minTemp": "155"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Maastricht", 
+        "date": "1995-07-03", 
+        "maxTemp": "214", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "156", 
+        "city": "Maastricht", 
+        "date": "1995-07-04", 
+        "maxTemp": "200", 
+        "minTemp": "113"
+    }, 
+    {
+        "avgTemp": "171", 
+        "city": "Maastricht", 
+        "date": "1995-07-05", 
+        "maxTemp": "216", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "189", 
+        "city": "Maastricht", 
+        "date": "1995-07-06", 
+        "maxTemp": "247", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "208", 
+        "city": "Maastricht", 
+        "date": "1995-07-07", 
+        "maxTemp": "270", 
+        "minTemp": "135"
+    }, 
+    {
+        "avgTemp": "234", 
+        "city": "Maastricht", 
+        "date": "1995-07-08", 
+        "maxTemp": "303", 
+        "minTemp": "157"
+    }, 
+    {
+        "avgTemp": "257", 
+        "city": "Maastricht", 
+        "date": "1995-07-09", 
+        "maxTemp": "323", 
+        "minTemp": "177"
+    }, 
+    {
+        "avgTemp": "271", 
+        "city": "Maastricht", 
+        "date": "1995-07-10", 
+        "maxTemp": "336", 
+        "minTemp": "192"
+    }, 
+    {
+        "avgTemp": "240", 
+        "city": "Maastricht", 
+        "date": "1995-07-11", 
+        "maxTemp": "333", 
+        "minTemp": "180"
+    }, 
+    {
+        "avgTemp": "215", 
+        "city": "Maastricht", 
+        "date": "1995-07-12", 
+        "maxTemp": "259", 
+        "minTemp": "178"
+    }, 
+    {
+        "avgTemp": "236", 
+        "city": "Maastricht", 
+        "date": "1995-07-13", 
+        "maxTemp": "292", 
+        "minTemp": "168"
+    }, 
+    {
+        "avgTemp": "230", 
+        "city": "Maastricht", 
+        "date": "1995-07-14", 
+        "maxTemp": "265", 
+        "minTemp": "190"
+    }, 
+    {
+        "avgTemp": "205", 
+        "city": "Maastricht", 
+        "date": "1995-07-15", 
+        "maxTemp": "256", 
+        "minTemp": "171"
+    }, 
+    {
+        "avgTemp": "175", 
+        "city": "Maastricht", 
+        "date": "1995-07-16", 
+        "maxTemp": "230", 
+        "minTemp": "145"
+    }, 
+    {
+        "avgTemp": "180", 
+        "city": "Maastricht", 
+        "date": "1995-07-17", 
+        "maxTemp": "226", 
+        "minTemp": "144"
+    }, 
+    {
+        "avgTemp": "194", 
+        "city": "Maastricht", 
+        "date": "1995-07-18", 
+        "maxTemp": "229", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "Maastricht", 
+        "date": "1995-07-19", 
+        "maxTemp": "255", 
+        "minTemp": "183"
+    }, 
+    {
+        "avgTemp": "256", 
+        "city": "Maastricht", 
+        "date": "1995-07-20", 
+        "maxTemp": "324", 
+        "minTemp": "177"
+    }, 
+    {
+        "avgTemp": "274", 
+        "city": "Maastricht", 
+        "date": "1995-07-21", 
+        "maxTemp": "351", 
+        "minTemp": "196"
+    }, 
+    {
+        "avgTemp": "177", 
+        "city": "Maastricht", 
+        "date": "1995-07-22", 
+        "maxTemp": "215", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "164", 
+        "city": "Maastricht", 
+        "date": "1995-07-23", 
+        "maxTemp": "225", 
+        "minTemp": "86"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "Maastricht", 
+        "date": "1995-07-24", 
+        "maxTemp": "262", 
+        "minTemp": "106"
+    }, 
+    {
+        "avgTemp": "217", 
+        "city": "Maastricht", 
+        "date": "1995-07-25", 
+        "maxTemp": "285", 
+        "minTemp": "132"
+    }, 
+    {
+        "avgTemp": "244", 
+        "city": "Maastricht", 
+        "date": "1995-07-26", 
+        "maxTemp": "333", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "Maastricht", 
+        "date": "1995-07-27", 
+        "maxTemp": "255", 
+        "minTemp": "173"
+    }, 
+    {
+        "avgTemp": "194", 
+        "city": "Maastricht", 
+        "date": "1995-07-28", 
+        "maxTemp": "230", 
+        "minTemp": "169"
+    }, 
+    {
+        "avgTemp": "218", 
+        "city": "Maastricht", 
+        "date": "1995-07-29", 
+        "maxTemp": "277", 
+        "minTemp": "148"
+    }, 
+    {
+        "avgTemp": "244", 
+        "city": "Maastricht", 
+        "date": "1995-07-30", 
+        "maxTemp": "307", 
+        "minTemp": "173"
+    }, 
+    {
+        "avgTemp": "258", 
+        "city": "Maastricht", 
+        "date": "1995-07-31", 
+        "maxTemp": "322", 
+        "minTemp": "178"
+    }, 
+    {
+        "avgTemp": "265", 
+        "city": "Maastricht", 
+        "date": "1995-08-01", 
+        "maxTemp": "330", 
+        "minTemp": "181"
+    }, 
+    {
+        "avgTemp": "246", 
+        "city": "Maastricht", 
+        "date": "1995-08-02", 
+        "maxTemp": "311", 
+        "minTemp": "175"
+    }, 
+    {
+        "avgTemp": "237", 
+        "city": "Maastricht", 
+        "date": "1995-08-03", 
+        "maxTemp": "302", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "210", 
+        "city": "Maastricht", 
+        "date": "1995-08-04", 
+        "maxTemp": "266", 
+        "minTemp": "164"
+    }, 
+    {
+        "avgTemp": "224", 
+        "city": "Maastricht", 
+        "date": "1995-08-05", 
+        "maxTemp": "300", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "243", 
+        "city": "Maastricht", 
+        "date": "1995-08-06", 
+        "maxTemp": "318", 
+        "minTemp": "173"
+    }, 
+    {
+        "avgTemp": "184", 
+        "city": "Maastricht", 
+        "date": "1995-08-07", 
+        "maxTemp": "215", 
+        "minTemp": "165"
+    }, 
+    {
+        "avgTemp": "186", 
+        "city": "Maastricht", 
+        "date": "1995-08-08", 
+        "maxTemp": "241", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "Maastricht", 
+        "date": "1995-08-09", 
+        "maxTemp": "269", 
+        "minTemp": "117"
+    }, 
+    {
+        "avgTemp": "218", 
+        "city": "Maastricht", 
+        "date": "1995-08-10", 
+        "maxTemp": "293", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "248", 
+        "city": "Maastricht", 
+        "date": "1995-08-11", 
+        "maxTemp": "324", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "259", 
+        "city": "Maastricht", 
+        "date": "1995-08-12", 
+        "maxTemp": "316", 
+        "minTemp": "204"
+    }, 
+    {
+        "avgTemp": "199", 
+        "city": "Maastricht", 
+        "date": "1995-08-13", 
+        "maxTemp": "243", 
+        "minTemp": "158"
+    }, 
+    {
+        "avgTemp": "179", 
+        "city": "Maastricht", 
+        "date": "1995-08-14", 
+        "maxTemp": "226", 
+        "minTemp": "145"
+    }, 
+    {
+        "avgTemp": "186", 
+        "city": "Maastricht", 
+        "date": "1995-08-15", 
+        "maxTemp": "250", 
+        "minTemp": "105"
+    }, 
+    {
+        "avgTemp": "195", 
+        "city": "Maastricht", 
+        "date": "1995-08-16", 
+        "maxTemp": "255", 
+        "minTemp": "136"
+    }, 
+    {
+        "avgTemp": "215", 
+        "city": "Maastricht", 
+        "date": "1995-08-17", 
+        "maxTemp": "283", 
+        "minTemp": "152"
+    }, 
+    {
+        "avgTemp": "230", 
+        "city": "Maastricht", 
+        "date": "1995-08-18", 
+        "maxTemp": "297", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "244", 
+        "city": "Maastricht", 
+        "date": "1995-08-19", 
+        "maxTemp": "312", 
+        "minTemp": "166"
+    }, 
+    {
+        "avgTemp": "235", 
+        "city": "Maastricht", 
+        "date": "1995-08-20", 
+        "maxTemp": "280", 
+        "minTemp": "183"
+    }, 
+    {
+        "avgTemp": "207", 
+        "city": "Maastricht", 
+        "date": "1995-08-21", 
+        "maxTemp": "263", 
+        "minTemp": "156"
+    }, 
+    {
+        "avgTemp": "239", 
+        "city": "Maastricht", 
+        "date": "1995-08-22", 
+        "maxTemp": "305", 
+        "minTemp": "151"
+    }, 
+    {
+        "avgTemp": "215", 
+        "city": "Maastricht", 
+        "date": "1995-08-23", 
+        "maxTemp": "276", 
+        "minTemp": "180"
+    }, 
+    {
+        "avgTemp": "198", 
+        "city": "Maastricht", 
+        "date": "1995-08-24", 
+        "maxTemp": "261", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "187", 
+        "city": "Maastricht", 
+        "date": "1995-08-25", 
+        "maxTemp": "242", 
+        "minTemp": "149"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Maastricht", 
+        "date": "1995-08-26", 
+        "maxTemp": "223", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "151", 
+        "city": "Maastricht", 
+        "date": "1995-08-27", 
+        "maxTemp": "189", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Maastricht", 
+        "date": "1995-08-28", 
+        "maxTemp": "198", 
+        "minTemp": "95"
+    }, 
+    {
+        "avgTemp": "125", 
+        "city": "Maastricht", 
+        "date": "1995-08-29", 
+        "maxTemp": "154", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "136", 
+        "city": "Maastricht", 
+        "date": "1995-08-30", 
+        "maxTemp": "183", 
+        "minTemp": "104"
+    }, 
+    {
+        "avgTemp": "143", 
+        "city": "Maastricht", 
+        "date": "1995-08-31", 
+        "maxTemp": "196", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "Maastricht", 
+        "date": "1995-09-01", 
+        "maxTemp": "214", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Maastricht", 
+        "date": "1995-09-02", 
+        "maxTemp": "201", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Maastricht", 
+        "date": "1995-09-03", 
+        "maxTemp": "178", 
+        "minTemp": "97"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Maastricht", 
+        "date": "1995-09-04", 
+        "maxTemp": "173", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Maastricht", 
+        "date": "1995-09-05", 
+        "maxTemp": "188", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "155", 
+        "city": "Maastricht", 
+        "date": "1995-09-06", 
+        "maxTemp": "212", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "Maastricht", 
+        "date": "1995-09-07", 
+        "maxTemp": "202", 
+        "minTemp": "138"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Maastricht", 
+        "date": "1995-09-08", 
+        "maxTemp": "176", 
+        "minTemp": "147"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Maastricht", 
+        "date": "1995-09-09", 
+        "maxTemp": "192", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "173", 
+        "city": "Maastricht", 
+        "date": "1995-09-10", 
+        "maxTemp": "220", 
+        "minTemp": "137"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "Maastricht", 
+        "date": "1995-09-11", 
+        "maxTemp": "200", 
+        "minTemp": "116"
+    }, 
+    {
+        "avgTemp": "157", 
+        "city": "Maastricht", 
+        "date": "1995-09-12", 
+        "maxTemp": "201", 
+        "minTemp": "111"
+    }, 
+    {
+        "avgTemp": "145", 
+        "city": "Maastricht", 
+        "date": "1995-09-13", 
+        "maxTemp": "195", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Maastricht", 
+        "date": "1995-09-14", 
+        "maxTemp": "192", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "126", 
+        "city": "Maastricht", 
+        "date": "1995-09-15", 
+        "maxTemp": "158", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "142", 
+        "city": "Maastricht", 
+        "date": "1995-09-16", 
+        "maxTemp": "187", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "Maastricht", 
+        "date": "1995-09-17", 
+        "maxTemp": "199", 
+        "minTemp": "120"
+    }, 
+    {
+        "avgTemp": "161", 
+        "city": "Maastricht", 
+        "date": "1995-09-18", 
+        "maxTemp": "202", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Maastricht", 
+        "date": "1995-09-19", 
+        "maxTemp": "217", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Maastricht", 
+        "date": "1995-09-20", 
+        "maxTemp": "169", 
+        "minTemp": "89"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "Maastricht", 
+        "date": "1995-09-21", 
+        "maxTemp": "176", 
+        "minTemp": "51"
+    }, 
+    {
+        "avgTemp": "146", 
+        "city": "Maastricht", 
+        "date": "1995-09-22", 
+        "maxTemp": "192", 
+        "minTemp": "121"
+    }, 
+    {
+        "avgTemp": "138", 
+        "city": "Maastricht", 
+        "date": "1995-09-23", 
+        "maxTemp": "173", 
+        "minTemp": "99"
+    }, 
+    {
+        "avgTemp": "134", 
+        "city": "Maastricht", 
+        "date": "1995-09-24", 
+        "maxTemp": "192", 
+        "minTemp": "110"
+    }, 
+    {
+        "avgTemp": "130", 
+        "city": "Maastricht", 
+        "date": "1995-09-25", 
+        "maxTemp": "178", 
+        "minTemp": "101"
+    }, 
+    {
+        "avgTemp": "129", 
+        "city": "Maastricht", 
+        "date": "1995-09-26", 
+        "maxTemp": "145", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "120", 
+        "city": "Maastricht", 
+        "date": "1995-09-27", 
+        "maxTemp": "151", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Maastricht", 
+        "date": "1995-09-28", 
+        "maxTemp": "136", 
+        "minTemp": "34"
+    }, 
+    {
+        "avgTemp": "92", 
+        "city": "Maastricht", 
+        "date": "1995-09-29", 
+        "maxTemp": "147", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "103", 
+        "city": "Maastricht", 
+        "date": "1995-09-30", 
+        "maxTemp": "144", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "128", 
+        "city": "Maastricht", 
+        "date": "1995-10-01", 
+        "maxTemp": "169", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "135", 
+        "city": "Maastricht", 
+        "date": "1995-10-02", 
+        "maxTemp": "177", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "165", 
+        "city": "Maastricht", 
+        "date": "1995-10-03", 
+        "maxTemp": "201", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "176", 
+        "city": "Maastricht", 
+        "date": "1995-10-04", 
+        "maxTemp": "202", 
+        "minTemp": "150"
+    }, 
+    {
+        "avgTemp": "139", 
+        "city": "Maastricht", 
+        "date": "1995-10-05", 
+        "maxTemp": "165", 
+        "minTemp": "98"
+    }, 
+    {
+        "avgTemp": "133", 
+        "city": "Maastricht", 
+        "date": "1995-10-06", 
+        "maxTemp": "183", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "163", 
+        "city": "Maastricht", 
+        "date": "1995-10-07", 
+        "maxTemp": "207", 
+        "minTemp": "130"
+    }, 
+    {
+        "avgTemp": "174", 
+        "city": "Maastricht", 
+        "date": "1995-10-08", 
+        "maxTemp": "233", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "183", 
+        "city": "Maastricht", 
+        "date": "1995-10-09", 
+        "maxTemp": "266", 
+        "minTemp": "115"
+    }, 
+    {
+        "avgTemp": "178", 
+        "city": "Maastricht", 
+        "date": "1995-10-10", 
+        "maxTemp": "239", 
+        "minTemp": "128"
+    }, 
+    {
+        "avgTemp": "147", 
+        "city": "Maastricht", 
+        "date": "1995-10-11", 
+        "maxTemp": "153", 
+        "minTemp": "139"
+    }, 
+    {
+        "avgTemp": "162", 
+        "city": "Maastricht", 
+        "date": "1995-10-12", 
+        "maxTemp": "193", 
+        "minTemp": "123"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Maastricht", 
+        "date": "1995-10-13", 
+        "maxTemp": "195", 
+        "minTemp": "112"
+    }, 
+    {
+        "avgTemp": "152", 
+        "city": "Maastricht", 
+        "date": "1995-10-14", 
+        "maxTemp": "212", 
+        "minTemp": "88"
+    }, 
+    {
+        "avgTemp": "166", 
+        "city": "Maastricht", 
+        "date": "1995-10-15", 
+        "maxTemp": "209", 
+        "minTemp": "122"
+    }, 
+    {
+        "avgTemp": "148", 
+        "city": "Maastricht", 
+        "date": "1995-10-16", 
+        "maxTemp": "194", 
+        "minTemp": "109"
+    }, 
+    {
+        "avgTemp": "137", 
+        "city": "Maastricht", 
+        "date": "1995-10-17", 
+        "maxTemp": "182", 
+        "minTemp": "79"
+    }, 
+    {
+        "avgTemp": "150", 
+        "city": "Maastricht", 
+        "date": "1995-10-18", 
+        "maxTemp": "173", 
+        "minTemp": "119"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "Maastricht", 
+        "date": "1995-10-19", 
+        "maxTemp": "137", 
+        "minTemp": "96"
+    }, 
+    {
+        "avgTemp": "110", 
+        "city": "Maastricht", 
+        "date": "1995-10-20", 
+        "maxTemp": "136", 
+        "minTemp": "80"
+    }, 
+    {
+        "avgTemp": "72", 
+        "city": "Maastricht", 
+        "date": "1995-10-21", 
+        "maxTemp": "120", 
+        "minTemp": "32"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Maastricht", 
+        "date": "1995-10-22", 
+        "maxTemp": "116", 
+        "minTemp": "17"
+    }, 
+    {
+        "avgTemp": "122", 
+        "city": "Maastricht", 
+        "date": "1995-10-23", 
+        "maxTemp": "191", 
+        "minTemp": "48"
+    }, 
+    {
+        "avgTemp": "156", 
+        "city": "Maastricht", 
+        "date": "1995-10-24", 
+        "maxTemp": "204", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "141", 
+        "city": "Maastricht", 
+        "date": "1995-10-25", 
+        "maxTemp": "175", 
+        "minTemp": "83"
+    }, 
+    {
+        "avgTemp": "140", 
+        "city": "Maastricht", 
+        "date": "1995-10-26", 
+        "maxTemp": "182", 
+        "minTemp": "78"
+    }, 
+    {
+        "avgTemp": "158", 
+        "city": "Maastricht", 
+        "date": "1995-10-27", 
+        "maxTemp": "180", 
+        "minTemp": "118"
+    }, 
+    {
+        "avgTemp": "119", 
+        "city": "Maastricht", 
+        "date": "1995-10-28", 
+        "maxTemp": "137", 
+        "minTemp": "100"
+    }, 
+    {
+        "avgTemp": "102", 
+        "city": "Maastricht", 
+        "date": "1995-10-29", 
+        "maxTemp": "127", 
+        "minTemp": "66"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Maastricht", 
+        "date": "1995-10-30", 
+        "maxTemp": "101", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "67", 
+        "city": "Maastricht", 
+        "date": "1995-10-31", 
+        "maxTemp": "89", 
+        "minTemp": "39"
+    }, 
+    {
+        "avgTemp": "73", 
+        "city": "Maastricht", 
+        "date": "1995-11-01", 
+        "maxTemp": "96", 
+        "minTemp": "45"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Maastricht", 
+        "date": "1995-11-02", 
+        "maxTemp": "94", 
+        "minTemp": "30"
+    }, 
+    {
+        "avgTemp": "69", 
+        "city": "Maastricht", 
+        "date": "1995-11-03", 
+        "maxTemp": "100", 
+        "minTemp": "23"
+    }, 
+    {
+        "avgTemp": "12", 
+        "city": "Maastricht", 
+        "date": "1995-11-04", 
+        "maxTemp": "47", 
+        "minTemp": "-21"
+    }, 
+    {
+        "avgTemp": "-7", 
+        "city": "Maastricht", 
+        "date": "1995-11-05", 
+        "maxTemp": "39", 
+        "minTemp": "-47"
+    }, 
+    {
+        "avgTemp": "-3", 
+        "city": "Maastricht", 
+        "date": "1995-11-06", 
+        "maxTemp": "46", 
+        "minTemp": "-45"
+    }, 
+    {
+        "avgTemp": "41", 
+        "city": "Maastricht", 
+        "date": "1995-11-07", 
+        "maxTemp": "68", 
+        "minTemp": "-12"
+    }, 
+    {
+        "avgTemp": "85", 
+        "city": "Maastricht", 
+        "date": "1995-11-08", 
+        "maxTemp": "103", 
+        "minTemp": "68"
+    }, 
+    {
+        "avgTemp": "91", 
+        "city": "Maastricht", 
+        "date": "1995-11-09", 
+        "maxTemp": "114", 
+        "minTemp": "54"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Maastricht", 
+        "date": "1995-11-10", 
+        "maxTemp": "130", 
+        "minTemp": "42"
+    }, 
+    {
+        "avgTemp": "123", 
+        "city": "Maastricht", 
+        "date": "1995-11-11", 
+        "maxTemp": "171", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "111", 
+        "city": "Maastricht", 
+        "date": "1995-11-12", 
+        "maxTemp": "166", 
+        "minTemp": "64"
+    }, 
+    {
+        "avgTemp": "78", 
+        "city": "Maastricht", 
+        "date": "1995-11-13", 
+        "maxTemp": "107", 
+        "minTemp": "29"
+    }, 
+    {
+        "avgTemp": "100", 
+        "city": "Maastricht", 
+        "date": "1995-11-14", 
+        "maxTemp": "117", 
+        "minTemp": "85"
+    }, 
+    {
+        "avgTemp": "95", 
+        "city": "Maastricht", 
+        "date": "1995-11-15", 
+        "maxTemp": "101", 
+        "minTemp": "84"
+    }, 
+    {
+        "avgTemp": "106", 
+        "city": "Maastricht", 
+        "date": "1995-11-16", 
+        "maxTemp": "140", 
+        "minTemp": "74"
+    }, 
+    {
+        "avgTemp": "37", 
+        "city": "Maastricht", 
+        "date": "1995-11-17", 
+        "maxTemp": "74", 
+        "minTemp": "14"
+    }, 
+    {
+        "avgTemp": "19", 
+        "city": "Maastricht", 
+        "date": "1995-11-18", 
+        "maxTemp": "48", 
+        "minTemp": "-18"
+    }, 
+    {
+        "avgTemp": "46", 
+        "city": "Maastricht", 
+        "date": "1995-11-19", 
+        "maxTemp": "65", 
+        "minTemp": "20"
+    }, 
+    {
+        "avgTemp": "35", 
+        "city": "Maastricht", 
+        "date": "1995-11-20", 
+        "maxTemp": "85", 
+        "minTemp": "1"
+    }, 
+    {
+        "avgTemp": "14", 
+        "city": "Maastricht", 
+        "date": "1995-11-21", 
+        "maxTemp": "64", 
+        "minTemp": "-17"
+    }, 
+    {
+        "avgTemp": "68", 
+        "city": "Maastricht", 
+        "date": "1995-11-22", 
+        "maxTemp": "92", 
+        "minTemp": "24"
+    }, 
+    {
+        "avgTemp": "87", 
+        "city": "Maastricht", 
+        "date": "1995-11-23", 
+        "maxTemp": "102", 
+        "minTemp": "71"
+    }, 
+    {
+        "avgTemp": "88", 
+        "city": "Maastricht", 
+        "date": "1995-11-24", 
+        "maxTemp": "105", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "90", 
+        "city": "Maastricht", 
+        "date": "1995-11-25", 
+        "maxTemp": "130", 
+        "minTemp": "65"
+    }, 
+    {
+        "avgTemp": "101", 
+        "city": "Maastricht", 
+        "date": "1995-11-26", 
+        "maxTemp": "137", 
+        "minTemp": "49"
+    }, 
+    {
+        "avgTemp": "74", 
+        "city": "Maastricht", 
+        "date": "1995-11-27", 
+        "maxTemp": "88", 
+        "minTemp": "62"
+    }, 
+    {
+        "avgTemp": "63", 
+        "city": "Maastricht", 
+        "date": "1995-11-28", 
+        "maxTemp": "109", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-11-29", 
+        "maxTemp": "91", 
+        "minTemp": "-5"
+    }, 
+    {
+        "avgTemp": "32", 
+        "city": "Maastricht", 
+        "date": "1995-11-30", 
+        "maxTemp": "49", 
+        "minTemp": "4"
+    }, 
+    {
+        "avgTemp": "10", 
+        "city": "Maastricht", 
+        "date": "1995-12-01", 
+        "maxTemp": "40", 
+        "minTemp": "-13"
+    }, 
+    {
+        "avgTemp": "50", 
+        "city": "Maastricht", 
+        "date": "1995-12-02", 
+        "maxTemp": "74", 
+        "minTemp": "-10"
+    }, 
+    {
+        "avgTemp": "39", 
+        "city": "Maastricht", 
+        "date": "1995-12-03", 
+        "maxTemp": "53", 
+        "minTemp": "16"
+    }, 
+    {
+        "avgTemp": "4", 
+        "city": "Maastricht", 
+        "date": "1995-12-04", 
+        "maxTemp": "22", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "-39", 
+        "city": "Maastricht", 
+        "date": "1995-12-05", 
+        "maxTemp": "-11", 
+        "minTemp": "-49"
+    }, 
+    {
+        "avgTemp": "-30", 
+        "city": "Maastricht", 
+        "date": "1995-12-06", 
+        "maxTemp": "-27", 
+        "minTemp": "-36"
+    }, 
+    {
+        "avgTemp": "-22", 
+        "city": "Maastricht", 
+        "date": "1995-12-07", 
+        "maxTemp": "1", 
+        "minTemp": "-49"
+    }, 
+    {
+        "avgTemp": "-11", 
+        "city": "Maastricht", 
+        "date": "1995-12-08", 
+        "maxTemp": "16", 
+        "minTemp": "-61"
+    }, 
+    {
+        "avgTemp": "15", 
+        "city": "Maastricht", 
+        "date": "1995-12-09", 
+        "maxTemp": "27", 
+        "minTemp": "3"
+    }, 
+    {
+        "avgTemp": "-3", 
+        "city": "Maastricht", 
+        "date": "1995-12-10", 
+        "maxTemp": "5", 
+        "minTemp": "-11"
+    }, 
+    {
+        "avgTemp": "-1", 
+        "city": "Maastricht", 
+        "date": "1995-12-11", 
+        "maxTemp": "17", 
+        "minTemp": "-17"
+    }, 
+    {
+        "avgTemp": "21", 
+        "city": "Maastricht", 
+        "date": "1995-12-12", 
+        "maxTemp": "38", 
+        "minTemp": "11"
+    }, 
+    {
+        "avgTemp": "-1", 
+        "city": "Maastricht", 
+        "date": "1995-12-13", 
+        "maxTemp": "19", 
+        "minTemp": "-24"
+    }, 
+    {
+        "avgTemp": "1", 
+        "city": "Maastricht", 
+        "date": "1995-12-14", 
+        "maxTemp": "14", 
+        "minTemp": "-24"
+    }, 
+    {
+        "avgTemp": "-7", 
+        "city": "Maastricht", 
+        "date": "1995-12-15", 
+        "maxTemp": "6", 
+        "minTemp": "-21"
+    }, 
+    {
+        "avgTemp": "-11", 
+        "city": "Maastricht", 
+        "date": "1995-12-16", 
+        "maxTemp": "11", 
+        "minTemp": "-30"
+    }, 
+    {
+        "avgTemp": "0", 
+        "city": "Maastricht", 
+        "date": "1995-12-17", 
+        "maxTemp": "36", 
+        "minTemp": "-46"
+    }, 
+    {
+        "avgTemp": "43", 
+        "city": "Maastricht", 
+        "date": "1995-12-18", 
+        "maxTemp": "52", 
+        "minTemp": "22"
+    }, 
+    {
+        "avgTemp": "40", 
+        "city": "Maastricht", 
+        "date": "1995-12-19", 
+        "maxTemp": "50", 
+        "minTemp": "21"
+    }, 
+    {
+        "avgTemp": "10", 
+        "city": "Maastricht", 
+        "date": "1995-12-20", 
+        "maxTemp": "38", 
+        "minTemp": "-23"
+    }, 
+    {
+        "avgTemp": "1", 
+        "city": "Maastricht", 
+        "date": "1995-12-21", 
+        "maxTemp": "60", 
+        "minTemp": "-25"
+    }, 
+    {
+        "avgTemp": "96", 
+        "city": "Maastricht", 
+        "date": "1995-12-22", 
+        "maxTemp": "109", 
+        "minTemp": "60"
+    }, 
+    {
+        "avgTemp": "79", 
+        "city": "Maastricht", 
+        "date": "1995-12-23", 
+        "maxTemp": "112", 
+        "minTemp": "15"
+    }, 
+    {
+        "avgTemp": "7", 
+        "city": "Maastricht", 
+        "date": "1995-12-24", 
+        "maxTemp": "18", 
+        "minTemp": "-16"
+    }, 
+    {
+        "avgTemp": "-7", 
+        "city": "Maastricht", 
+        "date": "1995-12-25", 
+        "maxTemp": "16", 
+        "minTemp": "-43"
+    }, 
+    {
+        "avgTemp": "-3", 
+        "city": "Maastricht", 
+        "date": "1995-12-26", 
+        "maxTemp": "9", 
+        "minTemp": "-39"
+    }, 
+    {
+        "avgTemp": "-47", 
+        "city": "Maastricht", 
+        "date": "1995-12-27", 
+        "maxTemp": "-13", 
+        "minTemp": "-67"
+    }, 
+    {
+        "avgTemp": "-65", 
+        "city": "Maastricht", 
+        "date": "1995-12-28", 
+        "maxTemp": "-38", 
+        "minTemp": "-96"
+    }, 
+    {
+        "avgTemp": "-58", 
+        "city": "Maastricht", 
+        "date": "1995-12-29", 
+        "maxTemp": "-31", 
+        "minTemp": "-84"
+    }, 
+    {
+        "avgTemp": "-47", 
+        "city": "Maastricht", 
+        "date": "1995-12-30", 
+        "maxTemp": "-15", 
+        "minTemp": "-75"
+    }, 
+    {
+        "avgTemp": "7", 
+        "city": "Maastricht", 
+        "date": "1995-12-31", 
+        "maxTemp": "25", 
+        "minTemp": "-15"
+    }
+]

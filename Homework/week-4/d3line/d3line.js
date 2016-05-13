@@ -12,6 +12,7 @@ Sanne Strikkers
 
 */
 
+// sizing the graph
 var margin = {
         top: 20,
         right: 20,
@@ -21,23 +22,25 @@ var margin = {
     width = 1000 - margin.left - margin.right,
     height = 700 - margin.top - margin.bottom;
 
+// convert to JavaScript Date object
 var formatDate = d3.time.format("%Y-%m-%d").parse;
 
+// x-axis
 var x = d3.time.scale()
     .range([0, width]);
-
-var y = d3.scale.linear()
-    .range([height, 0]);
-
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
 
+// y-axis
+var y = d3.scale.linear()
+    .range([height, 0]);
 var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left")
     .ticks(20);
 
+// blue line in the chart
 var line = d3.svg.line()
     .x(function (d) {
         return x(d.date);
@@ -46,15 +49,17 @@ var line = d3.svg.line()
         return y(d.avgTemp);
     });
 
-// Define the div for the tooltip
+// define the div for the tooltip
 var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
+// define the crosshair for the graph
 var bisectDate = d3.bisector(function (d) {
     return d.date;
 }).left;
 
+// setting up the whole chart
 var svg = d3.select(".chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -62,14 +67,21 @@ var svg = d3.select(".chart").append("svg")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("d3lineSchiphol.json", function (error, data) {
-    if (error) throw error;
+// recieve data
+d3.json("data/d3lineSchiphol2015.json", function (error, data) {
+    if (error) {
+        console.log("We cannot retrieve the data.");
+        alert("We cannot retrieve the data.");
+        throw error;
+    };
 
+    // getting the data and format
     data.forEach(function (d) {
         d.date = formatDate(d.date);
         d.avgTemp = +d.avgTemp;
     });
 
+    // setting up the domain for the x and y axis
     x.domain(d3.extent(data, function (d) {
         return d.date;
     }));
@@ -77,11 +89,13 @@ d3.json("d3lineSchiphol.json", function (error, data) {
         return d.avgTemp;
     }));
 
+    // the line with data for x-axis
     svg.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
         .call(xAxis);
 
+    // the line with data for y-axis
     svg.append("g")
         .attr("class", "y axis")
         .call(yAxis)
@@ -90,8 +104,9 @@ d3.json("d3lineSchiphol.json", function (error, data) {
         .attr("y", 6)
         .attr("dy", ".71em")
         .style("text-anchor", "end")
-        .text("Temperature (in 0.1 degrees)");
+        .text("Temperature (in 0.1 Celcius)");
 
+    // the data (blue) line
     svg.append("path")
         .datum(data)
         .attr("class", "line")
@@ -121,7 +136,13 @@ d3.json("d3lineSchiphol.json", function (error, data) {
             "y2": height
         });
 
+    // focus circle
+    focus.append('circle')
+        .attr('id', 'focusCircle')
+        .attr('r', 5)
+        .attr('class', 'circle focusCircle');
 
+    // focus graph
     svg.append("rect")
         .attr({
             "class": "overlay",
@@ -138,19 +159,27 @@ d3.json("d3lineSchiphol.json", function (error, data) {
             "mousemove": mousemove
         });
 
+    /*
+        Showing the crosshair on mousemove and update data for the tooltip
+    */
     function mousemove() {
+        // format the date 
         var dateOutput = d3.time.format("%Y-%m-%d");
+
+        // getting specific data
         var x0 = x.invert(d3.mouse(this)[0]),
             i = bisectDate(data, x0, 1),
             d0 = data[i - 1],
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
         focus.attr("transform", "translate(" + x(d.date) + "," + y(d.avgTemp) + ")");
+
+        // add tooltip with text
         div.transition()
             .duration(200)
             .style("opacity", .9);
-        div.html("Avg. Temp.: " + d.avgTemp + "</br>Date: " + dateOutput(d.date))
+        div.html("Avg. Temp.: <strong>" + d.avgTemp + "</strong></br>Date: <strong>" + dateOutput(d.date) + "</strong>")
             .style("left", (d3.event.pageX) + "px")
-            .style("top", (d3.event.pageY - 28) + "px");
+            .style("top", "150px");
     }
 });
