@@ -30,10 +30,14 @@ footer {
     text-align: center;
     margin-top: 10px;
 }
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
-input, #option, .title, select {
+input,
+#option,
+.title,
+select {
     text-align: center;
     font-size: 18px;
 }
@@ -63,9 +67,13 @@ input, #option, .title, select {
     stroke: #008ae6;
     stroke-width: 1.5px;
 }
-.legend text {
-    margin-left: 10px;
+.legend {
+    padding: 5px;
+    font: 10px sans-serif;
+    background: yellow;
+    box-shadow: 2px 2px 1px #888;
 }
+
 /*
     Cross-hair
 */
@@ -82,7 +90,7 @@ input, #option, .title, select {
     opacity: 0.5;
 }
 .focusCircle {
-  fill: orange;
+    fill: orange;
 }
 
 /*
