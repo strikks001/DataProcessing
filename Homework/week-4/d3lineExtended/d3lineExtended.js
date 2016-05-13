@@ -1,6 +1,6 @@
 /**
 
-d3line.js
+d3lineExtended.js
 
 Computer Science 50
 D3line
