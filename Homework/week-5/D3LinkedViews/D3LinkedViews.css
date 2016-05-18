@@ -1,0 +1,74 @@
+/**
+
+D3LinkedViews.css
+
+Computer Science 50
+D3LinkedViews
+
+D3LinkedViews to style a map
+
+Sanne Strikkers
+11170816
+
+*/
+
+body {
+    margin: 50px;
+}
+
+/*
+    Letter styles 
+*/
+
+h1 {
+    font: 30px sans-serif;
+    font-weight: bold;
+}
+.title {
+    text-align: center;
+}
+
+/*
+    pop up when hovering countries
+*/
+
+.popup-tool {
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+    font: 12px sans-serif;
+    color: white;
+    background: #6A6A6A;
+    pointer-events: none;
+}
+
+/*
+    explanation text
+*/
+
+.datamaps-legend {
+    margin-left: 50px;
+}
+.explanation {
+    font: 14px sans-serif;
+    margin-top: 100px;
+}
+
+/*
+Bar Chart
+*/
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
