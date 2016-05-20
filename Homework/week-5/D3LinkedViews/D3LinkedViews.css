@@ -12,18 +12,10 @@ Sanne Strikkers
 
 */
 
-body {
-    margin: 50px;
-}
-
 /*
     Letter styles 
 */
 
-h1 {
-    font: 30px sans-serif;
-    font-weight: bold;
-}
 .title {
     text-align: center;
 }
@@ -36,7 +28,7 @@ h1 {
     text-align: center;
     vertical-align: middle;
     padding: 5px;
-    font: 12px sans-serif;
+    font-size: 10px;
     color: white;
     background: #6A6A6A;
     pointer-events: none;
@@ -45,18 +37,42 @@ h1 {
 /*
     explanation text
 */
-
+#options {
+    margin-top: 20px;
+}
 .datamaps-legend {
     margin-left: 50px;
 }
 .explanation {
-    font: 14px sans-serif;
-    margin-top: 100px;
+    margin-top: -48px;
 }
 
 /*
 Bar Chart
 */
+
+.chart .legend {
+  fill: black;
+  font: 10px;
+  text-anchor: start;
+  font-size: 10px;
+}
+
+.chart text {
+  fill: white;
+  font-size: 10px;
+  text-anchor: end;
+}
+
+.chart .label {
+  fill: black;
+  font-size: 10px;
+  text-anchor: end;
+}
+
+.bar:hover {
+  fill: brown;
+}
 
 .axis path,
 .axis line {
@@ -65,10 +81,6 @@ Bar Chart
   shape-rendering: crispEdges;
 }
 
-.bar {
-  fill: steelblue;
-}
-
-.x.axis path {
-  display: none;
+.chart {
+    margin-top: 30px;
 }

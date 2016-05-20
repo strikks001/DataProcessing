@@ -28,23 +28,58 @@ Sanne Strikkers
     <!-- app's own CSS -->
     <link href="D3LinkedViews.css" rel="stylesheet" />
 
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
     <title>D3 Map</title>
 </head>
 
 <body>
-    <!-- Title section -->
-    <div class="title">
-        <h1>World Population</h1>
-    </div>
-    <!-- End of title section -->
+    <div class="container">
 
-    <!-- World Map -->
-    <div id="container1" style="height: 500px; width: 960px; display: block; margin: auto;"></div>
+        <!-- Title section -->
+        <div class="title">
+            <h1 id="map-title">World Population in 2010</h1>
+        </div>
+        <!-- End of title section -->
 
-    <!-- Explanation of the map -->
-    <div class="explanation">
+        <select id="options" class="center-block">
+            <option class="place" value="World Population">World Population</option>
+            <option class="place" value="Life Expectancy">Life Expectancy</option>
+            <option class="place" value="Well-being">Well-being</option>
+            <option class="place" value="Ecological Footprint">Ecological Footprint</option>
+        </select>
+
+        <!-- World Map -->
+        <div id="container1" style="height: 500px; width: 960px; display: block; margin: auto;"></div>
+        
+        <!-- Explanation of the map -->
+        <div class="explanation">
+            <h2 id="title-hpi" class="text-center"></h2>
+            <h5 id="under-hpi" class="text-center"> </h5>
+            <div class="row">
+                <div class="col-md-6">
+                    <svg class="chart chart1"></svg>
+                </div>
+                <div class="col-md-6">
+                    <svg class="chart chart2"></svg>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <svg class="chart chart3"></svg>
+                </div>
+            </div>
+        </div>
+        <!-- End of explanation of the map -->
+
     </div>
-    <!-- End of explanation of the map -->
 
     <!-- DataMap -->
     <script src="http://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script>

@@ -1,0 +1,67 @@
+    console.log(map.options.data);
+
+    for (i in map.options.data) {
+        if (map.options.data[i].population >= 1000000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "h10";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+        }
+        if (map.options.data[i].population >= 200000000 && map.options.data[i].population < 1000000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "h9";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 100000000 && map.options.data[i].population < 200000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "h8";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 75000000 && map.options.data[i].population < 100000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "m7";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 50000000 && map.options.data[i].population < 75000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "m6";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 2500000 && map.options.data[i].population < 50000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "m5";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 1000000 && map.options.data[i].population < 2500000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "l4";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population >= 500000 && map.options.data[i].population < 1000000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "l3";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+
+        } else if (map.options.data[i].population < 500000) {
+            var fillKey = {};
+            var data = {};
+            fillKey["fillKey"] = "l2";
+            data[i] = fillKey;
+            map.updateChoropleth(data);
+        }
+    }

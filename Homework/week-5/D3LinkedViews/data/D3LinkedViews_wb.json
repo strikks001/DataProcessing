@@ -1,0 +1,1663 @@
+[
+    {
+        "AFG": {
+            "country": "Afghanistan", 
+            "ecologicalFootprint": 0.54, 
+            "wellBeing": 4.8, 
+            "hpi": 36.8, 
+            "lifeExpectancy": 48.7, 
+            "fillKey": "wb_middle", 
+            "population": 34385000
+        }
+    }, 
+    {
+        "ALB": {
+            "country": "Albania", 
+            "ecologicalFootprint": 1.81, 
+            "wellBeing": 5.3, 
+            "hpi": 54.1, 
+            "lifeExpectancy": 76.9, 
+            "fillKey": "wb_middle", 
+            "population": 3205000
+        }
+    }, 
+    {
+        "DZA": {
+            "country": "Algeria", 
+            "ecologicalFootprint": 1.65, 
+            "wellBeing": 5.2, 
+            "hpi": 52.2, 
+            "lifeExpectancy": 73.1, 
+            "fillKey": "wb_middle", 
+            "population": 35468000
+        }
+    }, 
+    {
+        "AGO": {
+            "country": "Angola", 
+            "ecologicalFootprint": 0.89, 
+            "wellBeing": 4.2, 
+            "hpi": 33.2, 
+            "lifeExpectancy": 51.1, 
+            "fillKey": "wb_poor", 
+            "population": 19082000
+        }
+    }, 
+    {
+        "ARG": {
+            "country": "Argentina", 
+            "ecologicalFootprint": 2.71, 
+            "wellBeing": 6.4, 
+            "hpi": 54.1, 
+            "lifeExpectancy": 75.9, 
+            "fillKey": "wb_good", 
+            "population": 40412000
+        }
+    }, 
+    {
+        "ARM": {
+            "country": "Armenia", 
+            "ecologicalFootprint": 1.73, 
+            "wellBeing": 4.4, 
+            "hpi": 46.0, 
+            "lifeExpectancy": 74.2, 
+            "fillKey": "wb_poor", 
+            "population": 3092000
+        }
+    }, 
+    {
+        "AUS": {
+            "country": "Australia", 
+            "ecologicalFootprint": 6.68, 
+            "wellBeing": 7.4, 
+            "hpi": 42.0, 
+            "lifeExpectancy": 81.9, 
+            "fillKey": "wb_good", 
+            "population": 22299000
+        }
+    }, 
+    {
+        "AUT": {
+            "country": "Austria", 
+            "ecologicalFootprint": 5.29, 
+            "wellBeing": 7.3, 
+            "hpi": 47.1, 
+            "lifeExpectancy": 80.9, 
+            "fillKey": "wb_good", 
+            "population": 8390000
+        }
+    }, 
+    {
+        "AZE": {
+            "country": "Azerbaijan", 
+            "ecologicalFootprint": 1.97, 
+            "wellBeing": 4.2, 
+            "hpi": 40.9, 
+            "lifeExpectancy": 70.7, 
+            "fillKey": "wb_poor", 
+            "population": 9054000
+        }
+    }, 
+    {
+        "BHR": {
+            "country": "Bahrain", 
+            "ecologicalFootprint": 6.65, 
+            "wellBeing": 4.5, 
+            "hpi": 26.6, 
+            "lifeExpectancy": 75.1, 
+            "fillKey": "wb_poor", 
+            "population": 1262000
+        }
+    }, 
+    {
+        "BGD": {
+            "country": "Bangladesh", 
+            "ecologicalFootprint": 0.66, 
+            "wellBeing": 5.0, 
+            "hpi": 56.3, 
+            "lifeExpectancy": 68.9, 
+            "fillKey": "wb_middle", 
+            "population": 148692000
+        }
+    }, 
+    {
+        "BLR": {
+            "country": "Belarus", 
+            "ecologicalFootprint": 3.99, 
+            "wellBeing": 5.5, 
+            "hpi": 37.4, 
+            "lifeExpectancy": 70.3, 
+            "fillKey": "wb_middle", 
+            "population": 9490000
+        }
+    }, 
+    {
+        "BEL": {
+            "country": "Belgium", 
+            "ecologicalFootprint": 7.11, 
+            "wellBeing": 6.9, 
+            "hpi": 37.1, 
+            "lifeExpectancy": 80.0, 
+            "fillKey": "wb_good", 
+            "population": 10896000
+        }
+    }, 
+    {
+        "BLZ": {
+            "country": "Belize", 
+            "ecologicalFootprint": 2.11, 
+            "wellBeing": 6.5, 
+            "hpi": 59.3, 
+            "lifeExpectancy": 76.1, 
+            "fillKey": "wb_good", 
+            "population": 345000
+        }
+    }, 
+    {
+        "BEN": {
+            "country": "Benin", 
+            "ecologicalFootprint": 1.36, 
+            "wellBeing": 3.7, 
+            "hpi": 31.1, 
+            "lifeExpectancy": 56.1, 
+            "fillKey": "wb_poor", 
+            "population": 8850000
+        }
+    }, 
+    {
+        "BOL": {
+            "country": "Bolivia", 
+            "ecologicalFootprint": 2.61, 
+            "wellBeing": 5.8, 
+            "hpi": 43.6, 
+            "lifeExpectancy": 66.6, 
+            "fillKey": "wb_middle", 
+            "population": 9929000
+        }
+    }, 
+    {
+        "BIH": {
+            "country": "Bosnia and Herzegovina", 
+            "ecologicalFootprint": 2.74, 
+            "wellBeing": 4.7, 
+            "hpi": 42.4, 
+            "lifeExpectancy": 75.7, 
+            "fillKey": "wb_poor", 
+            "population": 3760000
+        }
+    }, 
+    {
+        "BWA": {
+            "country": "Botswana", 
+            "ecologicalFootprint": 2.84, 
+            "wellBeing": 3.6, 
+            "hpi": 22.6, 
+            "lifeExpectancy": 53.2, 
+            "fillKey": "wb_poor", 
+            "population": 2007000
+        }
+    }, 
+    {
+        "BRA": {
+            "country": "Brazil", 
+            "ecologicalFootprint": 2.93, 
+            "wellBeing": 6.8, 
+            "hpi": 52.9, 
+            "lifeExpectancy": 73.5, 
+            "fillKey": "wb_good", 
+            "population": 194946000
+        }
+    }, 
+    {
+        "BGR": {
+            "country": "Bulgaria", 
+            "ecologicalFootprint": 3.56, 
+            "wellBeing": 4.2, 
+            "hpi": 34.1, 
+            "lifeExpectancy": 73.4, 
+            "fillKey": "wb_poor", 
+            "population": 7534000
+        }
+    }, 
+    {
+        "BFA": {
+            "country": "Burkina Faso", 
+            "ecologicalFootprint": 1.53, 
+            "wellBeing": 4.0, 
+            "hpi": 31.8, 
+            "lifeExpectancy": 55.4, 
+            "fillKey": "wb_poor", 
+            "population": 16468000
+        }
+    }, 
+    {
+        "BDI": {
+            "country": "Burundi", 
+            "ecologicalFootprint": 0.85, 
+            "wellBeing": 3.8, 
+            "hpi": 30.5, 
+            "lifeExpectancy": 50.4, 
+            "fillKey": "wb_poor", 
+            "population": 8382000
+        }
+    }, 
+    {
+        "KHM": {
+            "country": "Cambodia", 
+            "ecologicalFootprint": 1.19, 
+            "wellBeing": 4.2, 
+            "hpi": 40.3, 
+            "lifeExpectancy": 63.1, 
+            "fillKey": "wb_poor", 
+            "population": 14139000
+        }
+    }, 
+    {
+        "CMR": {
+            "country": "Cameroon", 
+            "ecologicalFootprint": 1.09, 
+            "wellBeing": 4.4, 
+            "hpi": 33.7, 
+            "lifeExpectancy": 51.6, 
+            "fillKey": "wb_poor", 
+            "population": 19599000
+        }
+    }, 
+    {
+        "CAN": {
+            "country": "Canada", 
+            "ecologicalFootprint": 6.43, 
+            "wellBeing": 7.7, 
+            "hpi": 43.6, 
+            "lifeExpectancy": 81.0, 
+            "fillKey": "wb_good", 
+            "population": 34126000
+        }
+    }, 
+    {
+        "CAF": {
+            "country": "Central African Republic", 
+            "ecologicalFootprint": 1.36, 
+            "wellBeing": 3.6, 
+            "hpi": 25.3, 
+            "lifeExpectancy": 48.4, 
+            "fillKey": "wb_poor", 
+            "population": 4401000
+        }
+    }, 
+    {
+        "TCD": {
+            "country": "Chad", 
+            "ecologicalFootprint": 1.89, 
+            "wellBeing": 3.7, 
+            "hpi": 24.7, 
+            "lifeExpectancy": 49.6, 
+            "fillKey": "wb_poor", 
+            "population": 11227000
+        }
+    }, 
+    {
+        "CHL": {
+            "country": "Chile", 
+            "ecologicalFootprint": 3.24, 
+            "wellBeing": 6.6, 
+            "hpi": 53.9, 
+            "lifeExpectancy": 79.1, 
+            "fillKey": "wb_good", 
+            "population": 17113688
+        }
+    }, 
+    {
+        "CHN": {
+            "country": "China", 
+            "ecologicalFootprint": 2.13, 
+            "wellBeing": 4.7, 
+            "hpi": 44.7, 
+            "lifeExpectancy": 73.5, 
+            "fillKey": "wb_poor", 
+            "population": 1338300000
+        }
+    }, 
+    {
+        "COL": {
+            "country": "Colombia", 
+            "ecologicalFootprint": 1.8, 
+            "wellBeing": 6.4, 
+            "hpi": 59.8, 
+            "lifeExpectancy": 73.7, 
+            "fillKey": "wb_good", 
+            "population": 46295000
+        }
+    }, 
+    {
+        "COM": {
+            "country": "Comoros", 
+            "ecologicalFootprint": 1.3, 
+            "wellBeing": 3.9, 
+            "hpi": 36.5, 
+            "lifeExpectancy": 61.1, 
+            "fillKey": "wb_poor", 
+            "population": 735000
+        }
+    }, 
+    {
+        "COG": {
+            "country": "Congo", 
+            "ecologicalFootprint": 1.08, 
+            "wellBeing": 3.8, 
+            "hpi": 34.5, 
+            "lifeExpectancy": 57.4, 
+            "fillKey": "wb_poor", 
+            "population": 4043000
+        }
+    }, 
+    {
+        "COD": {
+            "country": "Democratic Republic of the Congo", 
+            "ecologicalFootprint": 0.76, 
+            "wellBeing": 4.0, 
+            "hpi": 30.5, 
+            "lifeExpectancy": 48.4, 
+            "fillKey": "wb_poor", 
+            "population": 65965000
+        }
+    }, 
+    {
+        "CRI": {
+            "country": "Costa Rica", 
+            "ecologicalFootprint": 2.52, 
+            "wellBeing": 7.3, 
+            "hpi": 64.0, 
+            "lifeExpectancy": 79.3, 
+            "fillKey": "wb_good", 
+            "population": 4659000
+        }
+    }, 
+    {
+        "CIV": {
+            "country": "Cote d'Ivoire", 
+            "ecologicalFootprint": 0.99, 
+            "wellBeing": 4.2, 
+            "hpi": 35.9, 
+            "lifeExpectancy": 55.4, 
+            "fillKey": "wb_poor", 
+            "population": 19738000
+        }
+    }, 
+    {
+        "HRV": {
+            "country": "Croatia", 
+            "ecologicalFootprint": 4.19, 
+            "wellBeing": 5.6, 
+            "hpi": 40.6, 
+            "lifeExpectancy": 76.6, 
+            "fillKey": "wb_middle", 
+            "population": 4418000
+        }
+    }, 
+    {
+        "CUB": {
+            "country": "Cuba", 
+            "ecologicalFootprint": 1.9, 
+            "wellBeing": 5.4, 
+            "hpi": 56.2, 
+            "lifeExpectancy": 79.1, 
+            "fillKey": "wb_middle", 
+            "population": 11258000
+        }
+    }, 
+    {
+        "CYP": {
+            "country": "Cyprus", 
+            "ecologicalFootprint": 4.44, 
+            "wellBeing": 6.4, 
+            "hpi": 45.5, 
+            "lifeExpectancy": 79.6, 
+            "fillKey": "wb_good", 
+            "population": 1103000
+        }
+    }, 
+    {
+        "CZE": {
+            "country": "Czech Republic", 
+            "ecologicalFootprint": 5.27, 
+            "wellBeing": 6.2, 
+            "hpi": 39.4, 
+            "lifeExpectancy": 77.7, 
+            "fillKey": "wb_good", 
+            "population": 10520000
+        }
+    }, 
+    {
+        "DNK": {
+            "country": "Denmark", 
+            "ecologicalFootprint": 8.25, 
+            "wellBeing": 7.8, 
+            "hpi": 36.6, 
+            "lifeExpectancy": 78.8, 
+            "fillKey": "wb_good", 
+            "population": 5547000
+        }
+    }, 
+    {
+        "DJI": {
+            "country": "Djibouti", 
+            "ecologicalFootprint": 1.85, 
+            "wellBeing": 5.0, 
+            "hpi": 37.2, 
+            "lifeExpectancy": 57.9, 
+            "fillKey": "wb_middle", 
+            "population": 889000
+        }
+    }, 
+    {
+        "DOM": {
+            "country": "Dominican Republic", 
+            "ecologicalFootprint": 1.42, 
+            "wellBeing": 4.7, 
+            "hpi": 50.7, 
+            "lifeExpectancy": 73.4, 
+            "fillKey": "wb_poor", 
+            "population": 9927000
+        }
+    }, 
+    {
+        "ECU": {
+            "country": "Ecuador", 
+            "ecologicalFootprint": 2.37, 
+            "wellBeing": 5.8, 
+            "hpi": 52.5, 
+            "lifeExpectancy": 75.6, 
+            "fillKey": "wb_middle", 
+            "population": 14465000
+        }
+    }, 
+    {
+        "EGY": {
+            "country": "Egypt", 
+            "ecologicalFootprint": 2.06, 
+            "wellBeing": 3.9, 
+            "hpi": 39.6, 
+            "lifeExpectancy": 73.2, 
+            "fillKey": "wb_poor", 
+            "population": 81121000
+        }
+    }, 
+    {
+        "SLV": {
+            "country": "El Salvador", 
+            "ecologicalFootprint": 1.99, 
+            "wellBeing": 6.7, 
+            "hpi": 58.9, 
+            "lifeExpectancy": 72.2, 
+            "fillKey": "wb_good", 
+            "population": 6193000
+        }
+    }, 
+    {
+        "EST": {
+            "country": "Estonia", 
+            "ecologicalFootprint": 4.73, 
+            "wellBeing": 5.1, 
+            "hpi": 34.9, 
+            "lifeExpectancy": 74.8, 
+            "fillKey": "wb_middle", 
+            "population": 1340000
+        }
+    }, 
+    {
+        "ETH": {
+            "country": "Ethiopia", 
+            "ecologicalFootprint": 1.13, 
+            "wellBeing": 4.4, 
+            "hpi": 39.2, 
+            "lifeExpectancy": 59.3, 
+            "fillKey": "wb_poor", 
+            "population": 82950000
+        }
+    }, 
+    {
+        "FIN": {
+            "country": "Finland", 
+            "ecologicalFootprint": 6.21, 
+            "wellBeing": 7.4, 
+            "hpi": 42.7, 
+            "lifeExpectancy": 80.0, 
+            "fillKey": "wb_good", 
+            "population": 5364000
+        }
+    }, 
+    {
+        "FRA": {
+            "country": "France", 
+            "ecologicalFootprint": 4.91, 
+            "wellBeing": 6.8, 
+            "hpi": 46.5, 
+            "lifeExpectancy": 81.5, 
+            "fillKey": "wb_good", 
+            "population": 64895000
+        }
+    }, 
+    {
+        "GEO": {
+            "country": "Georgia", 
+            "ecologicalFootprint": 1.43, 
+            "wellBeing": 4.1, 
+            "hpi": 46.0, 
+            "lifeExpectancy": 73.7, 
+            "fillKey": "wb_poor", 
+            "population": 4452000
+        }
+    }, 
+    {
+        "DEU": {
+            "country": "Germany", 
+            "ecologicalFootprint": 4.57, 
+            "wellBeing": 6.7, 
+            "hpi": 47.2, 
+            "lifeExpectancy": 80.4, 
+            "fillKey": "wb_good", 
+            "population": 81777000
+        }
+    }, 
+    {
+        "GHA": {
+            "country": "Ghana", 
+            "ecologicalFootprint": 1.74, 
+            "wellBeing": 4.6, 
+            "hpi": 40.3, 
+            "lifeExpectancy": 64.2, 
+            "fillKey": "wb_poor", 
+            "population": 24392000
+        }
+    }, 
+    {
+        "GRC": {
+            "country": "Greece", 
+            "ecologicalFootprint": 4.92, 
+            "wellBeing": 5.8, 
+            "hpi": 40.5, 
+            "lifeExpectancy": 79.9, 
+            "fillKey": "wb_middle", 
+            "population": 11316000
+        }
+    }, 
+    {
+        "GTM": {
+            "country": "Guatemala", 
+            "ecologicalFootprint": 1.78, 
+            "wellBeing": 6.3, 
+            "hpi": 56.9, 
+            "lifeExpectancy": 71.2, 
+            "fillKey": "wb_good", 
+            "population": 14389000
+        }
+    }, 
+    {
+        "GIN": {
+            "country": "Guinea", 
+            "ecologicalFootprint": 1.72, 
+            "wellBeing": 4.0, 
+            "hpi": 30.0, 
+            "lifeExpectancy": 54.1, 
+            "fillKey": "wb_poor", 
+            "population": 9982000
+        }
+    }, 
+    {
+        "GUY": {
+            "country": "Guyana", 
+            "ecologicalFootprint": 2.08, 
+            "wellBeing": 6.0, 
+            "hpi": 51.2, 
+            "lifeExpectancy": 69.9, 
+            "fillKey": "wb_middle", 
+            "population": 755000
+        }
+    }, 
+    {
+        "HTI": {
+            "country": "Haiti", 
+            "ecologicalFootprint": 0.6, 
+            "wellBeing": 3.8, 
+            "hpi": 41.3, 
+            "lifeExpectancy": 62.1, 
+            "fillKey": "wb_poor", 
+            "population": 9993000
+        }
+    }, 
+    {
+        "HND": {
+            "country": "Honduras", 
+            "ecologicalFootprint": 1.73, 
+            "wellBeing": 5.9, 
+            "hpi": 56.0, 
+            "lifeExpectancy": 73.1, 
+            "fillKey": "wb_middle", 
+            "population": 7600000
+        }
+    }, 
+    {
+        "HKG": {
+            "country": "Hong Kong", 
+            "ecologicalFootprint": 5.81, 
+            "wellBeing": 5.6, 
+            "hpi": 37.5, 
+            "lifeExpectancy": 82.8, 
+            "fillKey": "wb_middle", 
+            "population": 7068000
+        }
+    }, 
+    {
+        "HUN": {
+            "country": "Hungary", 
+            "ecologicalFootprint": 3.59, 
+            "wellBeing": 4.7, 
+            "hpi": 37.4, 
+            "lifeExpectancy": 74.4, 
+            "fillKey": "wb_poor", 
+            "population": 10000000
+        }
+    }, 
+    {
+        "ISL": {
+            "country": "Iceland", 
+            "ecologicalFootprint": 6.54, 
+            "wellBeing": 6.9, 
+            "hpi": 40.2, 
+            "lifeExpectancy": 81.8, 
+            "fillKey": "wb_good", 
+            "population": 318000
+        }
+    }, 
+    {
+        "IND": {
+            "country": "India", 
+            "ecologicalFootprint": 0.87, 
+            "wellBeing": 5.0, 
+            "hpi": 50.9, 
+            "lifeExpectancy": 65.4, 
+            "fillKey": "wb_middle", 
+            "population": 1224615000
+        }
+    }, 
+    {
+        "IDN": {
+            "country": "Indonesia", 
+            "ecologicalFootprint": 1.13, 
+            "wellBeing": 5.5, 
+            "hpi": 55.5, 
+            "lifeExpectancy": 69.4, 
+            "fillKey": "wb_middle", 
+            "population": 239870000
+        }
+    }, 
+    {
+        "IRN": {
+            "country": "Iran, Islamic Republic of", 
+            "ecologicalFootprint": 2.66, 
+            "wellBeing": 4.8, 
+            "hpi": 41.7, 
+            "lifeExpectancy": 73.0, 
+            "fillKey": "wb_middle", 
+            "population": 73973000
+        }
+    }, 
+    {
+        "IRQ": {
+            "country": "Iraq", 
+            "ecologicalFootprint": 1.42, 
+            "wellBeing": 5.0, 
+            "hpi": 49.2, 
+            "lifeExpectancy": 69.0, 
+            "fillKey": "wb_middle", 
+            "population": 32031000
+        }
+    }, 
+    {
+        "IRL": {
+            "country": "Ireland", 
+            "ecologicalFootprint": 6.22, 
+            "wellBeing": 7.3, 
+            "hpi": 42.4, 
+            "lifeExpectancy": 80.6, 
+            "fillKey": "wb_good", 
+            "population": 4475000
+        }
+    }, 
+    {
+        "ISR": {
+            "country": "Israel", 
+            "ecologicalFootprint": 3.96, 
+            "wellBeing": 7.4, 
+            "hpi": 55.2, 
+            "lifeExpectancy": 81.6, 
+            "fillKey": "wb_good", 
+            "population": 7624000
+        }
+    }, 
+    {
+        "ITA": {
+            "country": "Italy", 
+            "ecologicalFootprint": 4.52, 
+            "wellBeing": 6.4, 
+            "hpi": 46.4, 
+            "lifeExpectancy": 81.9, 
+            "fillKey": "wb_good", 
+            "population": 60483000
+        }
+    }, 
+    {
+        "JAM": {
+            "country": "Jamaica", 
+            "ecologicalFootprint": 1.72, 
+            "wellBeing": 6.2, 
+            "hpi": 58.5, 
+            "lifeExpectancy": 73.1, 
+            "fillKey": "wb_good", 
+            "population": 2702000
+        }
+    }, 
+    {
+        "JPN": {
+            "country": "Japan", 
+            "ecologicalFootprint": 4.17, 
+            "wellBeing": 6.1, 
+            "hpi": 47.5, 
+            "lifeExpectancy": 83.4, 
+            "fillKey": "wb_middle", 
+            "population": 127451000
+        }
+    }, 
+    {
+        "JOR": {
+            "country": "Jordan", 
+            "ecologicalFootprint": 2.13, 
+            "wellBeing": 5.7, 
+            "hpi": 51.7, 
+            "lifeExpectancy": 73.4, 
+            "fillKey": "wb_middle", 
+            "population": 6047000
+        }
+    }, 
+    {
+        "KAZ": {
+            "country": "Kazakhstan", 
+            "ecologicalFootprint": 4.14, 
+            "wellBeing": 5.5, 
+            "hpi": 34.7, 
+            "lifeExpectancy": 67.0, 
+            "fillKey": "wb_middle", 
+            "population": 16323000
+        }
+    }, 
+    {
+        "KEN": {
+            "country": "Kenya", 
+            "ecologicalFootprint": 0.95, 
+            "wellBeing": 4.3, 
+            "hpi": 38.0, 
+            "lifeExpectancy": 57.1, 
+            "fillKey": "wb_poor", 
+            "population": 40513000
+        }
+    }, 
+    {
+        "KOR": {
+            "country": "Korea, Republic of", 
+            "ecologicalFootprint": 4.62, 
+            "wellBeing": 6.1, 
+            "hpi": 43.8, 
+            "lifeExpectancy": 80.6, 
+            "fillKey": "wb_middle", 
+            "population": 48875000
+        }
+    }, 
+    {
+        "KWT": {
+            "country": "Kuwait", 
+            "ecologicalFootprint": 9.72, 
+            "wellBeing": 6.6, 
+            "hpi": 27.1, 
+            "lifeExpectancy": 74.6, 
+            "fillKey": "wb_good", 
+            "population": 2736000
+        }
+    }, 
+    {
+        "KGZ": {
+            "country": "Kyrgyzstan", 
+            "ecologicalFootprint": 1.29, 
+            "wellBeing": 5.0, 
+            "hpi": 49.1, 
+            "lifeExpectancy": 67.7, 
+            "fillKey": "wb_middle", 
+            "population": 5448000
+        }
+    }, 
+    {
+        "LAO": {
+            "country": "Lao People's Democratic Republic", 
+            "ecologicalFootprint": 1.3, 
+            "wellBeing": 5.0, 
+            "hpi": 49.1, 
+            "lifeExpectancy": 67.5, 
+            "fillKey": "wb_middle", 
+            "population": 6201000
+        }
+    }, 
+    {
+        "LVA": {
+            "country": "Latvia", 
+            "ecologicalFootprint": 3.95, 
+            "wellBeing": 4.7, 
+            "hpi": 34.9, 
+            "lifeExpectancy": 73.3, 
+            "fillKey": "wb_poor", 
+            "population": 2239000
+        }
+    }, 
+    {
+        "LBN": {
+            "country": "Lebanon", 
+            "ecologicalFootprint": 2.85, 
+            "wellBeing": 5.2, 
+            "hpi": 42.9, 
+            "lifeExpectancy": 72.6, 
+            "fillKey": "wb_middle", 
+            "population": 4227000
+        }
+    }, 
+    {
+        "LBR": {
+            "country": "Liberia", 
+            "ecologicalFootprint": 1.28, 
+            "wellBeing": 4.2, 
+            "hpi": 35.2, 
+            "lifeExpectancy": 56.8, 
+            "fillKey": "wb_poor", 
+            "population": 3994000
+        }
+    }, 
+    {
+        "LBY": {
+            "country": "Libya", 
+            "ecologicalFootprint": 3.19, 
+            "wellBeing": 4.9, 
+            "hpi": 40.8, 
+            "lifeExpectancy": 74.8, 
+            "fillKey": "wb_middle", 
+            "population": 6355000
+        }
+    }, 
+    {
+        "LTU": {
+            "country": "Lithuania", 
+            "ecologicalFootprint": 4.38, 
+            "wellBeing": 5.1, 
+            "hpi": 34.6, 
+            "lifeExpectancy": 72.2, 
+            "fillKey": "wb_middle", 
+            "population": 3287000
+        }
+    }, 
+    {
+        "LUX": {
+            "country": "Luxembourg", 
+            "ecologicalFootprint": 10.72, 
+            "wellBeing": 7.1, 
+            "hpi": 29.0, 
+            "lifeExpectancy": 80.0, 
+            "fillKey": "wb_good", 
+            "population": 507000
+        }
+    }, 
+    {
+        "MKD": {
+            "country": "Macedonia, the Former Yugoslav Republic of", 
+            "ecologicalFootprint": 5.36, 
+            "wellBeing": 4.2, 
+            "hpi": 28.3, 
+            "lifeExpectancy": 74.8, 
+            "fillKey": "wb_poor", 
+            "population": 2060000
+        }
+    }, 
+    {
+        "MDG": {
+            "country": "Madagascar", 
+            "ecologicalFootprint": 1.16, 
+            "wellBeing": 4.6, 
+            "hpi": 46.8, 
+            "lifeExpectancy": 66.7, 
+            "fillKey": "wb_poor", 
+            "population": 20714000
+        }
+    }, 
+    {
+        "MWI": {
+            "country": "Malawi", 
+            "ecologicalFootprint": 0.78, 
+            "wellBeing": 5.1, 
+            "hpi": 42.5, 
+            "lifeExpectancy": 54.2, 
+            "fillKey": "wb_middle", 
+            "population": 14901000
+        }
+    }, 
+    {
+        "MYS": {
+            "country": "Malaysia", 
+            "ecologicalFootprint": 3.9, 
+            "wellBeing": 5.6, 
+            "hpi": 40.5, 
+            "lifeExpectancy": 74.2, 
+            "fillKey": "wb_middle", 
+            "population": 28401000
+        }
+    }, 
+    {
+        "MLI": {
+            "country": "Mali", 
+            "ecologicalFootprint": 1.86, 
+            "wellBeing": 3.8, 
+            "hpi": 26.0, 
+            "lifeExpectancy": 51.4, 
+            "fillKey": "wb_poor", 
+            "population": 15370000
+        }
+    }, 
+    {
+        "MLT": {
+            "country": "Malta", 
+            "ecologicalFootprint": 4.26, 
+            "wellBeing": 5.8, 
+            "hpi": 43.1, 
+            "lifeExpectancy": 79.6, 
+            "fillKey": "wb_middle", 
+            "population": 416000
+        }
+    }, 
+    {
+        "MRT": {
+            "country": "Mauritania", 
+            "ecologicalFootprint": 2.86, 
+            "wellBeing": 5.0, 
+            "hpi": 32.3, 
+            "lifeExpectancy": 58.6, 
+            "fillKey": "wb_middle", 
+            "population": 3460000
+        }
+    }, 
+    {
+        "MUS": {
+            "country": "Mauritius", 
+            "ecologicalFootprint": 4.55, 
+            "wellBeing": 5.5, 
+            "hpi": 36.6, 
+            "lifeExpectancy": 73.4, 
+            "fillKey": "wb_middle", 
+            "population": 1281000
+        }
+    }, 
+    {
+        "MEX": {
+            "country": "Mexico", 
+            "ecologicalFootprint": 3.3, 
+            "wellBeing": 6.8, 
+            "hpi": 52.9, 
+            "lifeExpectancy": 77.0, 
+            "fillKey": "wb_good", 
+            "population": 113423000
+        }
+    }, 
+    {
+        "MDA": {
+            "country": "Moldova, Republic of", 
+            "ecologicalFootprint": 2.1, 
+            "wellBeing": 5.6, 
+            "hpi": 48.0, 
+            "lifeExpectancy": 69.3, 
+            "fillKey": "wb_middle", 
+            "population": 3562000
+        }
+    }, 
+    {
+        "MNG": {
+            "country": "Mongolia", 
+            "ecologicalFootprint": 5.53, 
+            "wellBeing": 4.6, 
+            "hpi": 26.8, 
+            "lifeExpectancy": 68.5, 
+            "fillKey": "wb_poor", 
+            "population": 2756000
+        }
+    }, 
+    {
+        "MAR": {
+            "country": "Morocco", 
+            "ecologicalFootprint": 1.32, 
+            "wellBeing": 4.4, 
+            "hpi": 47.9, 
+            "lifeExpectancy": 72.2, 
+            "fillKey": "wb_poor", 
+            "population": 31951000
+        }
+    }, 
+    {
+        "MOZ": {
+            "country": "Mozambique", 
+            "ecologicalFootprint": 0.78, 
+            "wellBeing": 4.7, 
+            "hpi": 35.7, 
+            "lifeExpectancy": 50.2, 
+            "fillKey": "wb_poor", 
+            "population": 23390000
+        }
+    }, 
+    {
+        "MMR": {
+            "country": "Myanmar", 
+            "ecologicalFootprint": 1.94, 
+            "wellBeing": 5.3, 
+            "hpi": 44.2, 
+            "lifeExpectancy": 65.2, 
+            "fillKey": "wb_middle", 
+            "population": 47963000
+        }
+    }, 
+    {
+        "NAM": {
+            "country": "Namibia", 
+            "ecologicalFootprint": 2.03, 
+            "wellBeing": 4.9, 
+            "hpi": 38.9, 
+            "lifeExpectancy": 62.5, 
+            "fillKey": "wb_middle", 
+            "population": 2283000
+        }
+    }, 
+    {
+        "NPL": {
+            "country": "Nepal", 
+            "ecologicalFootprint": 0.76, 
+            "wellBeing": 3.8, 
+            "hpi": 45.6, 
+            "lifeExpectancy": 68.8, 
+            "fillKey": "wb_poor", 
+            "population": 29959000
+        }
+    }, 
+    {
+        "NLD": {
+            "country": "Netherlands", 
+            "ecologicalFootprint": 6.34, 
+            "wellBeing": 7.5, 
+            "hpi": 43.1, 
+            "lifeExpectancy": 80.7, 
+            "fillKey": "wb_good", 
+            "population": 16616000
+        }
+    }, 
+    {
+        "NZL": {
+            "country": "New Zealand", 
+            "ecologicalFootprint": 4.31, 
+            "wellBeing": 7.2, 
+            "hpi": 51.6, 
+            "lifeExpectancy": 80.7, 
+            "fillKey": "wb_good", 
+            "population": 4368000
+        }
+    }, 
+    {
+        "NIC": {
+            "country": "Nicaragua", 
+            "ecologicalFootprint": 1.56, 
+            "wellBeing": 5.7, 
+            "hpi": 57.1, 
+            "lifeExpectancy": 74.0, 
+            "fillKey": "wb_middle", 
+            "population": 5789000
+        }
+    }, 
+    {
+        "NER": {
+            "country": "Niger", 
+            "ecologicalFootprint": 2.59, 
+            "wellBeing": 4.1, 
+            "hpi": 26.8, 
+            "lifeExpectancy": 54.7, 
+            "fillKey": "wb_poor", 
+            "population": 15512000
+        }
+    }, 
+    {
+        "NGA": {
+            "country": "Nigeria", 
+            "ecologicalFootprint": 1.44, 
+            "wellBeing": 4.8, 
+            "hpi": 33.6, 
+            "lifeExpectancy": 51.9, 
+            "fillKey": "wb_middle", 
+            "population": 158423000
+        }
+    }, 
+    {
+        "NOR": {
+            "country": "Norway", 
+            "ecologicalFootprint": 4.77, 
+            "wellBeing": 7.6, 
+            "hpi": 51.4, 
+            "lifeExpectancy": 81.1, 
+            "fillKey": "wb_good", 
+            "population": 4889000
+        }
+    }, 
+    {
+        "PAK": {
+            "country": "Pakistan", 
+            "ecologicalFootprint": 0.75, 
+            "wellBeing": 5.3, 
+            "hpi": 54.1, 
+            "lifeExpectancy": 65.4, 
+            "fillKey": "wb_middle", 
+            "population": 173593000
+        }
+    }, 
+    {
+        "PSE": {
+            "country": "Palestine, State of", 
+            "ecologicalFootprint": 1.4, 
+            "wellBeing": 4.8, 
+            "hpi": 51.2, 
+            "lifeExpectancy": 72.8, 
+            "fillKey": "wb_middle", 
+            "population": 3780000
+        }
+    }, 
+    {
+        "PAN": {
+            "country": "Panama", 
+            "ecologicalFootprint": 2.97, 
+            "wellBeing": 7.3, 
+            "hpi": 57.8, 
+            "lifeExpectancy": 76.1, 
+            "fillKey": "wb_good", 
+            "population": 2620000
+        }
+    }, 
+    {
+        "PRY": {
+            "country": "Paraguay", 
+            "ecologicalFootprint": 2.99, 
+            "wellBeing": 5.8, 
+            "hpi": 45.8, 
+            "lifeExpectancy": 72.5, 
+            "fillKey": "wb_middle", 
+            "population": 6454000
+        }
+    }, 
+    {
+        "PER": {
+            "country": "Peru", 
+            "ecologicalFootprint": 2.03, 
+            "wellBeing": 5.6, 
+            "hpi": 52.4, 
+            "lifeExpectancy": 74.0, 
+            "fillKey": "wb_middle", 
+            "population": 29076000
+        }
+    }, 
+    {
+        "PHL": {
+            "country": "Philippines", 
+            "ecologicalFootprint": 0.98, 
+            "wellBeing": 4.9, 
+            "hpi": 52.4, 
+            "lifeExpectancy": 68.7, 
+            "fillKey": "wb_middle", 
+            "population": 93261000
+        }
+    }, 
+    {
+        "POL": {
+            "country": "Poland", 
+            "ecologicalFootprint": 3.94, 
+            "wellBeing": 5.8, 
+            "hpi": 42.6, 
+            "lifeExpectancy": 76.1, 
+            "fillKey": "wb_middle", 
+            "population": 38184000
+        }
+    }, 
+    {
+        "PRT": {
+            "country": "Portugal", 
+            "ecologicalFootprint": 4.12, 
+            "wellBeing": 4.9, 
+            "hpi": 38.7, 
+            "lifeExpectancy": 79.5, 
+            "fillKey": "wb_middle", 
+            "population": 10638000
+        }
+    }, 
+    {
+        "QAT": {
+            "country": "Qatar", 
+            "ecologicalFootprint": 11.68, 
+            "wellBeing": 6.6, 
+            "hpi": 25.2, 
+            "lifeExpectancy": 78.4, 
+            "fillKey": "wb_good", 
+            "population": 1759000
+        }
+    }, 
+    {
+        "ROU": {
+            "country": "Romania", 
+            "ecologicalFootprint": 2.84, 
+            "wellBeing": 4.9, 
+            "hpi": 42.2, 
+            "lifeExpectancy": 74.0, 
+            "fillKey": "wb_middle", 
+            "population": 21438000
+        }
+    }, 
+    {
+        "RUS": {
+            "country": "Russian Federation", 
+            "ecologicalFootprint": 4.4, 
+            "wellBeing": 5.5, 
+            "hpi": 34.5, 
+            "lifeExpectancy": 68.8, 
+            "fillKey": "wb_middle", 
+            "population": 141750000
+        }
+    }, 
+    {
+        "RWA": {
+            "country": "Rwanda", 
+            "ecologicalFootprint": 0.71, 
+            "wellBeing": 4.0, 
+            "hpi": 36.9, 
+            "lifeExpectancy": 55.4, 
+            "fillKey": "wb_poor", 
+            "population": 10624000
+        }
+    }, 
+    {
+        "SAU": {
+            "country": "Saudi Arabia", 
+            "ecologicalFootprint": 3.99, 
+            "wellBeing": 6.7, 
+            "hpi": 46.0, 
+            "lifeExpectancy": 73.9, 
+            "fillKey": "wb_good", 
+            "population": 27448000
+        }
+    }, 
+    {
+        "SEN": {
+            "country": "Senegal", 
+            "ecologicalFootprint": 1.53, 
+            "wellBeing": 3.8, 
+            "hpi": 33.3, 
+            "lifeExpectancy": 59.3, 
+            "fillKey": "wb_poor", 
+            "population": 12434000
+        }
+    }, 
+    {
+        "SRB": {
+            "country": "Serbia", 
+            "ecologicalFootprint": 2.57, 
+            "wellBeing": 4.5, 
+            "hpi": 41.3, 
+            "lifeExpectancy": 74.5, 
+            "fillKey": "wb_poor", 
+            "population": 7291000
+        }
+    }, 
+    {
+        "SLE": {
+            "country": "Sierra Leone", 
+            "ecologicalFootprint": 1.13, 
+            "wellBeing": 4.1, 
+            "hpi": 28.8, 
+            "lifeExpectancy": 47.8, 
+            "fillKey": "wb_poor", 
+            "population": 5867000
+        }
+    }, 
+    {
+        "SGP": {
+            "country": "Singapore", 
+            "ecologicalFootprint": 6.1, 
+            "wellBeing": 6.5, 
+            "hpi": 39.8, 
+            "lifeExpectancy": 81.1, 
+            "fillKey": "wb_good", 
+            "population": 5077000
+        }
+    }, 
+    {
+        "SVK": {
+            "country": "Slovakia", 
+            "ecologicalFootprint": 4.66, 
+            "wellBeing": 6.1, 
+            "hpi": 40.1, 
+            "lifeExpectancy": 75.4, 
+            "fillKey": "wb_middle", 
+            "population": 5430000
+        }
+    }, 
+    {
+        "SVN": {
+            "country": "Slovenia", 
+            "ecologicalFootprint": 5.21, 
+            "wellBeing": 6.1, 
+            "hpi": 40.2, 
+            "lifeExpectancy": 79.3, 
+            "fillKey": "wb_middle", 
+            "population": 2049000
+        }
+    }, 
+    {
+        "ZAF": {
+            "country": "South Africa", 
+            "ecologicalFootprint": 2.59, 
+            "wellBeing": 4.7, 
+            "hpi": 28.2, 
+            "lifeExpectancy": 52.8, 
+            "fillKey": "wb_poor", 
+            "population": 49991000
+        }
+    }, 
+    {
+        "ESP": {
+            "country": "Spain", 
+            "ecologicalFootprint": 4.74, 
+            "wellBeing": 6.2, 
+            "hpi": 44.1, 
+            "lifeExpectancy": 81.4, 
+            "fillKey": "wb_good", 
+            "population": 46071000
+        }
+    }, 
+    {
+        "LKA": {
+            "country": "Sri Lanka", 
+            "ecologicalFootprint": 1.21, 
+            "wellBeing": 4.2, 
+            "hpi": 49.4, 
+            "lifeExpectancy": 74.9, 
+            "fillKey": "wb_poor", 
+            "population": 20860000
+        }
+    }, 
+    {
+        "SDN": {
+            "country": "Sudan", 
+            "ecologicalFootprint": 1.63, 
+            "wellBeing": 4.4, 
+            "hpi": 37.6, 
+            "lifeExpectancy": 61.5, 
+            "fillKey": "wb_poor", 
+            "population": 43552000
+        }
+    }, 
+    {
+        "SWE": {
+            "country": "Sweden", 
+            "ecologicalFootprint": 5.71, 
+            "wellBeing": 7.5, 
+            "hpi": 46.2, 
+            "lifeExpectancy": 81.4, 
+            "fillKey": "wb_good", 
+            "population": 9378000
+        }
+    }, 
+    {
+        "CHE": {
+            "country": "Switzerland", 
+            "ecologicalFootprint": 5.01, 
+            "wellBeing": 7.5, 
+            "hpi": 50.3, 
+            "lifeExpectancy": 82.3, 
+            "fillKey": "wb_good", 
+            "population": 7826000
+        }
+    }, 
+    {
+        "SYR": {
+            "country": "Syrian Arab Republic", 
+            "ecologicalFootprint": 1.45, 
+            "wellBeing": 4.1, 
+            "hpi": 47.1, 
+            "lifeExpectancy": 75.9, 
+            "fillKey": "wb_poor", 
+            "population": 20447000
+        }
+    }, 
+    {
+        "TJK": {
+            "country": "Tajikistan", 
+            "ecologicalFootprint": 0.9, 
+            "wellBeing": 4.4, 
+            "hpi": 47.8, 
+            "lifeExpectancy": 67.5, 
+            "fillKey": "wb_poor", 
+            "population": 6879000
+        }
+    }, 
+    {
+        "TZA": {
+            "country": "United Republic of Tanzania", 
+            "ecologicalFootprint": 1.19, 
+            "wellBeing": 3.2, 
+            "hpi": 30.7, 
+            "lifeExpectancy": 58.2, 
+            "fillKey": "wb_poor", 
+            "population": 44841000
+        }
+    }, 
+    {
+        "THA": {
+            "country": "Thailand", 
+            "ecologicalFootprint": 2.41, 
+            "wellBeing": 6.2, 
+            "hpi": 53.5, 
+            "lifeExpectancy": 74.1, 
+            "fillKey": "wb_good", 
+            "population": 69122000
+        }
+    }, 
+    {
+        "TGO": {
+            "country": "Togo", 
+            "ecologicalFootprint": 1.03, 
+            "wellBeing": 2.8, 
+            "hpi": 28.2, 
+            "lifeExpectancy": 57.1, 
+            "fillKey": "wb_poor", 
+            "population": 6028000
+        }
+    }, 
+    {
+        "TTO": {
+            "country": "Trinidad and Tobago", 
+            "ecologicalFootprint": 7.56, 
+            "wellBeing": 6.7, 
+            "hpi": 30.3, 
+            "lifeExpectancy": 70.1, 
+            "fillKey": "wb_good", 
+            "population": 1341000
+        }
+    }, 
+    {
+        "TUN": {
+            "country": "Tunisia", 
+            "ecologicalFootprint": 1.76, 
+            "wellBeing": 4.7, 
+            "hpi": 48.3, 
+            "lifeExpectancy": 74.5, 
+            "fillKey": "wb_poor", 
+            "population": 10549000
+        }
+    }, 
+    {
+        "TUR": {
+            "country": "Turkey", 
+            "ecologicalFootprint": 2.55, 
+            "wellBeing": 5.5, 
+            "hpi": 47.6, 
+            "lifeExpectancy": 74.0, 
+            "fillKey": "wb_middle", 
+            "population": 72752000
+        }
+    }, 
+    {
+        "TKM": {
+            "country": "Turkmenistan", 
+            "ecologicalFootprint": 3.98, 
+            "wellBeing": 6.6, 
+            "hpi": 39.1, 
+            "lifeExpectancy": 65.0, 
+            "fillKey": "wb_good", 
+            "population": 5042000
+        }
+    }, 
+    {
+        "UGA": {
+            "country": "Uganda", 
+            "ecologicalFootprint": 1.57, 
+            "wellBeing": 4.2, 
+            "hpi": 31.5, 
+            "lifeExpectancy": 54.1, 
+            "fillKey": "wb_poor", 
+            "population": 33424000
+        }
+    }, 
+    {
+        "UKR": {
+            "country": "Ukraine", 
+            "ecologicalFootprint": 3.19, 
+            "wellBeing": 5.1, 
+            "hpi": 37.6, 
+            "lifeExpectancy": 68.5, 
+            "fillKey": "wb_middle", 
+            "population": 45871000
+        }
+    }, 
+    {
+        "ARE": {
+            "country": "United Arab Emirates", 
+            "ecologicalFootprint": 8.88, 
+            "wellBeing": 7.2, 
+            "hpi": 31.8, 
+            "lifeExpectancy": 76.5, 
+            "fillKey": "wb_good", 
+            "population": 7512000
+        }
+    }, 
+    {
+        "GBR": {
+            "country": "United Kingdom", 
+            "ecologicalFootprint": 4.71, 
+            "wellBeing": 7.0, 
+            "hpi": 47.9, 
+            "lifeExpectancy": 80.2, 
+            "fillKey": "wb_good", 
+            "population": 62232000
+        }
+    }, 
+    {
+        "USA": {
+            "country": "United States", 
+            "ecologicalFootprint": 7.19, 
+            "wellBeing": 7.2, 
+            "hpi": 37.3, 
+            "lifeExpectancy": 78.5, 
+            "fillKey": "wb_good", 
+            "population": 309349000
+        }
+    }, 
+    {
+        "URY": {
+            "country": "Uruguay", 
+            "ecologicalFootprint": 5.08, 
+            "wellBeing": 6.1, 
+            "hpi": 39.3, 
+            "lifeExpectancy": 77.0, 
+            "fillKey": "wb_middle", 
+            "population": 3357000
+        }
+    }, 
+    {
+        "UZB": {
+            "country": "Uzbekistan", 
+            "ecologicalFootprint": 1.82, 
+            "wellBeing": 5.1, 
+            "hpi": 46.0, 
+            "lifeExpectancy": 68.3, 
+            "fillKey": "wb_middle", 
+            "population": 28228000
+        }
+    }, 
+    {
+        "VEN": {
+            "country": "Venezuela", 
+            "ecologicalFootprint": 3.02, 
+            "wellBeing": 7.5, 
+            "hpi": 56.9, 
+            "lifeExpectancy": 74.4, 
+            "fillKey": "wb_good", 
+            "population": 28834000
+        }
+    }, 
+    {
+        "VNM": {
+            "country": "Vietnam", 
+            "ecologicalFootprint": 1.39, 
+            "wellBeing": 5.8, 
+            "hpi": 60.4, 
+            "lifeExpectancy": 75.2, 
+            "fillKey": "wb_middle", 
+            "population": 86928000
+        }
+    }, 
+    {
+        "YEM": {
+            "country": "Yemen", 
+            "ecologicalFootprint": 0.87, 
+            "wellBeing": 3.9, 
+            "hpi": 43.0, 
+            "lifeExpectancy": 65.5, 
+            "fillKey": "wb_poor", 
+            "population": 24053000
+        }
+    }, 
+    {
+        "ZMB": {
+            "country": "Zambia", 
+            "ecologicalFootprint": 0.84, 
+            "wellBeing": 5.3, 
+            "hpi": 37.7, 
+            "lifeExpectancy": 49.0, 
+            "fillKey": "wb_middle", 
+            "population": 12927000
+        }
+    }, 
+    {
+        "ZWE": {
+            "country": "Zimbabwe", 
+            "ecologicalFootprint": 1.17, 
+            "wellBeing": 4.8, 
+            "hpi": 35.3, 
+            "lifeExpectancy": 51.4, 
+            "fillKey": "wb_middle", 
+            "population": 12571000
+        }
+    }
+]
