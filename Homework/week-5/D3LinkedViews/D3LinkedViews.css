@@ -3,7 +3,7 @@
 D3LinkedViews.css
 
 Computer Science 50
-D3LinkedViews
+Data Processing
 
 D3LinkedViews to style a map
 
@@ -12,12 +12,19 @@ Sanne Strikkers
 
 */
 
+
 /*
-    Letter styles 
+    general
 */
 
 .title {
     text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 10px;
 }
 
 /*
@@ -35,8 +42,84 @@ Sanne Strikkers
 }
 
 /*
-    explanation text
+    bar chart styling
 */
+
+.chart .legend {
+    fill: black;
+    font: 10px;
+    text-anchor: start;
+    font-size: 10px;
+}
+.chart text {
+    fill: white;
+    font-size: 10px;
+    text-anchor: end;
+}
+.chart .label {
+    fill: black;
+    font-size: 10px;
+    text-anchor: end;
+}
+.bar:hover {
+    fill: rgb(77, 77, 77);
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.chart {
+    margin-top: 30px;
+}
+
+/*
+    styling the world map's legend
+*/
+
+.update-nag {
+    display: inline-block;
+    font-size: 12px;
+    text-align: left;
+    background-color: #fff;
+    height: 25px;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    margin-bottom: 10px;
+    width: 100px;
+}
+.pop-nag {
+    width: 190px!important;
+}
+.update-nag:hover {
+    cursor: default;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .4);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
+}
+.update-nag > .update-split {
+    width: 20px;
+    float: left;
+    color: #fff!important;
+    height: 100%;
+    text-align: center;
+}
+.update-nag > .update-split > .glyphicon {
+    position: relative;
+    top: calc(50% - 9px)!important;
+    /* 50% - 3/4 of icon height */
+}
+.update-nag > .update-text {
+    line-height: 15px;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+/*
+    other
+*/
+
 #options {
     margin-top: 20px;
 }
@@ -44,43 +127,5 @@ Sanne Strikkers
     margin-left: 50px;
 }
 .explanation {
-    margin-top: -48px;
-}
-
-/*
-Bar Chart
-*/
-
-.chart .legend {
-  fill: black;
-  font: 10px;
-  text-anchor: start;
-  font-size: 10px;
-}
-
-.chart text {
-  fill: white;
-  font-size: 10px;
-  text-anchor: end;
-}
-
-.chart .label {
-  fill: black;
-  font-size: 10px;
-  text-anchor: end;
-}
-
-.bar:hover {
-  fill: brown;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.chart {
-    margin-top: 30px;
+    margin-top: 8px;
 }

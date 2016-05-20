@@ -49,22 +49,95 @@ var map = new Datamap({
             return ['<div class="popup-tool">',
                     'Country: <strong>' + geo.properties.name,
                     '</strong><br>Population: <strong>' + data.population,
-                    '</strong></div>'].join('');
+                    '</strong><br>Happy Life Index: <strong>' + data.hpi,
+                    '</div>'].join('');
         }
     },
     done: function (datamap) {
         datamap.svg.selectAll('.datamaps-subunit').on('click', function (geography) {
-            //alert(geography.properties.name);
             getData(geography.id);
         });
     }
 });
 
+// setting up the first view
 updateMap("World Population");
 
+// when selecting another variable, the world map will be updated
+d3.selectAll("select")
+    .on("change", function () {
+        // update world map
+        var value = d3.select(this).property('value');
+        updateMap(value);
+    });
+
+/*
+    When clicked on a variable like Population then it will change
+    to another world map with a different legend and data.
+*/
+function updateMap(subject) {
+    // standard file
+    var jsonFile = "data/D3LinkedViews_pop.json";
+
+    // checks what is chosen and updates the title and legend
+    if (subject == "Life Expectancy") {
+        // change input file
+        jsonFile = "data/D3LinkedViews_lf.json";
+        // change title of the map
+        d3.select("#map-title")
+            .text(subject + " in 2011");
+        // change the legend for the map
+        d3.select(".legend-map")
+            .html("<h5>Life expectancy (0 - 100)</h5><div class='row'><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #91cf60;'></div><div class='update-text text-center'>75 ></div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #ffffd4;'></div><div class='update-text text-center'>60 - 75</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #fc8d59;'></div><div class='update-text text-center'>< 60</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #B8B8B8;'></div><div class='update-text text-center'>No data</div></div></div></div><h6>2011 data taken from UNDP Human Development Report 2011</h6>");
+    } else if (subject == "Well-being") {
+        // change input file
+        jsonFile = "data/D3LinkedViews_wb.json";
+        // change title of the map
+        d3.select("#map-title")
+            .text(subject + " in 2012");
+        // change the legend for the map
+        d3.select(".legend-map")
+            .html("<h5>Experienced well-being score (0 - 10)</h5><div class='row'><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #91cf60;'></div><div class='update-text text-center'>6.2 ></div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #ffffd4;'></div><div class='update-text text-center'>4.8 - 6.2</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #fc8d59;'></div><div class='update-text text-center'>< 4.8</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #B8B8B8;'></div><div class='update-text text-center'>No data</div></div></div></div><h6>Arithmetic mean of individual responses to the Ladder of Life question in the Gallup World Poll. Latest data for each country as at February 2012.</h6>");
+    } else if (subject == "Ecological Footprint") {
+        // change input file
+        jsonFile = "data/D3LinkedViews_ef.json";
+        // change title of the map
+        d3.select("#map-title")
+            .text(subject + " in 2008");
+        // change the legend for the map
+        d3.select(".legend-map")
+            .html("<h5>Ecological Footprint (in global hectares per capita)</h5><div class='row'><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #1a9641;'></div><div class='update-text text-center'>< 1.78</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #a6d96a;'></div><div class='update-text text-center'>1.78 - 3.56</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #fdae61;'></div><div class='update-text text-center'>3.56 - 7.12</div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #d7191c;'></div><div class='update-text text-center'>7.12 ></div></div></div><div class='col-md-1'><div class='update-nag'><div class='update-split' style='background: #B8B8B8;'></div><div class='update-text text-center'>No data</div></div></div></div><h6>2008 data taken from Global Footprint Network for 142 countries.</h6>");
+    } else if (subject == "World Population") {
+        // change input file
+        jsonFile = "data/D3LinkedViews_pop.json";
+        // change title of the map
+        d3.select("#map-title")
+            .text(subject + " in 2010");
+        // change the legend for the map
+        d3.select(".legend-map")
+            .html("<h5>World Population (in millions)</h5><div class='row'><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #67000d;'></div><div class='update-text text-center'>1.000.000.000 ></div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #a50f15;'></div><div class='update-text text-center'>200.000.000 - 1.000.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #cb181d;'></div><div class='update-text text-center'>100.000.000 - 200.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #ef3b2c;'></div><div class='update-text text-center'>75.000.000 - 100.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #fb6a4a;'></div><div class='update-text text-center'>50.000.000 - 75.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #fc9272;'></div><div class='update-text text-center'>2.500.000 - 50.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #fcbba1;'></div><div class='update-text text-center'>1.000.000 - 2.500.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #fee0d2;'></div><div class='update-text text-center'>500.000 - 1.000.000</div></div></div><div class='col-md-2'><div class='update-nag pop-nag'><div class='update-split' style='background: #fff5f0;'></div><div class='update-text text-center'>< 500.000</div></div></div><div class='col-md-1'><div class='update-nag '><div class='update-split' style='background: #B8B8B8;'></div><div class='update-text text-center'>No data</div></div></div></div><h6>2010 data sourced from World Bank World Development Indicators.</h6>");
+    }
+
+    // get data from json file and update the map with these values
+    d3.json(jsonFile, function (error, data) {
+        if (error) {
+            console.log("We cannot retrieve the data.");
+            alert("We cannot retrieve the data.");
+            throw error;
+        };
+        // update map
+        data.forEach(function (d) {
+            map.updateChoropleth(d);
+        });
+    });
+}
+
+/*
+    Getting data from a Json file and creates a horizontal barchart
+*/
 function getData(countryAdd) {
     // get data from json file and update the map with these values
-    d3.json("data/D3LinkedViews.json", function (error, data) {
+    d3.json("data/D3LinkedViews_pop.json", function (error, data) {
         if (error) {
             console.log("We cannot retrieve the data.");
             alert("We cannot retrieve the data.");
@@ -74,6 +147,7 @@ function getData(countryAdd) {
         var china, netherlands, usa, countryNew = {};
         var countries = [];
 
+        // select three standard countries and one selected country
         for (i in map.options.data) {
             if (map.options.data[i].country == "China") {
                 china = map.options.data[i];
@@ -83,23 +157,30 @@ function getData(countryAdd) {
                 usa = map.options.data[i];
             }
 
+            // selected country
             if (i = countryAdd) {
                 countryNew = map.options.data[i];
             }
         }
-        
+
+        // checks if there is chosen for the three standard countries, 
+        // if so then it will choose another country
+        if (countryNew == china) {
+            china = map.options.data["JPN"];
+        } else if (countryNew == netherlands) {
+            netherlands = map.options.data["BEL"];
+        } else if (countryNew == usa) {
+            usa = map.options.data["CAN"];
+        }
+        // push all the countries in one list
         countries.push(china, netherlands, usa, countryNew);
 
-        //        d3.keys(map.options.data).forEach(function (key) {
-        //            if (key = countryAdd){
-        //                    countryNew = map.options.data[key];
-        //            }     
-        //        });
-
+        // creates the barchart and will update it when you click another country
         createBarchart(createData("Ecological Footprint", countries), "chart1");
         createBarchart(createData("Well-being", countries), "chart2");
         createBarchart(createData("Life Expectancy", countries), "chart3");
 
+        // changes the titles for the bar charts
         d3.select("#title-hpi")
             .text("Happy Life Index");
 
@@ -109,6 +190,9 @@ function getData(countryAdd) {
     });
 }
 
+/*
+    Creates horizontal barcharts with different subjects and countries
+*/
 function createBarchart(data1, selection) {
     // sizing the bar chart
     var chartWidth = 300,
@@ -118,7 +202,7 @@ function createBarchart(data1, selection) {
         spaceForLabels = 150,
         spaceForLegend = 150;
 
-    // Zip the series data together (first values, second values, etc.)
+    // zip the series data together (first values, second values, etc.)
     var zippedData = [];
     for (var i = 0; i < data1.labels.length; i++) {
         for (var j = 0; j < data1.series.length; j++) {
@@ -128,7 +212,6 @@ function createBarchart(data1, selection) {
 
     // set up the colors for several lines
     var color = d3.scale.ordinal().range(["#8dd3c7", "#bebada", "#fb8072", "#80b1d3", "#fdb462", "#b3de69", "#fccde5", "#d9d9d9", "#bc80bd"]);
-
     var chartHeight = barHeight * zippedData.length + gapBetweenGroups * data1.labels.length;
 
     // x-axis
@@ -145,22 +228,23 @@ function createBarchart(data1, selection) {
         .tickSize(0)
         .orient("left");
 
-    // Specify the chart area and dimensions
+    // specify the chart area and dimensions
     var chart = d3.select("." + selection)
         .attr("width", spaceForLabels + chartWidth + spaceForLegend)
         .attr("height", chartHeight);
 
-    // Create bars
+    // create bars
     var bar = chart.selectAll("g")
         .data(zippedData);
 
+    // enter the bar
     var barEnter = bar
         .enter().append("g")
         .attr("transform", function (d, i) {
             return "translate(" + spaceForLabels + "," + (i * barHeight + gapBetweenGroups * (0.5 + Math.floor(i / data1.series.length))) + ")";
         });
 
-    // Create rectangles of the correct width
+    // creates rectangles with the correct width
     barEnter.append("rect")
         .attr("fill", function (d, i) {
             return color(i % data1.series.length);
@@ -169,7 +253,7 @@ function createBarchart(data1, selection) {
         .attr("width", x)
         .attr("height", barHeight - 1);
 
-    // Add text label in bar
+    // adds text label in bar
     barEnter.append("text")
         .attr("x", function (d) {
             return x(d) - 3;
@@ -181,7 +265,7 @@ function createBarchart(data1, selection) {
             return d;
         });
 
-    // Draw labels
+    // draws the labels
     barEnter.append("text")
         .attr("class", "label")
         .attr("x", function (d) {
@@ -196,14 +280,18 @@ function createBarchart(data1, selection) {
                 return ""
         });
 
+    // changes the y axis
     chart.append("g")
         .attr("class", "y axis")
         .attr("transform", "translate(" + spaceForLabels + ", " + -gapBetweenGroups / 2 + ")")
         .call(yAxis);
 
     // UPDATE PART
+
+    // set up for the transition
     barUpdate = d3.transition(bar);
 
+    // updates the bar
     barUpdate.select('rect')
         .transition().duration(600)
         .attr("fill", function (d, i) {
@@ -212,6 +300,7 @@ function createBarchart(data1, selection) {
         .attr("width", x)
         .attr("height", barHeight - 1);
 
+    // updates the bar text label
     barUpdate.select('text')
         .transition().duration(600)
         .attr("x", function (d) {
@@ -224,12 +313,14 @@ function createBarchart(data1, selection) {
             return d;
         });
 
+    // removes the previous one
     bar.exit().remove();
 
-    // Draw legend
+    // draws legend
     var legendRectSize = 18,
         legendSpacing = 4;
 
+    // setting up the legend
     var legend = chart.selectAll('.legend')
         .data(data1.series)
         .enter()
@@ -242,6 +333,7 @@ function createBarchart(data1, selection) {
             return 'translate(' + horz + ',' + vert + ')';
         });
 
+    // adds color block for the legend
     legend.append('rect')
         .attr('width', legendRectSize)
         .attr('height', legendRectSize)
@@ -252,6 +344,7 @@ function createBarchart(data1, selection) {
             return color(i);
         });
 
+    // adds text after the color block
     legend.append('text')
         .attr('class', 'legend')
         .attr('x', legendRectSize + legendSpacing)
@@ -259,53 +352,11 @@ function createBarchart(data1, selection) {
         .text(function (d) {
             return d.label;
         });
-
 }
 
-// selecting a city will update the chart 
-d3.selectAll("select")
-    .on("change", function () {
-        // update world map
-        var value = d3.select(this).property('value');
-        updateMap(value);
-    });
-
-
-function updateMap(subject) {
-    var jsonFile = "data/D3LinkedViews_pop.json";
-
-    if (subject == "Life Expectancy") {
-        jsonFile = "data/D3LinkedViews_lf.json";
-        d3.select("#map-title")
-            .text(subject + " in 2011");
-    } else if (subject == "Well-being") {
-        jsonFile = "data/D3LinkedViews_wb.json";
-        d3.select("#map-title")
-            .text(subject + " in 2012");
-    } else if (subject == "Ecological Footprint") {
-        jsonFile = "data/D3LinkedViews_ef.json";
-        d3.select("#map-title")
-            .text(subject + " in 2008");
-    } else if (subject == "World Population") {
-        jsonFile = "data/D3LinkedViews_pop.json";
-        d3.select("#map-title")
-            .text(subject + " in 2010");
-    }
-
-    // get data from json file and update the map with these values
-    d3.json(jsonFile, function (error, data) {
-        if (error) {
-            console.log("We cannot retrieve the data.");
-            alert("We cannot retrieve the data.");
-            throw error;
-        };
-
-        data.forEach(function (d) {
-            map.updateChoropleth(d);
-        });
-    });
-}
-
+/*
+    Creating data for the barcharts
+*/
 function createData(subject, countries) {
     var data = {};
 

@@ -1,5 +1,6 @@
 import csv, sys, json
 
+# creating json files
 def createJson(data_list, sub):
     # convert the list to JSON format
     json_str = json.dumps(data_list, indent = 4, ensure_ascii=False)
@@ -10,6 +11,12 @@ def createJson(data_list, sub):
             f.write(json_str)
         except csv.Error as e:
             sys.exit('file %s, line %d: %s' % (f, reader.line_num, e))
+
+# searching for the country code
+def getCountryCode(country):
+    for i in range(len(codedict)):
+        if codedict[i][0].lower() == country.lower():
+            return codedict[i][1]
 
 # open tsv file and read it into a dictionary
 tsvfile = 'D3LinkedViews.tsv'
@@ -25,11 +32,6 @@ with open(tsvfile, 'r') as f, open(country_codes, 'r') as c:
         codedict = list(reader2)
     except csv.Error as e:
         sys.exit('file %s, line %d: %s' % (f, reader.line_num, e))
-
-def getCountryCode(country):
-    for i in range(len(codedict)):
-        if codedict[i][0].lower() == country.lower():
-            return codedict[i][1]
 
 # format the dictionary to a list of key-value pairs
 data_list_population = [] 

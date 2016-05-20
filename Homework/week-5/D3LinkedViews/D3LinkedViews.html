@@ -3,9 +3,9 @@
 D3LinkedViews.html
 
 Computer Science 50
-D3LinkedViews
+Data Processing
 
-
+Showing a world map with three barcharts
 
 Sanne Strikkers
 11170816
@@ -17,7 +17,6 @@ Sanne Strikkers
 <html>
 
 <head>
-
     <!-- JavaScript D3 library -->
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="http://d3js.org/topojson.v1.min.js"></script>
@@ -37,7 +36,7 @@ Sanne Strikkers
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <title>D3 Map</title>
+    <title>D3 Linked Views</title>
 </head>
 
 <body>
@@ -49,19 +48,25 @@ Sanne Strikkers
         </div>
         <!-- End of title section -->
 
+        <!-- Dropdown variables world map -->
         <select id="options" class="center-block">
             <option class="place" value="World Population">World Population</option>
             <option class="place" value="Life Expectancy">Life Expectancy</option>
             <option class="place" value="Well-being">Well-being</option>
             <option class="place" value="Ecological Footprint">Ecological Footprint</option>
         </select>
+        <!-- End of dropdown variables world map -->
 
         <!-- World Map -->
-        <div id="container1" style="height: 500px; width: 960px; display: block; margin: auto;"></div>
-        
+        <div class="row">
+            <div id="container1" style="height: 500px; width: 960px; display: block; margin: auto;"></div>
+            <div class="legend-map"></div>
+        </div>
+        <!-- End of world Map -->
+
         <!-- Explanation of the map -->
         <div class="explanation">
-            <h2 id="title-hpi" class="text-center"></h2>
+            <h3 id="title-hpi" class="text-center"></h3>
             <h5 id="under-hpi" class="text-center"> </h5>
             <div class="row">
                 <div class="col-md-6">
@@ -79,6 +84,12 @@ Sanne Strikkers
         </div>
         <!-- End of explanation of the map -->
 
+        <!-- footer -->
+        <footer>
+            Source: <a href="http://www.happyplanetindex.org/d">http://www.happyplanetindex.org/</a>
+            <br> Sanne Strikkers 11170816
+        </footer>
+        <!-- end of footer -->
     </div>
 
     <!-- DataMap -->
